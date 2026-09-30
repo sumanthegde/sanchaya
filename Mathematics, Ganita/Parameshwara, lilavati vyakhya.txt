@@ -1,0 +1,3757 @@
+﻿CRITICAL EDITION OF PARAMESVARA'S
+COMMENTARY ON LILAVATĪ
+Thesis submitted to the University of Calicut in partial fulfillment of the requirements for the degree of
+DOCTOR OF PHILOSOPHY IN SANSKRIT
+By
+ANIL NARAYANAN N.
+UNIVERSITY
+CALICUT
+DEPARTMENT OF SANSKRIT UNIVERSITY OF CALICUT
+2017
+
+DECLARATION
+I, Anil Narayanan.N, hereby declare that this thesis, Critical Edition of Parameśvara's commentary on Līlāvati, submitted in partial fulfillment for the Degree of Doctor of Philosophy in Sanskrit in the faculty of Language and Literature in the University of Calicut, has not previously formed the basis for the award of any Degree, Diploma or Fellowship or other similar title or recognition in this university.
+C.U.Campus
+.07.2017.
+ANIL NARAYANAN.N.
+
+Dr.N.K.Sundareswaran,
+Associate Professor and Head, Department of Sanskrit,
+University of Calicut.
+CERTIFICATE
+This is to certify that this thesis, Critical Edition of Parameśvara's commentary on Lilāvati, submitted in partial fulfillment for the degree of Doctor of Philosophy in Sanskrit in the faculty of Language and Literature in the University of Calicut, is a record of bonafide research carried out by Anil Narayanan.N under my guidance. It is also certified that this thesis has not previously formed the basis for the award of any degree, diploma or fellowship or other similar title or recognition in this university.
+C.U.Campus
+.07.2017.
+Dr.N.K.Sundareswaran (Supervising Teacher)
+
+Title
+Preface
+Abbreviations
+CONTENTS
+Page
+No.
+Part A
+1-28
+Parameśvara's commentary on Līlāvati
+Part B
+29-114
+Edition of Parameśvara's commentary on Līlāvati --
+Appendices
+1. Verses of Līlāvati cited by pratīka in PCL
+115-120
+2.
+Verses found as part of the commentary
+121-126
+3. Lilavati verses as found in Manuscript D
+127-132
+Select Bibliography
+133-134
+
+PREFACE
+Vaṭaśśeri Parameśvaran Nampūtiri's commentary on Līlāvatī is an unpublished Keralite work on Mathematics. As many as eleven Keralite commentaries on the Lilavati have been identified, five in Sanskrit and the rest in Malayalam. But apart from the Buddhivilāsini and Kriyākramakari commentaries, so far no other Sanskrit commentaries have been critically edited. The author, Parameśvara, a prolific writer, is one of the prominent figures in Kerala School of Mathematics. The present project aims at a critical edition of Parameśvara's commentary on Līlāvati.
+The works A History of Kerala school of Hindu astronomy and New catalogus catagorum provide first hand information on the commentary. Three manuscripts of the commentary have been documented in these works. Apart from these, during the course of research, two manuscripts were found in Tunchan manuscript repository, University of Calicut. Thus five manuscripts have been used for this present edition.
+The present thesis entitled Critical edition of Parmeśvara's commentary on Līlāvatī is designed in two parts. The first part throws light on the scope and importance of the commentary. The author, his time, other works, features of the commentary, critical apparatus, editorial scheme followed etc. have been discussed in this part. The second part is the critical edition of the commentary. Among the five manuscripts used, the transcript T has been taken as the base and the reasons for this has been explained detailed in the study part. Three appendices are given at the end followed by a select bibliography. Appendix - I contains the verses of Lilavati cited by pratika in the commentary. Appendix - II lists all the verses found as part of the commentary. As manuscript D contains, the full verses of some of the verses of Lilavati, this has been separately shown in Appendix - III.
+
+When the study takes its final form as a thesis, I find words insufficient in expressing my deep sense of gratitude to Dr. N.K. Sundareswaran my supervising teacher, whose kind help, timely evaluations and valuable suggestions made this a reality. I should thank Dr. K.N.N Elayath, the honorary director of Library, Adyar Theosophical Society for helping me in procuring the manuscripts from Adyar Library. The ten day workshop organized by Dr. Ramasubrahmaniam, Dr. S.Sriram and Dr. M.D.Srinivas at IIT Madras helped me to get into the subject.
+I should thank Prof. P.Narayanan Namboodiri and Prof. C.Rajendran for the inspiration they gave. I also remember the whole hearted support received from all other teaching and non-teaching staff of the Department of Sanskrit including Dr. K.K. Geethakumary, Dr. K.K.Abdul Majeed, Razzak, Aseema and Shakeela Kari.
+I would like to record my gratitude to University Grants Commission for funding the research. I would like to express my deep indebtness to Vrinda.P.M and Sreeja K.N who have helped me in data collection. I am thankful to my well-wishers Dr. Deepesh.V.K, Ramsakthi.A, Sarin.C and Rasmi.P. It was Dr. K.M.Anil, Dept. of Malayalam, University of Calicut who provided accommodation facility during the course of my research. I am beholden also to the authorities of Chinmaya University for sanctioning leave and giving support to finish this work. Thanks are due to my co-researchers for the moral support they provided during the course of my research. The prayers of my friends in and off the department, teachers and family members and their aspirations made me to complete this venture fruitfully.
+
+Dedicated to
+My Parents
+
+AHKSHA
+ABBREVIATIONS
+A History of the Kerala school of Hindu astronomy
+CKSL
+:
+Contribution of Kerala to Sanskrit Literature
+KK
+KUOML
+Kriyākramakari commentary
+Kerala University Oriental Manuscript Library
+Mbh.
+:
+Mahābhārata
+Ms.
+:
+Manuscript
+MGOS
+:
+Madras Government Oriental Series
+MU
+Madras University
+NCC
+PCL
+VVRI
+: New catalogus catagorum
+: Parameśvara's commentary on Līlāvati
+Visheshvarananda Vedic Research Institute
+
+PART - A
+PARAMESVARA'S COMMENTARY
+ON LĪLĀVATĪ
+
+CRITICAL EDITION OF PARAMEŚVARA'S COMMENTARY ON LĪLĀVATĪ.
+LĪLĀVATĪ
+Līlāvati (1150 AD) of Bhāskarācārya is the culminating point of a saga of mathematical activity in India. As is well known, it is one of the major portions of a greater work - Siddhāntaśiromaṇi,the other parts being bijagaṇita, grahagaṇita and goļādhyāya. Though the text Līlāvati is a small work having about 270 verses, it got a whole hearted welcome from the scholarly world in and outside India. The lucid way of expressing mathematical rules, abundance of examples, compactness in enunciation and the sweet sounding language etc. are the salient features of the text. The word Lilāvati means a treatise which has laudable lilā or entertainment. Moreover, as the text itself claims, the brevity and clarity of demonstrations attracts one and all. The wide popularity of Līlāvati can be well attested from the very large number of its manuscripts, in different scripts, found all over the land and from the wealth of commentaries written in Sanskrit and in other
+vernacular languages.
+COMMENTARIES AND TRANSLATIONS OF LĪLĀVATĪ
+In the abundance of commentaries, Līlāvati ranks with Bhagavadgitā and Kāvyaprakāśa. A number of commentaries and versions in regional languages like Kannada, Telugu, and Malayalam are available. Three Persian translations are also known. As per the instruction given by Mughal emperor
+1
+
+Akbar, on 1587 AD Abdual-Fayd Faydi had translated the text into Persian. A.K. Bag, in his work Mathematics in ancient and medieval India, has given a list of 40 Sanskrit commentaries on Līlāvati. (Bag, pp.30-32). As many as eleven Keralite commentaries on the Lilavati have been identified, five in Sanskrit and the rest in Malayalam by K.V. Sarma (Sarma, pp.162-63). Among these, commentary of Vaṭaśśeri Parameśvara (hereafter referred as PCL, c.1430AD) and Kriyākramakari (hereafter KK, c.1534) of Tṛkkuṭaveli Śankara Vāriyar and Mahiṣamangala Nārāyaṇa (who compiled the work after the demise of Śankara) are notable. According to R. C. Gupta, a well- known historian of Indian mathematics, the best traditional commentary is KK. Colebrooke suggests Buddhivilāsini (hereafter BV) as the best one. But it is worthy to note that all these scholars have not considered PCL before arriving at such conclusions; as PCL remains in the form of unpublished palm leaf manuscripts till date.
+PCL
+Keralite historians Ullur.S.Parameswarayyar (Keraļasāhityacaritram, pp.100-105), Vadakkumkur Raja Raja Varma (Keralasamskṛtasahitya- caritram, pp.378-383) and K.Kunjunni Raja (CKSL, pp.136-143) have mentioned about PCL. K.V.Sarma, in his work, A History of the Kerala School of Hindu Astronomy, has given references to PCL with exact manuscript numbers. He has given reference to three manuscripts of PCL - Travancore University Ms. no. 10614-B & Madras Government Oriental Library Ms. No. R.338/ R5160 and Adyar Manuscript Library Ms. no. 12796
+2
+
+(Sarma, p.138-39). Sarma names PCL as vivaraṇa. But it should be noted that neither the manuscripts of PCL nor any other work of Parameśvara gives the name vivaraṇa. NCC also has given references to these manucripts of KUOML and of MU (Vol. 11, p.190). Apart from these documented manuscripts, during the course of the research, the present editor has found two palm leaf manuscripts preserved in Thunchan manuscript repository, University of Calicut. Thus, five manuscripts of PCL have been used for the present edition. The aim of the present research is to prepare a critical edition of PCL using all these available manuscripts as such an attempt was never done before.
+AUTHORSHIP OF PCL
+The text begins with the benedictory verses
+लक्ष्मीभूविलसत्पार्श्वः सहस्रादित्यसन्निभः । ज्ञानमूर्तिरनाद्यन्तो हरिरिष्टं ददातु नः ।। प्रणमामि गणेशानं पार्वत्या अङ्कसंस्थितम् । वागीश्वरमपि तथा श्रीरुद्रं च कृपानिधिम्।।
+Having paid obeisance to Lord Hari, the commentator bows towards
+Lord Ganeśa who sits on the lap of Parvati. He then bows towards Rudra and Brahma. The very next verse gives the name of the commentator as
+निळायाः सागरस्यापि तीरस्थः परमेश्वरः ।
+व्याख्यानमस्मै बालाय लीलावत्याः करोम्यहम् ।।
+It has been stated that I, Parameśvara, who lives on the banks of river Niļā
+and (Arabian) sea, is composing the Līlāvati commentary for the benefit of
+3
+
+this kid. The intended kid in the verse is unknown. It may be Parameśvara's own child Damodara or may be anyone who has mastered all other śāstra-s except the science of Mathematics. Anyhow, this introductory verse of PCL itself is an internal evidence for fixing the authorship. The author has given similar references about his living place in several other works like Goladipikā. The authorship of PCL can be well assumed from the closing colophon as well.
+श्रीमद्रुद्रस्य शिष्येण लीलावत्याः कृतं मया । परमेश्वरनाम्नैवं व्याख्यानं हरये नमः ।।
+Besides, while enunciating the formula to find the arc length of the given chord, he states that this has been already been discussed by him in his siddhāntadipikā commentary of Mahābhāskariya as
+महतो भास्करीयस्य व्याख्यायां लिखितं मया। सिद्धान्तदीपिकाख्यायां कर्मज्याधनुरादिकम्।।
+Thus, from the two aforesaid verses, ample internal evidence can be seen to fix that PCL is the work of a disciple of Rudra, who lived on the banks of (Arabian) sea and Niļā river and who composed the Siddhāntadīpikā commentary of Mahābhāskariya. This is none other than Vaṭaśśeri Parameśvaran Nampūtiri.
+THE COMMENTATOR:
+The commentator Vaṭaśśeri Parameśvaran Nampūtiri (1360-1455 AD) has authored more than twenty works including independent works, commentaries and super commentaries. As in the case of many other Kerala
+
+Mathematical works, those of Parameśvara were also hidden in the form of manuscripts for about four hundred years. It was in 1874 AD, that H.Kern initially took a venture to publish the work of Parameśvara from Leiden, Holand. He brought to light Parameśvara's commentary on Aryabhaṭīya viz, Bhaṭadipikā. But, Kern was unaware about the other works and date of Parameśvara. Most of the other works of Parameśvara were published during 1940-60 by K.V.Sarma, Ganapati Sastri and Gangadhar Bapurav Kale from Punjab, Trivandrum and Pune respectively. The works of Parameśvara are enlisted here.
+1. Drgganita
+2. Goladipika
+3. Grahaṇamandana
+4. Grahaṇanyāyadipika
+Independent Astronomical treatises
+5. Grahaṇāṣtaka“
+7
+6. Vakyakarana
+7. Bhaṭadipika
+8. Pārameśvari commentary on Laghubhāskariya'
+10
+9. Karmadipikā commentary on Mahābhāskariya' 10. Bhāṣya on the Mahābhāskariyabhāṣya of Govindasvāmin"
+12
+11. Commentary of the Laghumānasa of Muñjaļa12
+13
+12. Commentary on Līlāvati1 13. A gloss on his own Goladipikā14
+14. Commentary on Sūryasiddhānta'
+15
+5
+Commentaries
+
+15. Acārasamgraha
+16.Jātakapaddhatih"
+16
+17. Commentary for the Muhurtaratna of Govinda'
+18. Commentary for the Jātakapaddhati of Śripati19
+18
+Astrological works
+19. Commentary for the Praśnaṣatpañcāśikā of Pṛthuyaśas
+20
+20. Muhurtāṣtakadīpikā
+21. Vākyadīpikā
+Works need to be unearthed21
+22. Bhādīpikā
+It is evident that Parameśvara is a prolific writer. The number of works and the depth of the subject he dealt with might have inspired Ullur to state that 'Parameśvara is the most erudite-scholar the world ever has seen'.?
+, 22
+LIFE OF PARAMESVARA:
+Parameśvara indicates his birth place in PCL and also in the
+concluding verse on Suryasiddhānta commentary as
+niļāyāḥ sāgarasyā’pi tīrasthaḥ parameśvaraḥ /
+vyākhyānamasmai bālāya līlāvatyāḥ karomyaham // (PCL);
+niļāyāḥ saṁgamāt saumye sthitena paramādinā / siddhāntam vivṛtam samyak iśvareṇedamalpaśaḥ // (Suryasiddhanta comm.)
+From the verses, it is evident that Parameśvara lived on the conjunct
+where river Nilā meets (Arabian) Sea. It is pertinent to note that paramādinā
+6
+
+is the adjective of iśvarena. Hence, paramādinā īśvareņa means iśvara preeceeded by parama i.e, Parameśvara. Such metrical compositions to maintain conformity with the rules of prosody can be seen in the other works of Parameśvara as well. e.g, at the end of Grahaṇanyāyadīpikā the following verse is found.
+paramādīśvareṇaiṣā ślokānām nyāyadīpikā /
+kṛtā pañcayutāśītyā sevyatām gaṇakottamaiḥ //
+Not noticing this fact, in his edition of Aryabhaṭīyabhāṣya, H.Kern has given the author's name as Paramādīśvara.23 In his commentary on Vākyakaraṇa, Sundararāja has recorded the house name of Parameśvara24. Mahiṣamangalam Sankaran Nampūtiri, in his Bālaśaṁkara commentary on Kāladīpikā has also pointed that the house name as Vaṭaśreņi (In Malayalam, Vaṭaśśeri)25. From Goļadīpikā2 and Grahaṇamaṇḍana”, it can be read that Parameśvara was a Ṛgvedi brahmin of Bhrgugotra. Keļallūr Nilakantha Somayājin, a disciple of both Parameśvara and his son Damodara, has recorded that Parameśvara was a resident of Asvattha village28 (In Malayalam, Ālattiyūr). K.V. Sarma has misunderstood Ālattiyūr as the Malayalam equivalent of Vataśreni.
+29
+On the 91st verse of Goļadīpikā, Parameśvara has given the location of
+his village with actual latitude and longitude-
+samarekhāyāḥ paścāt aṣtādaśayojanāntare grāme svarakṛtaṣat(647)
+tulite 'kṣe vasatā......
+7
+
+Parameśvara's grandfather too was an astronomer and was a pupil of
+Govinda who composed Muhurtaratna. This fact has been recorded by Parameśvara himself in his Acārasamgraha and in his commentary on
+30
+Muhurtaratna3°. In short, the commentator Parameśvara was a Ṛgvedi brāhmin of Āśvalāyana sūtra and Bhṛgu gotra. He was the grandson of the disciple of Govinda. He was born in a village called Ālattiyūr where river Nilā meets the Arabian Sea. It is 18 yojana-s west to the Central (Ujjain) meridian and has a Sine latitude of 647, corresponding to 10°-51'N latitude. (This place has been identified near to the Trpparańňoṭṭu temple of Ālattiyur of Malappuram, Kerala). But, at present, no remains of his house Vaṭaśreni are left here.
+DATE OF PARAMESVARA
+The date of Parameśvara is known as he himself has left some proofs. The date can be inferred with a fare degree of definiteness. The date of compositions is given in at least two of his works. His Drgganita was written in śāka 1353 corresponding to 1431 AD and his Goļadīpikā II in śāka 1365 corresponding to 1443 AD. Besides, his pupil Nilakanthasomayājin refers to an astronomical observation made by Parameśvara in Kali 4536 corresponding to 1445AD. Based on this information, K.V.Sarma has given the date of Parameśvara as 1360-1455 AD, which is well acceptable. (Sarma, pp.52-54)
+8
+
+TEACHERS OF PARAMEŚVARA:
+Parameśvara has several times mentioned about his teacher Rudra with
+32
+great respect31. Kelallur Nilakantha Somayajin has recorded that Parameśvara, on his childhood itself, learnt the lessons of Mathematics and spherics under the tutelage of Madhava, Rudra and Narāyaṇa32. Of these, K.V.Sarma identifies Madhava with Sangamagrāmamādhava (1340- 1425AD) who composed Veṇvāroha. Parameśvara mentions his teacher Rudra in several of his works. The introductory verse to his Vākyakaraṇa
+runs as
+pūjyapādasya rudrasya śisyo'yam parameśvaraḥ /
+karoti vākyakaraṇam vākyāvayavasiddhaye //
+PCL also attests Rudra as the teacher of Parameśvara. (verse no.65)
+THE LONG PENANCE OF 55 YEARS AND THE ECLIPSE OBSERVATIONS:
+Drgganita has been evaluated as the magnum opus work of Parameśvara. Periodical revision of calculations is one of the major features of Kerala School. The Parahitā system, introduced on the 28th day of Māmāṁkā festival held on 683 AD, was modified by Drggaṇita. Parameśvara claimed that the eclipses are seen long before the time calculated as per Parahitā system3. For composing Drgganita, Parameśvara observed the eclipses for 55 years. Even scholars like Ullur, neglected this penance like
+9
+
+research saying it as a myth; whereas the writings of K.V. Sarma proved that it was part of history33.
+In Drgganita, Parameśvara records the points only where he disagrees with Parahitā system. The Drk system was later widely used for Jātaka and Praśna . Parahita system was converged to fix the appropriate muhurta. In his Siddhāntadīpikā commentary on Mahābhāskariya, Parameśvara has elaborately given the details of the eclipses he had observed. He has stated that he commenced his observations on Śaka year 1315 and Kellallūr Nilakaṇṭha Somayājin has recorded that Parameśvara observations continued till Śaka 1445. Thus, it can be safely assumed that the 55 years of observation is not part of a myth. In modern times, scientist like K.Chandrahari wonders on the accuracy that Parameśvara made on these ecliptic observations37.
+FEATURES OF PCL
+1. Style of Writing
+It can be stated that PCL is a simple and clear exposition. Unlike KK, PCL does not include sangrahaśloka-s. The clear cut style of writing obviously reduces the complexity of the subject matter. Usually, after stating the introductory part of the verse, the verse will be commented upon. The verse order and readings of PCL is more in conformity with that of KK and not with BV. Though PCL follows the usual readings of Lilavati, there are occasions in which it gives entirely variant readings. e.g,
+10
+
+PCL reads
+नवान्वितस्थानकसङ्ख्यकाया
+योगे कथितं तु वेद्यम् ।
+संक्षिप्तमुक्तं पृथुकार्यबीजं विद्वज्जनेष्टं गणितार्णवस्य ।।
+भेदान्वितस्थानकसङ्ख्या न जाते
+ऊनेङ्कयोगे कथितं तु वेद्यम् । संक्षिप्तमुक्तं पृथुकार्यबीजं
+विद्वज्जनेष्टं गणितार्णवस्य ।।
+6
+taduktam
+Here the first line of PCL is not in conforming to the metrical rules. The commentators of KK have profoundly quoted from PCL. They have frequently expressed their respect with a phrase parameśvarācāryeṇa' But there are many portions like vargakarmaviśeṣa (variety of methods for finding the square root) where KK is indebted to PCL but remains quiet in citing the source. Many of the verses in the vargakarmaviśeṣa portion of KK can be traced back in PCL. In PCL, many of the derivations have not been made on the background of geometry unlike in KK and other Malayalam commentaries. Hence, there are no figures drawn out in PCL.
+2. Abundance of examples and the charm of illustrations
+There are about fifty verses composed by Parameśvara while commenting Līlāvatī. KK and other Malayalam commentaries usually explain the said-examples of Līlāvati. But Parameśvara, on the other hand, has given variety of illustrative examples of his own. He does not consider the verses of examples seen in Līlāvati. Most of these examples demonstrate
+11
+
+the qualities of head and heart of the commentator as well. eg, On shadow problems, while elucidating the karaṇasūtra to find the distance between the base points (verse no.142), he gives the following verse as an illustrative example
+सौम्ये भागे निलाया वृषभवनमिति क्षेत्रमब्धेस्तटे स्यात् तस्मिन्नेकत्र पोतध्वजशिरसि लसद्दीपजाता प्रभा तु । शङ्कोरर्काङ्गुलस्य द्विशरनगसमा सप्तहस्तान्तरे स्या-
+द्यूना सा पोतमार्गप्रमितिमिह सखे ब्रूहि दीपोन्नतिञ्च।। (प.५६)
+Such kinds of beautiful poetic flight are not SO common in other commentaries of Līlāvati. Just as the author, the commentator was also keen in infusing poetic qualities to the verses. The cited example points to the native place (near Nilā) of the commentator as well.
+3. Use of Bhūtasaṁkhyā system of numeral notation
+Usually, the Kerala School of astronomers and mathematicians were adhered to kaṭapayādi system of numeral notation to express numbers. Starting from the Grahacaranibandhana of Haridatta, most of the followers used kaṭapayādi for numeral notation. But in PCL, one can not find the use of kaṭapayādi system whereas Bhūtasaṁkhyā notation has profoundly been used. As seen in the examples
+राश्योर्घातो लघुत्र्यंशरहितः शक्रसम्मितः ।
+द्विसङ्ख्यस्यात्तयोर्भेदो वद तौ वत्स वेत्सि चेत् ।। (प.३७)
+Here, by the word Śakra ( indra), the number 14 is intended.
+12
+
+4. Citation of other works of the same author.
+Not many works of Parameśvara have been quoted in PCL. But it is pertinent to note that in PCL, Parameśvara has mentioned about his Siddhāntadīpikā commentary of Mahābhākariya . While explaining the Līlāvati verse to find the arc length of a given chord he states that this has been already explained in Mahābhāskariya commentary. (verse no.58 ). Also while explaining examples kuṭṭaka method, he has stated that 'as this has been already explained in detail in the praśnādhyāya of mahābhākariya vyākhyā, I am not going to explain this anymore' (p. 115). Thus it is pretty clear that PCL was composed after the composition of Siddhāntadīpikā. This should be taken in to account while fixing the chronology of Parameśvara' s
+works.
+5. Presentation of Rationales (upapatti-s)
+The role of mathematical commentaries is not just explaining the basic text but sometimes they also offer the rationale of formulae and procedures. The commentaries on Līlāvati can be classified into two based on their
+purpose.
+(i) Some commentaries interpret each word or sentences in Lilavati. Pāramparyopadeśa on gaṇita is not a prerequisite in composing such commentaries. They are known as Mādhyamika ṭīkā-s. Mahidhara's Līlāvatī vivaraṇa can be cited as an example to this class.
+13
+
+(ii)
+Along with etymology, some commentaries show the methods for solving the mathematical puzzles on Līlāvati. They also supplement the upapatti-s. Here, pāramparyopadeśa is a prerequisite and such commentaries are known as praśasyatara ṭīkā-s. The Buddhivilāsini is an example to this class.
+commentary of Ganesadaivajña
+(Dattatreya, p.9).
+It has been observed that PCL does not introduce much new mathematical material compared to KK (Saraswati Amma, p.11). Though the statement is true, it should be noted that PCL has given upapatti-s at least in two instances. In fact, all the mathematical commentaries of Parameśvara contain upapatti in fully or partly. The Laghubhāskariyavyākhyā, Laghumānasavyākhyā etc. can be cited as examples and PCL is not an exception to this.
+While explaining the way to find the altitude (which is the perpendicular from the vertex to the base) and the way to find the area thereby, Parameśvara comments (p.75 ) लम्बानयने उपपत्तिस्तु पार्श्वगतयोः भुजाख्ययोः कर्णयोरेक एव लम्बः कोटिः स्यात् । भुजे तु तयोराबाधाख्ये भूखण्डे भवतः। Again, while elucidating the method to find the area of a rectangle he states the logic 3 विदितकर्णार्द्धस्य अश्रस्य च वर्गान्तरं अविदितकर्णार्धस्य वर्गः स्यात् । स चतुर्गुणः कर्णवर्गः स्यात्। समस्तकर्णवर्गोना चतुर्गुणबाहुकृतिः अपि तत्तुल्या स्यात् इति इह युक्ति:। (p.78). Thus, PCL elucidates the upapatti-s or the methods and logic behind the arrived-at results and may be included in the second type (praśasyatara) of
+commentaries.
+14
+
+6. Observations on Variant Readings and interpolations
+The commentator has noticed some variant readings and has suggested proper variants. e.g., in the very first customary invocation of Līlāvati, the words lalitya and līlāvatim are taken as two distinct words usually. But here Parameśvara notes केचिच्छब्दशुद्ध्यर्थं लालित्यलीलावतीमित्येकं पदं कृत्वा वदन्ति किल । तत्राप्यतिप्रसादो नास्मन्मनसि वर्तते । He was more objective and did not allow his subjectivity on making comments on variant readings. But, at the same time, he has given suggestions on interpolations. To cite an instance, when commenting upon the formula to find the area of a quadrilateral (verse no. 112), Parameśvara notes एतत् प्रक्षिप्तमिति केचित्. If a scalene quadrilateral is cyclic and its sides are given, then its diagonals can be calculated. By praising Brahmagupta, Bhaskara-II has also given a formula in this regard (verse no. 116), which Parameśvara thinks as a later interpolation. These observations of Parameśvara on interpolations should be taken into account for the study of textual distortion of Lilavati.
+7. Supplementing optional/extended Karaṇasūtra-s
+One of the main features of PCL is that it occasionally suggests alternative/extended karaṇasūtra-s. To cite an example, while explaining the formula to find the number of terms of an Arithmetic progression (verse no.79), Parameśvara suggests
+श्रेढीफलादुत्तरनागनिघ्नाच्चयादियुग्मान्तरवर्गयुक्तात्।
+मूलं द्विवक्त्रोनमथोयुतञ्च चयेन गच्छं द्विचयोद्धृतं स्यात्।। इति वा सूत्रम्।
+15
+
+Again, while explaining the method to find the second diagonal of a
+quadrilateral (verse no. 111), he gives an additional karaņasūtra-
+लम्बघ्न एकांशबाधाभेदो लम्बैक्यभाजितः । निजस्तल्लम्बवर्गैक्यपदयोर्वा युतिः श्रुतिः । । इति वा सूत्रम्।
+To find the nth term and sum of n terms of an arithmetic progression (AP), he
+gives the formula
+चयनिहतं पदं चयार्द्धहीनं मुखसहितं यदस्य वर्गितं तु । चयदलवक्त्रभेदवर्गहीनं द्विचयहतं भवेद्धनं तु सर्वम्।। (प.४८)
+8. Precise Definitions of Technical terms
+While reading a text like Līlāvati, the main hindrance a reader faces is
+the lack of acquaintance with technical terms. Many of these technical terms have very precisely been defined in PCL. While defining the technical term gaccha (the number of terms of an AP) PCL reads गच्छशब्देन पदमुच्यते (p.60). Similarly the following words have precisely been defined:
+(i)
+(ii)
+bhūmi & mukham (base & top side of a plane figure) चतुर्भुजे अधःस्थितो बाहुर्भूमिरिति कथ्यते। उपरिस्थितो मुखमिति (p. 77)
+lambam (altitude) उपरिगतकोणद्वयात् भूमाववलम्बितं सूत्रद्वयं लम्बमित्युच्यते (p.77)
+(iii) jātyam (rational) यस्मिन् क्षेत्रे क्षेत्रफलं निरवयवं भवति तज्जात्यमित्युच्यते
+(p.68).
+16
+
+9. Fund of Information on Mathematical Findings.
+Rule For The Circumradius of A Cyclic Quadrilateral.
+A cyclic quadrilateral or inscribed quadrilateral is a quadrilateral whose vertices all lie on a single circle. This circle is called the circumcircle or circumscribed circle. The centre of the circle and its radius are called the circumcentre and the circumradius respectively.
+B
+ 
+
+
+
+
+In the given cyclic quadrilateral ABCD, OD (=OB) is the circum radius which obviously is the radius of the circle. AB, BC, CD and AD are the sides of the cyclic quadrilateral. If these sides are given, the cirucm radius can be determined using Leuiler's formula.
+It is worthy to note that in PCL, Parameśvara has stated the rule for the circumradius of a cyclic quadrilateral explicitly. This expression for the circumradius of a cyclic quadrilateral in terms of its sides, usually attributed to Lueiler was published in 1782. But the result had been anticipated by Parameśvara 350 years earlier. KK edition contains this verse for circum radius and it also describes the upapatti. This result of Parameśvara in KK has been noted by historians like T.A.Saraswati Amma (Saraswati Amma, p.108) and R.C.Gupta. The verse runs as follows.
+17
+
+aloni gulgulvafayalai fayui a& एकैकोनैतरत्रैक्यचतुष्कवधभाजिते ।
+लब्धमूलेन यद्वृत्तं विष्कम्भाद्धेन निर्मितं सर्वञ्चतुर्भुजक्षेत्रं तस्मिन्नैवावतिष्ठते।। (प.४९) इति
+The verse has been translated as follows
+66
+The three sums of the products of the sides taken two at a time are to be multiplied together and divided by the tetrad formed by diminishing one (of the sides) at a time from the sum of the other three. If a circle is drawn with the square root of the quotient (just obtained) as semi-diameter, the whole quadrilateral figure will be located therein" (Gupta, p.6)
+i.e, If the sides of the cyclic quadrilateral are a, b, c and d and if a circle is drawn with a radius r, provided
+r=
+Root of (ab + cd)(ac + bd)(ad +b:) |(a+b+c-d)(b+c+d− a)(c+d+a−b)(d+a+b−c)
+Then, the whole quadrilateral will be located in the circle itself.
+CRITICAL APPARATUS
+The following table is a complete list of the manuscripts that have been used for the current edition. In the present descriptive list of manuscripts, there are nine columns. The first column is the serial number. The last column contains the detailed remarks about the condition of the manuscript and the details regarding whether the text is complete or not etc. The remaining columns contain the title, the manuscript number as is given in the outer cover of the manuscript, size of the manuscript, number of folios, script, average lines per folio and average letters per line.
+18
+
+Size in
+No.
+Title of the Manuscript
+Mss.
+Institution
+c.m.
+No.
+Folios
+Script
+Line
+Letters/l
+ine
+1.
+Lilavati (A)
+Adyar Library
+12796 30.4x4
+47
+Mal.
+10
+50
+2.
+Lilavati (B)
+KUOML
+10614B 25x3.5 72
+Mal.
+8
+40
+40
+3.
+Līlāvativyākhyā University 498B 27.4x3.9 72
+Mal.
+9
+(C)
+of Calicut
+4.
+(D)
+Līlāvativyākhyā University 887B 48.5x5.7 9
+of Calicut
+55
+55
+Mal.
+10
+71
+Remarks
+Complete; but all mathematical parts
+are missing.
+Plenty of scribal errors
+Physical condition is good & readable
+Complete
+Physical condition is good & readable
+Complete
+Physical condition is good & readable.
+Incomplete
+Up to Pañcaraśika
+Physical condition is good but readable
+5.
+Lilavati (T)
+MGOML R5160 27x19
+86
+Sanskrit 16
+30
+Complete
+19
+Physical condition is not so good but readable
+
+Among the five noted manuscripts of PCL, four are palm leaf
+manuscripts and one is a paper manuscript (transcript). As has been stated, manuscripts of PCL are made available from the various manuscript libraries of South India. Thunchan manuscript repository of University of Calicut preserves two palm leaf manuscripts of PCL (designated as C & D). One palm leaf manuscript was found in Adyar manuscript library, Madras (designated as A). Oriental Institute of Manuscripts Library, Thiruvananthapuram preserves one palm leaf manuscript (designated as B) and the Government Oriental Manuscript Library Madras preserves one transcript (designated as T). The present critical edition of PCL is based upon the collation of these four palm leaf manuscripts and one paper transcript. Thus, for later reference, these are designated by the sigla A, B, C, D and T correspondingly. The descriptive details of the manuscripts are given below.
+A (12796)
+This is a palm leaf manuscript of 47 folios with the size of 30.4 x 4 cm. The text is in Malayalam script. Though the text has been written in legible handwriting and the manuscript is in a fairly good condition, many important portions of the commentary are missing; especially the portions on calculations. Besides these lacunae, the optional karaṇasūtra-s suggested by the commentator are also found missing. The manuscript is not free from corrupt readings, probably due to the scribe's ignorance of the subject. Transference of passages has crept in. Compared to B & C, it is highly
+20
+20
+
+erroneous and is full of haplographical omissions. Each side of the leaves of the manuscript contains 7 lines and each line has 50 letters approximately.
+B (10614B)
+This is a palm leaf manuscript which is in fairly good condition. The size of the manuscript is 25 x 3.5 cm. It has 72 leaves with 8 lines on each side of the leaves and the each line comprises of 40 letters. The script used is Malayalam and the handwriting is legible. But it doesn't show any date or details of the scribe. This manuscript has been compared with C for the edition of the text.
+C (498B)
+This is a palm leaf manuscript with size 27.4 x 3.9 cm. It covers the whole text in 72 leaves. The other works found in the same codex are Siddhāntakaumudi (498A, 8 leaves) and the text Līlāvatī (498B, 51 leaves). Handwriting in PCL is legible and the script used is Malayalam. Each side of its leaves has 9 lines and each line contains 55 letters. The text contained herein is generally pure. Both the texts B & C have common readings and can be assumed to be from a common origin. It carries, at the end, a post- colophonic statement ‘kollam 1--3 pukku cingam -8 velliyāzhcca makiravum aparapakṣattil aştamiyum kūṭiya divasam ezhutiyat'.
+D (887B)
+This is a palm leaf manuscript of the size of 48.5x5.7 cm. Though this palm leaf is the biggest in size, it is an incomplete text. The manuscript
+21
+
+comprises of 9 leaves only. But in this manuscript, Līlāvati has been commented after giving the full verse; whereas in all other manuscripts, only the initial portion of Līlāvati verses are given. All the full verses found in manuscript D are shown in Appendix III and are indicated in footnotes. Manuscript D contains portions up to Pañcarāśika. But the codex contains KK commentary (133 leaves) as well. Each leaf of PCL has 10 lines and each line comprises almost 71 syllables. The handwriting is legible. Malayalam script is used.
+T (R-5160)
+This is a paper transcript. The size of the page is 27 x19cms and there are 86 pages. In every page there are 16 lines and each line contains about 30 letters. The work is complete and the condition of the transcript is good and legible. The text has been written using black ink. There is a colophon at the end of each part of the commentary. At the close, it carries the post- colophonic statement "transcribed in 1925-26 from a manuscript of Isvara warrier, Kavalappara, via Shornur, Malabar". A date 24-9-1925 is found at the end. This may be the date of the completion of writing the transcript. The scribe names himself as N. Parthasarathi acharya.
+It should be noted that the same scribe Parthasarathi acharya has copied Yuktibhāṣa text in Sanskrit and the editor of Ganita-yukti-bhāṣa has also noted the name of this scribe. Gaṇita-yukti-bhāṣa has been copied on 1923-24 from a palm-leaf manuscript with the Raja of Chirakkal (Malabar) and hence during those periods, a key role must have been played by this
+22
+
+scribe Parthasarathi acharya in transcribing mathematical texts. This indeed
+deserves further studies.
+EDITORIAL SCHEME
+As the aim of the present edition of PCL is to present a critical text of the work based on all the available manuscripts, the genealogy of the manuscripts has to be fixed. The two codices B & C of PCL are apparently of mutually dependent transmissions. Errors, wrong additions, omissions and transpositions are common in them. A, D & T belong to three different genealogies. Though the manuscript D seems to be the oldest and free of errors, in the present edition, the transcript T has been taken as a model and the variant readings found therein are recorded as footnotes. The text T is selected as it has grammatically correct forms and/or corresponds better to the Sanskrit text. The correct deciphering of obscure words can be determined only by a person who will be able to read old Malayalam script and who is quite familiar with the text Lilavati. The PCL, being a work of technical nature, involves considerable mathematical calculations. Hence, there has always been the necessity of checking and verifying the calculations as presented in the manuscripts. At times, the scribes of the manuscripts (especially of A) have omitted and often erred. However, despite the above- said limitations, the text has been edited for the first time. The absence of punctuation marks in the manuscripts sometimes poses certain problems while editing the work. Besides, the Malayalamised Sanskrit in the manuscripts often causes inconvenience as it lacks space between words and
+23
+
+leaves no stops after sentences. But, while editing, the words have been separated for the sake of supplementing variant readings as footnotes. Besides, in the present edition, the samhitā rules have been strictly followed in the cases of verses and sometimes violated in the case of prose portions. This is for the sake of supplementing pāṭhabheda-s. The numerical symbols found in Malayalam have been converted into Sanskrit. Emendations have been done and the wrong readings have been set aside as footnotes. Punctuation is entirely editorial. The use of anusvāra has been standardised. The verses of Lilāvatī has been texted in bold for the better understanding of the reader and all these verses of Līlāvatī are continuously numbered. At the end, all these numbered verses have been given as Appendix-I. The editor believes that this will help in understanding the textual tradition of Līlāvatī in Medieval Kerala. The Kerala version of the text Līlāvati can be well assumed from Appendix-I and of course with the help of KK and other Malayalam commentaries. Besides these, PCL contains commentator's own verses as well. Many of these verses can be found in the later Malayalam commentaries of Līlāvati and in KK. Some of these verses may belong to the oral tradition of Kerala School of Mathematics and not to a particular author. There is the possibility that the later authors may have quoted Parameśvara without reference. But unless and until it is proved to be not related to Parameśvara, all these verses can be ascribed to Parameśvara himself as no references of these verses are found prior to Parameśvara. Some of the verses of Parameśvara have been quoted in KK and the commentator has given reference to Parameśvara with due respect. K.V. Sarma, who edited KK, has
+24
+
+given an appendix for the untraced quotations found in KK. With this edition of PCL, many of these untraced quotations of KK can be traced. In the present edition, most of these passages have been traced and indicated in footnotes. All the verses of Parameśvara appearing in PCL have been numbered as ч.2, 7.2 etc. and shown in Appendix-II. The full verses found
+in manuscript D are listed in Appendix III. It is believed that all these appendices will enhance the reference-worthiness of the edition.
+25
+
+END NOTES
+1
+Līlāvatī with Kriyākramakari commentary, Vishesharanand Vedic Research Institute, Hoshiarpur, 1975.
+K.V. Sarma (ed.), Drgganita of Parameśvara, VVRI, Hoshiarpur, 1963.
+2
+3
+K.V. Sarma (ed. & Tr.), The Goladīpikā by Parameśvara, The Adyar Library and Research Institute, Adyar, 1957.
+4
+K.V. Sarma (ed.), Grahanamaṇḍana, VVRI, Hoshiarpur,1963.
+5
+6
+K.V. Sarma (ed. & Tr.), The Grahaṇanyāyadīpikā, The Kuppuswamy Sastri Research Institute, Mylapore, 1966.
+K.V. Sarma (ed. & Tr.), Grahaṇāṣtaka of Parameśvara (Octad on eclipses), The MGOS, Mylapore, 1966.
+Manuscript No. C-133A KUOML, Trivandrum.
+7
+8
+H. Kern (ed.), Bhaṭadīpikā, Leiden, 1874.
+9
+Gangadhar Bāpūrāv Kāle (ed.)
+10
+11
+12
+13
+14
+15
+16
+Parameśvaravyākhyāsamvalitam
+Laghubhāskariyam, Anandaśrama Sanskrit Series, Puna, 1946.
+Gangadhar Bāpūrāv Kāļe(ed.) Karmadīpikā, Ānandaśrama Sanskrit Series, Puna, 1945.
+T.S. Kuppanna Sastri (ed.), Siddhāntadīpikā, MGOS, 1957.
+Gangadhar Bāpūrāv Kāļe(ed.) Parameśvaravyākhyāsamvalitam Laghumānasa, Anandaśrama Sanskrit Series, Puna, 1946.
+Manuscript No 10614-B, KUOML, Trivandrum; which is now edited
+K.V. Sarma (ed.), Goļadīpikā, Adayar Library and Research Centre, Madras, 1957.
+Manuscript No 8358-J, KUOML, Trivandrum; Manuscript No. R 3730, Government Oriental Manuscript Library, Madras.
+Ceruvalli Nārāyanan Nampūtiri(comm.), Acārasamgraha, Daivajña Parișat, Calicut, 2012.
+17
+K.S.Menon (ed.), Jātakapaddhati, Vañci Setulakṣmi Granthāvali, Trivandrum.
+18
+Manuscript No.Du. 144, KUOML, Trivandrum.
+19
+Manuscript No.CM 665, KUOML, Trivandrum.
+20
+21
+Manuscript No. 5963, KUOML, Trivandrum.
+At the concluding part of Mahābhāskariyabhāṣya, Parameśvara claims that these works were composed by him.
+26
+26
+
+222
+23
+24
+25
+25
+26
+26
+27
+muhūrtāṣtaka-siddhānta-vākya-bhā-nyāyakarmaṇām/
+dipikām golabhaṭayoḥ cakāra parameśvaraḥ//
+Ullur, Vol. II, p.114.
+H. Kern, op.cit, p.i.
+T.S. Kuppanna Sastri and K.V.Sarma (ed.), Vākyakaraṇavyākhya, KSRI, Madras, 1962.
+"pantu drgganitam camacca parameśvaravaṭaśśerikku patināruvayassil tante acchan nate veṭṭa amma mariccu dīkṣayuṇṭāyi."
+niḍāyāḥ soumyatire’bdeḥ kūlasthaḥ parameśvaraḥ
+samkṣepat golasthānam vakti bālāya bhārgavaḥ
+parameśvareņa racitam dvijena
+aśvathagrāmajo bhārgavaḥ siddhāntadīpikāyām prāha
+K. Kunjunni Raja, op.cit,p.27
+28
+29
+30
+pituḥ piturme gururagrajanmā
+31
+32
+33
+govindanāmā bhuvi viśruto yaḥ/
+tenodito yo gurupaṁktito mām
+prāptaḥ sa ācāra iha pradiṣtaḥ||(Ācārasamgrahaḥ 31-5)
+vyākhyā tasyā mayā krtā laghutarā rudraprasādāditi.(Siddhāntadīpikā) parameśvarastu rudra-parameśvarātmajanārāyaṇa-mādhavādibhyo goļavidbhyo ganitagolayuktīrapi bālye eva gṛhītvā tebhya eva kriyamāṇaprayogasya drgvisamvadam tatkāraṇam cāvadhārya śāstrāṇyapi bahunyālocya pañcapañcāśatvarṣakālam nirīkṣya grahaṇayogādiṣu parīkṣya samadṛggaṇitam karaṇam cakāra.(Āryabhaṭīyabhāṣya, Golapāda, Verse 48)
+“evam drggaṇitam śāke tṛīṣuviśva(1353)mite kṛtam”
+"...sake 'kṣaṣaṭcandr(1365)amite
+goladipikā racitā❞
+34 K.Kunjunni Raja, loc.cit.
+235
+35
+36
+377
+parmeśvaranāmneyam
+arkendorgrahaṇam yasmāt gaṇitātītakālataḥ
+vadanabhuvā
+prāgeva drśyate sarvadeśe'pi grahaṇam tayoḥ (Ācārasamgraha 31-8)
+K.V.Sarma, anpattañcukollatte tapassu, Mathrubhumi weekly, October 7, 1956, p.29.
+K. Chandrahari, Eclipse observations of Parameśvara, Indian Journal of History of Science, Vol. 36, 2003.
+27
+
+38
+K.V. Sarma (ed.), Lilāvati of Bhāskarācarya with Kriyākramakari Commentary, VVRI, Hoshiarpur, 1972.
+of Mathematics,
+39
+Mac Tutor History
+andrews.ac.uk/Biographies/Paramesvaran.html.
+http://www.history .mcs.st-
+28
+
+PART - B
+CRITICAL EDITION OF PARAMESVARA'S COMMENTARY ON
+LĪLĀVATĪ
+
+श्रीः
+।। लीलावतीव्याख्या' ||
+हरिः श्रीगणपतये नमः।। अविघ्नमस्तु ।। अविघ्नेन परिसमाप्तिर्भूयात् ।।
+लक्ष्मीभूविलसत्पार्श्वः सहस्रादित्यसन्निभः ।
+4
+ज्ञानमूर्तिरनाद्यन्तो हरिरिष्टं ददातु नः' ।। (प.१)
+प्रणमामि गणेशानं पार्वत्या अङ्कसंस्थितम् ।
+वागीश्वरमपि तथा' श्रीरुद्रं च कृपानिधिम् ।। (प. २)
+निळायाः सागरस्यापि तीरस्थ: परमेश्वरः ।
+व्याख्यानमस्मै बालाय लीलावत्याः करोम्यहम्।। (प. ३)
+8
+तत्र तावदयमाचार्यः 7 इष्टदेवतास्तुतिपूर्वकं चिकीर्षितमाह- (१) प्रीतिमिति सद्गणितस्य पार्टी - विचित्ररूपस्य गणितस्य परिपार्टी प्रकारं लीलावतीं" लीलावतीसंज्ञितां
+11
+वच्मि—1। लालित्य- लालयित्वेत्यर्थः। केचिच्छब्दशुद्ध्यर्थं लालित्यलीलावतीमित्येकं पदं कृत्वा वदन्ति किल। तत्राप्यतिप्रसादो नास्मन्मनसि वर्तते ।
+1 A, B, C & D omit
+2
+A, B, C & D omit
+3
+A, B & D omit
+4
+A omits
+5
+The metre does not conform to the rules of anustub. However in Mbh., this kind can be
+seen.
+6 T & D नीळाया: (wrong)
+7
+ा तावदाचार्यः
+8 See appendix III, verse no. 1
+9
+A omits
+10
+A omits
+11
+T & Comit
+29
+29
+
+16
+15
+अथ व्यवहारसिद्ध्यर्थं पणादिद्रव्यसंज्ञामाह - (२) वराटकानामिति 12 । विंशति वराटका एका काकिणी स्यात् । चतस्रः काकिण्यः एकः पणः स्यात् । एवमन्येपि वेद्याः । (३) तुल्या यवाभ्यामित्यादिना 13 तुलया परिमितस्य द्रव्यस्य संज्ञा विधीयते । (४) दशार्द्धगुञ्जमिति 14. दश चार्धञ्च दशार्धम्। गुञ्जानामष्टषष्ट्युत्तरशतेन कर्षो भवति । तुलातच्छतमिति पलानां शतं तुलासंज्ञितं भवति । (५) यवोदरैरिति - अत्राङ्गुलहस्तदण्डादीनां संज्ञा विधीयते । तथा कराणामिति पूर्वोक्तानां हस्तानां दशकेनैको वंशः स्यात् । विंशतिसङ्ख्यैर्वंशैरेकनिवर्त्तनं भवति। हस्तप्रमाणैश्चतुर्भिर्भुजैः निष्पन्नं यच्चतुरश्रं तद् क्षेत्रसंज्ञितं भवति । भुजशब्देन अश्रमुच्यते । हस्तोन्मितैरित्युभयत्र संबद्ध्यते । (६) हस्तोन्मितैरिति- पिण्डशब्देनोच्छ्रितिमानमुच्यते । यस्य चतुरश्राकारस्य द्रुमादिद्रव्यस्य खातस्य वा विस्तृतिः दैर्घ्याच्छ्रितिमानानि हस्तमितानि भवन्ति, तद् घनहस्तसंज्ञं 17 भवति । तस्य द्वादशाश्राणि च 18 भवन्ति। यथा मूले चत्वारि अग्रे चत्वारि ऊर्ध्वायतानि कोणगानि च चत्वारीति 20 । (७) धान्यादिकमिति- व्रीह्यादिद्रव्यं वा तैलादिद्रव्यं वा यद् घनहस्तमानं घनहस्तसंज्ञितस्य द्रुमादिपात्रस्य खातस्य वा अन्तर्गतं भवति तद् खारिकासंज्ञं भवति । खारिकायाः व्यवहारस्य मगधविषयगतत्वात्” मागधखारिकेत्युच्यते। खार्याः षोडशांशो द्रोणसंज्ञः । प्रस्थाङ्घ्रि: - प्रस्थस्य अङ्घ्रिः——। प्रस्थस्य चतुर्थभागः कुडुबसंज्ञः । (८) एकदशेत्यादिना प्रथमद्वितीयादिस्थानानां 24
+22
+23
+19
+12 See Appendix III, verse no.2
+13 See Appendix III, verse no.3
+14
+See Appendix III, verse no.4
+15
+D adds स्याद्योजनं....
+16
+B, C & D कराणाम्
+17
+B & C तत्घनहस्तसंज्ञितम्
+18 C Haplographically omits
+19
+A omits, B & D कोणगतानि
+B & C omit इति
+20
+21
+B,C &D मगधविषयत्वात्
+22
+A & B omit
+23
+MLBD edition कुटवसंज्ञः,
+D कुडवसंज्ञौ भवतः and adds the verse shown in appendix III, verse no. 5
+39
+30
+
+25
+संज्ञा विधीयते । अथ सङ्कलितव्यवकलितयोरङ्कानां अन्योन्यसंयोगवियोगयोः करणसूत्रं
+26
+वृत्तार्धमाह (९) कार्यः क्रमादिति
+27
+28
+राशिद्वयमूर्ध्वाधोगती विन्यस्य
+29
+तयोरादिस्थानमारभ्य क्रमेण तत्तत्स्थानगतानामङ्कानां योगमन्तरं वा कुर्यात्। अथवा
+30
+स्थानमारभ्य उत्क्रमेण
+31
+भवति 32
+33
+। यथास्थानकमिति । यदि द्वयोः राश्योः स्थानसाम्यं
+नास्ति, तदा यावन्ति स्थानानि समानानि 34 संभवन्ति, तावतामेव संयोगवियोगौ क्रमेण उत्क्रमेण
+35
+वा कार्यावित्यर्थः”
+—
+अत्रोदाहरणम् (१०) अये 36 इति । अत्र उद्दिष्टानां सङ्ख्यानां विन्यासो अङ्कः प्रदर्श्यते। तथा संयुक्तानां वियुक्तानाञ्च सङ्ख्यानां विन्यासश्च । अङ्कानि तु १, २, ३, ४, ५, ६, ७, ८, ९. एवमेकादिनवान्तान्यङ्कानि । एभिः सर्वत्र सङ्ख्याविन्यासः क्रियते । शून्यस्थाने बिन्दुल्लिख्यते37। अत्र38 प्रथमं संयोजनार्थमुद्दिष्टाः सङ्ख्याः विन्यस्यन्ते । पुनर्वियोजनार्थञ्च ता एव । गुणने करणसूत्रं सार्धवृत्तद्वयम् । (११) गुण्यान्त्यमिति 40 - गुण्यराशेरन्त्यस्थानगतमङ्कं गुणकारेण हत्वा पुनर्गुणकारमुपान्त्यसमं नीत्वा तेन उपान्त्यमपि गुणयेत् । पुनरप्येवम्। अथवा
+39
+24
+25
+A एकदशस्थानानां
+A अन्योन्यसंयोगविनियोगयोः (wrong)
+A कार्यइति, See appendix III, verse no. 6
+Dadds सङ्कलितव्यवकलितयोरङ्कानां अन्योन्यसंयोगवियोगयोः करणसूत्रं कार्य इति
+26
+D वृत्तार्धेन
+27
+28
+29
+D राशिद्वयमूर्ध्वाधोगतं
+30
+A अन्त्यस्थानमारभ्य
+31
+B & T omit
+32
+D omits
+33
+A यथास्थानमिति
+34
+D समानि
+35 A कुर्यादित्यर्थः
+36 See Appendix III, verse no. 7
+37 A omits अत्र
+38
+A तत्र
+39
+A वृत्तद्वयम्
+...
+बिन्दुल्लिख्यते
+40 See appendix III, verse no. 8
+31
+
+42
+41
+गुणकारं बहुधा खण्डयित्वा तत्तत्खण्डं पृथक् पृथक् स्थापयेत् । तत्र यावत्सु स्थानेषु खण्डा : भवन्ति, तावत्सु स्थानेषु गुण्यराशिं समस्तमेव पृथक् पृथक् संस्थाप्य पुनरेकैकेन खण्डेन ' एकैकं गुण्यं 44 निहत्य 45 तेषामैक्यं कुर्यात् । तद्गुणितं भवति ।
+43
+अथवा गुणकारो येन राशिना भक्तः शुध्यति, तेन गुणकारं विभज्य फलं गृहीत्वा पुनस्तेनैव भाजकराशिना गुणितं गुण्यं तत्फलेनापि गुणयेत् । तद्गुणितफलं भवति। अयमपि
+46
+47
+रूपविभागाख्यः“। एवं द्विधा रूपविभागगुणना भवति ।।
+48
+अथवा गुणकारस्यैकैकस्थानगसङ्ख्यया गुण्यं पृथक् पृथक् संगुणय्य, तेषामैक्यं कुर्यात् । अत्र दशस्थाने यदि सङ्ख्याद्वयं तदा विंशत्या हन्तव्यः । यदि शतस्थाने
+49
+सङ्ख्यापञ्चकं तदा पञ्चभिः शतैर्निहन्यते । एवं पृथक् पृथक्
+51
+50
+। अथवा
+स्थानगुणना 52 इष्टसङ्ख्यारहितेन गुणेन गुण्यं निहत्य पुनरिष्टसङ्ख्यागुणितं गुण्यं च प्रक्षिपेत् । अथवा
+53
+54
+इष्टसङ्ख्यागुणितेन गुणेन गुण्यं निहत्य पुनरिष्टसङ्ख्यागुणितं गुण्यमपि4 विशोधयेत्- अत्र
+56
+उद्देशकवचनम्5. (१२) बालेत्यादि " . रूपस्थानविभागखण्डगुणने रूपविभागोत्थखण्डगुणने 7
+41
+A
+खण्डानि
+42
+43
+D omits
+A पुनरेकैकेन खण्डेन पृथक् पृथक् संस्थाप्य
+खण्डं
+A संगुणय्य
+44
+D
+45
+46
+A omits this line
+47
+c रूपविभागेन गुणनाति
+48
+49
+50
+51
+A & D गुणकारस्यैकैकस्थानगतसङ्ख्यया
+T कुर्याम्
+हर्त्तव्यम्
+D omits
+52
+B
+स्थाने
+गुणना
+53
+54
+55
+D
+उद्देशकः
+56
+B & D इष्टसङ्ख्यायुतेन
+B & D omit अपि, D adds च
+1
+See appendix III, verse no. 9
+57
+D रूपविभागोत्थगुणने खण्डगुणने
+32
+22
+
+58
+स्थानविभागोत्थखण्डगुणने चेत्यर्थः । अथवा खण्डगुणशब्देन इष्टोनयुतगुणना विवक्षिता गुणकारराशेः सङ्ख्याविभागो रूपविभागः । यथा द्वादशसङ्ख्ये गुणकारे एकः सप्तमितः अपरः पञ्चमितः। अथवा त्रिसङ्ख्य एकः नवसङ्ख्योपरः । । एवं रूपविभागो द्रष्टव्यः ।।
+59
+छिन्नास्तेन गुणेन ते च गुणनाज्जाता इति । । - एतद्भागहारोदाहरणं गुणनात् गुणकर्मणा जातास्ते अङ्काः खाक्षिरसभूमिमिताः तेन गुणेन पूर्वोक्तेन द्वादशसङ्ख्येन गुणकारेण छिन्नाः विहृताः कति स्युः इति । अत्र भागहारोदाहरणं पृथक् न वक्ष्यति। भागहारे'
+वृत्तं
+—
+62
+61
+60
+(१३) भाज्याद्धरः इति” । यद् सङ्ख्यागुणितो हारराशिः भाज्यात् शुद्ध्यति तत्सङ्ख्येन
+समं भागहारविधौ फलं भवति । अन्त्यादिति
+कार्यमित्यर्थः ।
+भाज्यस्य अन्त्यस्थानादारभ्य हारविशोधनं
+अथवा केनचिदेकेनैव राशिना हारं भाज्यञ्च अपवर्त्य निरवयवं विभज्य तत्र लब्धौ
++63
+हारभाज्याविति प्रकल्प्य ताभ्यां हरणविधौ कृते लब्धं हरणफलं भवति । सति संभवेत्विति 4
+अपवर्त्तनस्य निरवयवहरणस्य'" संभवे सतीत्यर्थः ।
+विभक्तव्यौ मिथो राशी यावदेकत्र शून्यता ।
+तत्र शेषेण तौ हार्यौ निरग्रौ भवतस्तदा ।। (प.४)
+66
+।। इति लीलावत्यामपवर्त्तनविधिः 56
+58
+A omits अथवा.....विवक्षिता, B & C गुणनोविवक्षितौ
+59
+A & D खाक्षिरसभूमिताः
+60
+A भूभागहारे
+61
+A भाज्यादिति
+62 A & C तत्सङ्ख्यासमम्
+63
+A & C हारं फलम्
+64
+65
+66
+B, C & T संभवेदिति
+A निरवयवस्य हरणस्य संभवे
+A, B,C & D इत्यपवर्त्तनविधिः
+33
+
+67
+वर्गे वृत्तद्वयम्- (१४) समद्विघातः इति । समसङ्ख्ययोर्द्वयोः राश्योः घातः कृतिरित्युच्यते इति । परस्परवध इत्यर्थः। यथा द्विसङ्ख्ययोः परस्परवधः चतुस्संङ्ख्यः।
+68
+69
+पञ्चसङ्ख्ययोः परस्परवधः पञ्चविंशतिसङ्ख्यः इत्यादि । तत्र वर्गीकरणप्रकारः स्थाप्य इत्यादिनोच्यते। अन्त्यस्थानगतानामङ्कानां वर्गं स्वोपरि संस्थाप्य पुनरन्त्यस्थानगतैस्तैरेवाङ्कः द्विगुणीकृतैः उपान्त्यादिस्थानगतानपरान् अङ्कान् पृथक् पृथक् निहत्य स्वोस्वोपरिष्ठात् स्थापयेत्। एतत् कर्मान्तमन्त्यस्थानमनष्टं कार्यम् । पुनस्तदन्त्यस्थानं कुत्रचित् त्यक्त्वा शिष्टानि स्थानानि एकपदं दक्षिणतो नीत्वा स्थाप्य अन्त्यवर्ग इत्यादि विहितं कर्म कुर्यात् । पुनरप्येवं कार्यम्। तत्र यदेकमेव स्थानं भवति तदा तस्य वर्गस्थानमेव कार्यम् ।
+द्विगुणान्त्यहननमपरस्थानाभावान्न संभवति ।
+।। एवं वर्गकर्म।।
+70
+अथवा इष्टराशिं खण्डयित्वा तयोः खण्डयोराहतिं द्विगुणीकृत्य तस्मिन् खण्डद्वयस्य वर्गैक्यञ्च प्रक्षिपेत् । सा कृतिर्भवति ।
+71
+अथवा अभीष्टराशिमुभयत्र विन्यस्य तयोरेकस्मादिष्टसङ्ख्यां विशोध्य अस्मिन् तामेव सङ्ख्यां72 प्रक्षिप्य तयोराहतिं कृत्वा तत्र इष्टसङ्ख्यावर्गञ्च प्रक्षिपेत्। साभीष्टकृतिर्भवति ।। ।।
+74
+वर्गमूले वृत्तम् ं
+- (१५) त्यक्त्वेति75। वर्गराशेरन्त्यात् विषमस्थानात्" यथालब्धं वर्गं
+विशोध्य तस्य वर्गस्य मूलं द्विगुणीकृत्य स्वोपरि विन्यस्य पुनस्तद्विगुणीकृतमूलमेकं पदमुत्सार्य तेन
+67 See appendix III, verse no. 10
+68
+A & D omit
+69 A, B, C & D omit
+70
+C & T add शिष्टानि
+71
+A, B & C अन्यस्मिन्
+72
+A इष्टसङ्ख्यां
+73
+Dadds उद्देशक: and the verse no. 11 shown in appendix III
+74 A करणसूत्रम्, D करणसूत्रम् वृत्तम्
+75
+See appendix III, verse no. 12
+76
+D वर्गराशेरन्त्यस्थानात् विषमात्
+34
+
+77
+द्विघ्नमूलेन स्वाधः स्थितं समस्थानं विभज्य तस्य लब्धस्य कृतिं तस्य समस्थानस्य आदिभूताद्विषमस्थानाद्विशोद्ध्य लब्धं द्विगुणीकृत्य तस्य विषमस्थानोपरि पङ्क्त्यां न्यसेत्—
+78
+पुनस्तां पङ्क्तिमेकं पदमुत्सार्य तया पङ्क्त्या स्वाधः स्थितानि समादिकानि स्थानानि विभज्य तत्र लब्धस्य कृतिं विभक्तस्थानानामादिभूताद्विषमाद्विशोध्य तस्योपरि लब्धमपि द्विगुणीकृतं पङ्क्तेरादिभूतं विन्यसेत्। एवं पुनः पुनः कुर्यात् । यावत् स्थानावसानम्। एवं साधितपङ्क्तेर्दलं
+मूलं
+79
+80
+81
+भवति। पङ्क्तीकृते समे अन्त्यविषमात् त्यक्त्वा वर्गमिति । विभक्तस्थानानां
+82
+आदिभूतानि यानि स्थानानि तेषां अन्त्यमिहान्त्यविषमादीत्युच्यते”।
+घने 84
+।। इति वर्गमूलप्रकरणम् ̈।।
+वृत्तत्रयम्।। (१६) समत्रिघात 85 इति । समसङ्ख्यानां त्रयाणां राशीनां 86 संवर्गो
+87
+।
+घन इत्युच्यते। तत्कर्मक्रमं स्थाप्य इत्यादिनोच्यते। अन्त्यस्थानस्य घनं पृथगुपरि संस्थाप्य
+88
+पुनरन्त्यस्थानञ्च अन्यत्र संस्थापयेत् आदिस्थानानि च पृथक् संस्थापयेत्
++90
+89
+अन्त्यस्थानं पृथक् वर्गितं त्रिभिश्च निहतं तदादिभूतेन च स्थानेन हतं पूर्वस्थापित
+I
+। ततो
+91
+77
+B स्वास्थितम्
+78
+D विन्यसेत्
+79
+A मूलफलम्
+80
+D पङ्क्तीहते
+81
+Domits इति
+82
+D adds अत्र उद्देशकः and the verse no. 13 shown in appendix III
+83
+A, B, C & D omit
+84
+D adds करणसूत्रम्
+85
+A समस्त्रिघात, see appendix III, verse no. 14
+86 A omits
+87
+B & C तत्कर्मक्रम
+88
+A स्थापयेत्
+89
+A omits this line
+90
+A वर्गीकृतम्
+91
+A & D पूर्वस्थापितघनानां पङ्क्तौ
+35
+
+92
+स्थानान्तरत्वेन घनपङ्क्तौ दक्षे संस्थापयेत् । पुनः घनीकृतस्य स्थानस्य आदिभूतं स्थानं
+93
+वर्गीकृतं त्रिभिश्च निहतं अन्त्यस्थानेन च हतं 3 घनपङ्क्त्यां 94 स्थानान्तरत्वेन स्थापयेत्। पुनरादिस्थानानामन्त्यस्थानस्य घनं स्थानान्तरत्वेन घनपङ्क्तौ संस्थाप्य पुनस्तदन्त्यस्थानमपि
+95
+पूर्वस्थापितान्त्यपङ्क्तौ संस्थापयेत्। आदिस्थानानि च पृथक् पृथक् स्थापयेत्। ततोन्त्यपङ्क्ति
+96
+वर्गीकृत्य त्रिभिश्च निहत्य तदादिभूतेन घनीकृतस्थानस्य आदिभूतेन आदिभूतेन97 स्थानेन च निहत्य घनपङ्क्त्यां स्थानन्तरत्वेन स्थापयेत्। ततोपि घनीकृतस्थानस्यादिभूतमादिस्थानं वर्गीकृतं
+98
+99
+त्रिभिश्च निहतं अन्त्यपङ्क्त्यां च निहतं घनं पङ्क्त्यां पूर्ववत् संस्थापयेत्। एवं पुनः पुनः कुर्याद्यावत् स्थानसमाप्तिः । यस्यादिस्थानं नास्ति तस्य घनस्थापनमेव स्यात् । प्रकल्प्य तत्खण्डयुगं ततोन्त्यमिति । । तत्र जातं अन्त्यखण्डमादिखण्डञ्च ततोन्यत्र पृथग्विनष्टं संस्थाप्य कर्म कार्यमित्यर्थः । वर्गघनशब्देन घनमेवोच्यते । आद्यपङ्क्तौ वा विधिरेष कार्य इति
+100
+101
+राशेरादिस्थानमारभ्य वा घनकर्म कार्यम् । तत्प्रकारस्तु
+संस्थाप्यादिघनं दक्षे तद्वर्गं त्र्यन्त्यसङ्गुणम् ।
+102
+वामेथान्त्यकृतिं त्रिघ्नामादिघ्नां च तदा न्यसेत् ।। (प.५)
+103
+105
+इत्यनेन क्रमेण वेद्यमिति । (१७) खण्डाभ्यां वेति104 । इष्टराशिं खण्डीकृत्य ताभ्यां
+इष्टराशिं निहत्य पुनस्त्रिभिश्च निहत्य तयोः खण्डयोः घनैक्यञ्च प्रक्षिपेत्। तद्घनफलं भवति।
+92
+A घनीकृतस्थानस्य
+93
+D omitsअन्त्यस्थानेन च हतं
+94
+B घनपङ्क्तौ
+95
+A & D omit
+96
+A omits
+97
+D आदि
+98
+C अन्यपङ्क्त्या
+99
+C घनपङ्क्त्यां
+100
+A अत्र
+101
+102
+103
+D कुर्यात्
+Quoted in KK, p. 46 वेद्या इति
+A
+336
+
+107
+अथवा इष्टोनयुतराशिरिष्टराशिः 106 केवलराशिश्चेति त्रयाणामेषां राशीनां वधे इष्टवर्गनिहतं केवलराशिं प्रक्षिपेत् । तद्धनं भवति । एवं घनकर्म । अत्र अन्त्यवर्ग इत्यादौ— अन्त्यपदेन सर्वाण्यप्यन्त्यस्थानानि विविक्षितानि । आदित्रिनिघ्न इत्यादावादिपदेनैकमेवादिस्थानं विवक्षितम्108 ।
+109
+।। इति घनप्रकरणम् ||
+अथ घनमूले
+110
+वृत्तद्वयम्
+—
+111
+(१८) आद्यमिति । घनराशेराद्यं स्थानं घनसंज्ञं
+भवति'12। द्वितीयतृतीयस्थाने अघने भवतः । पुनश्चतुर्थं घनम्। पञ्चमषष्ठे अघने भवतः 113।
+।
+पुनरप्येवं कल्प्यम् । अन्त्यात् घनस्थानात् यथालब्धं घनं विशोध्य तन्मूलं पृथगेकत्र विन्यस्य पुनस्तन्मूलं वर्गीकृत्य त्रिभिश्च निहत्य तेन त्रिघ्नवर्गेण शुद्धघनस्यादिभूतं स्थानं विभज्य लब्धं
+114
+पूर्वस्थापितमूलपङ्क्त्यां विन्यस्य पुनस्तस्याः मूलपङ्क्तेरादिहतं तद्फलं पृथग्वर्गीकृत्य मूलपङ्क्तेरन्त्यस्थानैश्च निहत्य पुनस्त्रिभिश्च निहत्य विभक्तस्थानस्यादिभूतात् स्थानाद्विशोधयेत्। पुनस्तस्यादिभूतात्स्थानात् घनसंज्ञिताल्लब्धस्य घनञ्च विशोधयेत् । पुनरपि मूलपङ्क्ति वर्गीकृत्य त्रिभिश्च निहत्य तया पङ्क्त्या शुद्धघनस्थानस्यादिभूतं स्थानं विभज्य फलं मूलपङ्क्त्यां विन्यस्य पुनस्तत्फलस्य वर्गं मूलपङ्क्तेरन्त्यस्थानैर्निहतं त्रिभिश्च निहतं '
+115
+104 See appendix III, verse no. 15
+105
+B इष्टराशिरखण्डीकृत्य
+106
+107
+A इष्टोनराशिरिष्टयुतराशि:
+B तत्रान्त्यवर्गशतादौ
+D adds अत्र उद्देशक: and the verse no. 16 shown in appendix III
+A, B, C & D omit
+108
+109
+110
+D adds करणसूत्रम्
+111
+112
+D omits
+113
+D omits
+See appendix III, verse no. 17
+114 A पूर्वस्थापितमूलपङ्क्तौ
+115
+B हतम्
+37
+
+विभक्तस्थानस्यादिभूतात्स्थानाद्विशोध्य
+तस्यादिभूतात्
+तस्यादिभूतात् घनस्थानाल्लब्धस्य
+घनञ्च
+116
+विशोधयेत्। पुनरप्येवं कुर्यात् यावत् स्थानावसानम् । तत्र मूलपङक्तिर्घनमूलं भवति ।
+।। इति घनमूलप्रकरणम् 117 ।।
+अथ वर्गघनयोरस्माभिः किञ्चिल्लिख्यते ।
+अङ्केष्विष्टकृतिः स्थाप्या शेषश्चात्रेष्टसंगुणः ।
+118
+शेषघ्नमिष्टञ्चाङ्कान्तमेवं स्यात् कर्म तत् कृतिः ।। (प.६)
+एवं कर्मखण्डवशात् बहुधा वर्गकर्म भवति । विभजेद्राशिमेकं किञ्चित् क्षिप्त्वा विशोध्य वा इष्टेन इष्टफलवर्गयोः स्यादाहतिः उदिता कृतिः । फलेष्टाभ्यां निघ्नत्र विहृतराशिवर्गो वा क्षेपशुद्ध्यभावे तौ युक्तिहतविहतराशिहीनयुतः क्षेपशुद्धिसङ्ख्याभ्यां ताभ्यां हतश्च शोध्यः । क्षेप्यो वा तत्र पूर्वसिद्धकृतौ119।
+अत्र राशिर्द्वादश, १२. तेष्विष्टमष्टौ ८, तत्कृतिः ६४, शेषः ९. एष इष्टेन ८. हतः ३२. एतच्च पूर्वकृतिराशौ, ६४ योज्यम्. शेषमिष्टम् ३२. एतच्च पूर्वयुतराशौ योज्यं तत्र दृष्टं १४४. एष द्वादशानां वर्गः स्यात् ।
+अथवा शेषं चतुसङ्ख्यमपि विभज्य कर्म कुर्यात् । तेष्विष्टं २ तस्य कृतिः ४. एतच्च पूर्वराशौ योज्यम् । पुनरिष्टसगुणः शेषः ४ एतच्च पूर्वराशौ योज्यम् । तथा शेषघ्नमिष्टं ४, एतच्च पूर्वराशौ योज्यम् । पुनश्शेष: २ । अस्य वर्गञ्च पूर्वराशौ क्षिपेत् । तत्र दृष्टो वर्गः स एव १४४. एवं खण्डवशात्120 बहुधा वर्गकर्म भवति ।
+116
+117
+118
+विभजेद्राशिमशेषं किञ्चित् क्षिप्त्वा विशोध्य वेष्टेन । इष्टफलवर्गयोः स्यादाहतिरुदिता कृतिः ।। ( प. ७)
+D omits घनस्थानस्यादिभूतं... घनञ्च
+A, B,C & D omit
+Quoted in KK, p.36
+B & D omit एवं ....पूर्वसिद्धकृतौ
+119
+120
+T omits
+38
+
+“फलेष्टाभ्यां निघ्नोत्र विवृतराशिवर्गो वा क्षेपशुद्ध्यभावे तौ अक्षिहतविहतराशिहीनयुतः क्षेपशुद्धिसङ्ख्याभ्यात्ताभ्यां हतश्च शोद्ध्यः क्षेप्यो वा " ।
+.121
+फलं ४.
+तत्र पूर्वसिद्धकृतौ पूर्वराशिः १२. एषस्त्रिसङ्ख्येन इष्टेन भक्तः । तत्र लब्धं अस्य कृतिः १६. इष्टस्य कृतिः ९. अनयोराहति: १४४. एष वर्ग: पूर्वसिद्ध एव। अथवा
+122
+पूर्वी राशिः १२. एष फलेन चतुस्सङ्ख्येन हतः ४८. इष्टेन त्रिसङ्ख्येन च हतः १४४. अयं वा वर्गः। अथवा पूर्वराशिः द्विसंयुतः १४ सप्तसङ्ख्येन इष्टेन हृतः फलं २. आभ्यां फलेष्टाभ्यां निहतोपि हृतो राशि: चतुर्दशसङ्ख्यः १९६. पुनर्द्वाभ्यां हतः विहृतराशि: २८. क्षेपराशिना द्विसङ्ख्येन हीनः २६. तेनैव क्षेपराशिना हतः ४२. एतद्राशिं पूर्वसिद्धवर्गात् १९६ विशोद्ध्य दृष्टो वर्ग: स एव १४४.
+अथवा पूर्वराशिः द्वाभ्यां हीनः १०. एषः पञ्चसङ्ख्येनेष्टेन विहृतः कार्यः । तत्र फलं २ . आभ्यां द्विसङ्ख्यपञ्चसङ्ख्याभ्यां फलेष्टाभ्यां हृतो राशिर्दश १००. पुनरिष्टहतो
+126
+123
+124
+127
+125
+विहृतराशिः २०. शुद्धिराशिना द्विसङ्ख्येन युक्तः २२. पुनस्तेन शुद्धिराशिना द्विसङ्ख्येन
+हतः ४४. एष पूर्वसिद्धशतसङ्ख्यकृतौ क्षेप्यः । तत्र दृष्टो वर्गः स एव १४४. एवं इष्टफलयोः वर्गाहतौ च कार्यम्'28।।
+121
+122
+T, B & D omit
+B & D अथवा अत्र विहितो राशि:
+B & D add सङ्ख्योभिहतः
+123
+B & D विहतो
+124
+125
+C & D पुनरक्षिहतो
+126
+D युतः
+127 B & D पुनस्तेनैव
+128
+A omits अत्र राशिर्द्वादश.... .कार्यम् ।
+39
+
+अथ वर्गमूलम् ।
+इष्टवर्गकृते:129
+शुद्धौ 130.
+तन्मूलं द्विगुणं 131 हरः ।
+। (प.८)
+शेषे हारकृते त्यक्ते फलवर्गे च हारके ।।
+फलं द्विघ्नं क्षिपेत् भूयोप्येवं हारदलं पदम्
+132
+पूर्ववर्गः १४४ अस्मादिष्टस्य सङ्ख्यस्य (?) वर्गे शेषः १३५. अस्मिन् द्विगुणमूलेन हारेण ह फलं ९. शेषः ८१. अस्मात्फलवर्गे शुद्धे शेषः शून्यं फलं द्विगुणं पूर्वहारे क्षिप्त्वा अर्द्धितम् १२. एतत्पदं भवति अत्र हरणे बहुशोपि हरणं कार्यम्, न तु यथालब्धमिति नियम: 133
+अथ घनम् ।
+न्यसेदभीष्टस्य घनं त्रिनिघ्नं शेषाहतामिष्टकृतिं तथैव ।
+इष्टत्रिनिघ्नमपि शेषजां कृतिं भूयस्तथाङ्कमिदं घनं स्यात् ।। ( प. ९)
+राशिर्द्वादश। तेषु चतुस्सङ्ख्यमिष्टं प्रकल्प्य तस्य घनं न्यस्तं ६४. तत्र शेषः ८. त्रिघ्नः
+134
+२४. इष्टवर्गः १६. अनयोराहतिः ३८४. एतत् पूर्वघनराशौ क्षिप्त्वा पुनश्शेषस्य च कृतिः ६४. त्रिघ्नेष्टं १२. अनयोर्घातः ७२८ एतच्च पूर्वराशौ क्षिप्त्वा पुनश्शेष: ८. एष्वपि चतुस्सङ्ख्यमिष्टं प्रकल्प्य तद्घनं ६४. एतच्च पूर्वस्मिन् देयम् पुनश्शेषः ४. त्रिघ्नः १२ इष्टकृतिः १६. अनयोर्घातः १९२. पूर्वस्मिन् देयम् । एतच्च इष्टत्रिनिघ्नशेषकृतिरपि तत्तुल्या तच्च पूर्वस्मिन् देयम् । पुनश्शेषघनं ६४. एतच्च पूर्वस्मिन् देयम् । तत्र जातं घनम् फलम् ।
+135
+129
+130
+B इष्टवर्गकृते T & D शुद्धे
+131
+132
+133
+134
+135
+A & B
+3 द्विगुणो
+Quoted in KK, p.41
+A omits पूर्ववर्गः.....नियमः
+D अनयोर्घातः
+A omits राशिर्द्वादश....फलम्
+40
+
+अथ घनमूलम्
+घनं त्यजेदिष्टघनं फलं स्यात्
+इष्टं फलस्याथ कृतिस्त्रिनिघ्ना । हारो हरेणाथ 137 हृतोत्र शेषे
+लब्धस्य वर्गं त्रिगुणं फलेन।। (प.१०)
+पूर्वेण निघ्नञ्च विशोद्ध्य शेषान्
+त्यक्त्वा घनं लब्धभवञ्च लब्धम् । क्षिपेत्फलाख्येथ फलस्य वर्ग-
+136
+स्त्रिघ्नो हरस्तेन च कर्म भूयः ।। (प.११)
+भवेदिहाङ्कान्तमथोन्त्यदृष्टः
+फलाख्यराशिर्घनमूलमुक्तम् ।
+एवं घनञ्चापि घनस्य मूलं
+विजानता कार्यमभीष्टपूर्वम् ।। (प. १२)
+पूर्वघनम् १७२८. इष्टं १०. अस्य घनं १००० घनासक्ते शेष: ७२८. इष्टं १० एतत्फलं स्यात्। पृथगस्य कृतिस्त्रिघ्ना ३००. एष हारः अनेन शेषे भक्ते फलम् २. अस्य वर्गः ४. त्रिगुणः १२ . पूर्वफलेन १० हतः १२०. तं शेषाद्विशोद्ध्य लब्धस्य घनञ्च ८, विशोधयेत् । तत्र शेषं शून्यं भवेत्। तत्र फलं पूर्वफले क्षिप्त्वा दृष्टं घनमूलं भवति
+138
+140
+।। इति परमेश्वरकृते” लीलावतीव्याख्याने परिकर्माष्टकं समाप्तम् ||
+अथ अंशभेदेषु व्यवहारः । अत्र अंशानां सवर्णने वृत्तम् (१९) अन्योन्येति
+141
+अंशविन्यास एवं - यथोक्तमंशं विन्यस्य तस्याधः खहरञ्च विन्यसेत्। यद्येकोद्यंशः तदैकमंशं
+विन्यस्य तस्याधः खहरं द्विसङ्ख्यं विन्यसेत् ।
+136
+B, D & T omit
+137
+A हरेणात्र
+138
+A omits पूर्वघनम् ...भवति
+139
+D विरचिते
+140
+B omits समाप्तम्, A इति पारमेश्वरे लीलावतीव्याख्याने परिकर्माष्टकम्
+41
+
+यदि द्वौ त्र्यंशौ तदा द्वावंशौ विन्यस्य तस्याधः स्वहरं त्रिसङ्ख्यं विन्यसेत्। यदि त्रिभिश्चतुर्थांशैः स हि कल्पितः, तदा उपर्युकं विन्यस्य तस्याधः त्रीनंशं विन्यस्य तस्य अंशाख्यराशेरधः स्वहरञ्च चतुस्सङ्ख्यं विन्यसेत् । अथवा तत्रैकमप्यंशीकृत्य अंशैः संयोज्य विन्यसेत्। तदा अंशाः सप्तसङ्ख्याः भवन्ति । हारश्चतुस्सङ्ख्यः । यदि पञ्चांशैस्त्रिभिरून142 एक इति निर्द्दिश्यते। तदा उपर्युकं विन्यस्य तस्याधः ऊनज्ञापकं शून्यं विन्यस्य तस्याधः अंशत्रयं विन्यस्य तस्याधः स्वहरं पञ्चसङ्ख्यं विन्यसेत् । एवं अंशहारयोः स्थापनाप्रकारः I तत्र यथोद्दिष्टानंशान् स्वहारसहितान् विन्यस्य तेष्वेकैकस्य हारेण स्वव्यतिरिक्तान् अन्यान् सर्वानंशान् तद्धारञ्च हन्यात् । तत्र अन्योन्यहननार्थमपि कृताः सर्वे हाराः पृथक् संस्थाप्याः। हनने
+144
+145
+143
+गुणकारस्य बहुत्वे तु पूर्वगुणकारहता एव ह्युत्तरोत्तरगुणकारेण निहन्यन्ते । एवमन्योन्यहाराभिहताः सर्वे अंशकास्समच्छेदा भवन्ति । सर्वेषां हाराः समसङ्ख्या भवन्तीत्यर्थः। एवं योजनाहारांशौ146 अन्योन्यहाराभिहतौ कार्यौ । एवं राश्योः समच्छेदविधानमिति । राश्योरिति
+147
+वचनं बहूनां राशीनामप्युपलक्षणम् । मिथो हराभ्यामिति । अथवा राश्योः हारकौ 148 परस्परमपवर्त्य ताभ्यां अपवर्तिताभ्यां केवलौ हरांशौ पूर्ववत् परस्परं गुण्यौ । राशीनां बहुत्वे व्यपवर्तनं कार्यमेव । यथोक्तम् -
+राशिष्वल्पेन विभजेदन्यानेवं पुनः पुनः ।
+शिष्टेन सर्वे ते हार्या एवं बह्वपवर्तनम् ।। इति । ( प. १३)
+141 See appendix III, verse no. 18
+142
+143
+144
+145
+146
+147
+148
+Comits ऊन
+c स्थापनप्रकारः
+A omits
+A पूर्वपूर्वगुणकारहता B & C हरांशौ
+C omits
+A हरौ
+1272
+42
+
+त्रिषष्टिभाग इत्यत्रापवर्तनं कार्यम्।
+तत्रापवर्तितहाराभ्यां अपवर्तितहारौ निहन्यते चेत्
+पुनस्तावपवर्त्तनेन हन्तव्यौ । तदुक्तं सुधियेति । अथवा सूत्रम्
+—
+149
+आहतिभिन्नहाराणां समहारोंशकाः पुनः ।
+150
+समहारहता स्वस्वच्छेदभक्तास्तदंशकाः' मिथोपवर्त्तितच्छेदसंवर्गो वा समाहतः । ( प. १४)
+151
+स्वापवर्त्तेन हारः स्यात्। समः प्राग्वत्तदंशकाः' इति।
+प्रथमोदाहरणे हाराणां समाहति: १५, एष समहारः । अनेन गुणिता रूपत्रयपञ्चलवत्रिभागाख्या अंशाः स्वहारैः रूपपञ्चत्रिसङ्ख्यैर्भक्ताः । समहरस्य पञ्चदशसङ्ख्यस्यांशाः ४५, ३५.
+152
+153
+द्वितीयोदाहरणे अपवर्त्तितौ हारौ ९, २. अनयोर्घातः ८८. अपवर्त्तनेन सप्तसङ्ख्येन
+गुणितः १२६. एषः समहर: अंशः पूर्ववत् समहारहतः स्वच्छेदभक्तः स्यात् '
+156
+154
+भागभूतो155 राशिः तत्रांशच्छेदानयनाय वृत्तार्द्धम्- (२०) लवा लवघ्ना
+159
+। यत्र भागानामपि
+157
+इति- अत्र यः
+विन्यस्य
+प्रथमः अंशः तं स्वच्छेदसहितं 158 विन्यस्य पुनस्तस्याप्यंशं विभागं हारयुतमन्यत्र
+160
+पुनस्तस्याप्यंशं हारयुतं तथा विन्यसेत्।।
+149
+150
+151
+A यत्
+A प्राग्वत्तदंशकौ
+C स्वस्वदृक्च्छदभक्तास्तदंशकाः
+152
+B & C हरौ
+153
+T & B अनयोर्युतिः
+154
+155
+156
+A omits प्रथमोदाहरणे... स्यात्
+B भागतो
+T तत्रांशच्छेदापनयनाय
+157 A & C लवा लवा See appendix III, verse no. 19
+,
+158
+A स्वच्छेदांशसहितम्
+159
+160
+A अन्यत्र
+A & D omit अंशम्
+43
+
+तत्र तेषामंशानां संवर्गः अंशः स्यात् । हाराणां संवर्गः हारः । एवं भागप्रभागेषु भागानामपि
+विभागेषु सत्सु सवर्णनं समच्छेदीकरणं स्यात् । अंशस्याप्यंशभूते राशौ हि छेदद्वयसंवर्गः हारः
+अंशद्वयसंवर्गः अंशः161 । उदाहरणम्
+-
+162
+(२१) द्रम्मेति । अत्र अर्धादेस्त्रिलवद्वयादयः यत्र
+163
+रूपाण्येकस्यांशेन युतानि हीनानि वा भवन्ति, यत्र च अंशः स्वांशेन युतो हीनो वा भवति 164
+,
+तत्र सार्धं वृत्तं – (२२) छेदघ्नरूपेष्विति 165 । यथोक्तानि रूपाण्यंशस्य छेदेन निहत्य तेष्वधिकानंशान् प्रक्षिपेत्। हीनांशं तु तेभ्यो विशोधयेत् । तदंशात्मको राशिर्भवति। रूपाणि अंशान् च सवर्णीकृत्य संयोगवियोगी कार्यों इत्यर्थः । एकस्येति वचनं अनेकेषु रूपेष्वेकस्यैव भागा इति प्रदर्शनार्थं भवति166 | स्वांशाधिकोन इति । यत्रांशः स्वांशैर्युतो भवति 167
+।
+,
+तत्र
+भागानुबन्धाख्ये। तथा यत्र अंशं स्वांशैर्हीनः भवति, तस्मिन् लवापवाहाख्ये च विधिरुच्यते (२३) तळस्थेति । अत्र प्रधानांशं छेदसहितं विन्यस्य, तस्याधः तस्याप्यंशं धनात्मकमृणात्मकं वा
+168
+छेदसहितं विन्यस्य कर्म क्रियते । तत्र प्रधानांशस्य हारं अन्यांशस्य हारेण धनात्मकैः
+170
+अन्यांशैर्युक्तेन—” निहन्यात् । प्रधानांशं तु अन्यांशस्य हारेण धनात्मकैरन्यांशैर्युक्तेन निहन्यात्।
+169
+अथवा प्रधानांशं तु 171 अन्यांशस्य हारेण ऋणात्मकैरन्यांशैः रहितेन निहन्यात् । एवं कृते अंशच्छेदौ स्फुटौ भवतः । यदि पुनरप्यंशाः संभवन्ति, तदा पूर्वहारगुणिती हारांशी 172 उत्तरांशस्य
+161
+A omits हारः.... . अंश:
+162
+See appendix III, verse no. 20
+163
+A वांश:
+164
+A भवन्ति
+165
+166
+A छेद इति, see appendix III, verse no. 21
+T, A & D omit भवति
+167
+Comits स्वांशाधिकोन ... भवति
+168
+Comits ऋणात्मकम्
+169
+170
+171
+A, B, C & D omit
+C omits and adds केवलेन, Domits and adds हारेण केवलेन
+B & C omit
+172
+C & D हरांशौ
+44
+
+यथोक्तहारेण173 निहन्यते । तळस्थहारशब्देन ऊनाधिकव्यतिरिक्तः केवलो हारो गृह्यते । तटस्थ । इति वा पाठः। अत्रापि अंशद्वयं सवर्णीकृत्य तयोर्योगवियोगी क्रियेते । तत्र सवर्णीकृतयो: 174 अंशयोः योगसिद्ध्यर्थं स्वांशाधिकहारहननं तयोर्विश्लेषसिद्ध्यर्थं स्वांशोनहारहननम्। भागाधिकोनरूपे उदाहरणम् – (२४) सांघ्रीति 175 । भागानुबन्धे उदाहरणम् (२५) अङ्घ्रिः लवापवाहर्यैशाविति तयोर्मिश्रीभावे अर्धमिति । अत्र पूर्वांशानां योगस्यान्तरस्य वा
+स्वत्र्यंशेति176
+उत्तरांशा उक्ताः।
+—
+तत्र
+अथ
+भिन्नसङ्कलितव्यवकलितयोर्वृत्तार्धम्। (२६) योगान्तरमिति
+177
+तुल्यहाराणामंशानां योगवियोगी कार्यों । हाररहितस्य रूपसङ्ख्यस्य राशेर्हार : एकसङ्ख्यः
+178
+कर्त्तव्यः । भिन्नगुण वृत्तार्धं
+—
+(२७) अंशाहतिरिति
+179
+-
+गुणगुण्यभूतयोः राश्योः
+अंशाहतिरंशात्मकं गुणफलं भवति । तयोरेव राश्योच्छेदाहतिस्तस्य छेदश्च भवतीत्यर्थः
+भिन्नभागहारे वृत्तार्धम् (२८) छेदं लवञ्चेति
+182
+—
+180
+181
+हारराशेरंशच्छेदौ क्रमेण
+छेदांशाविति प्रकल्प्य तथा कल्पितेनांशेन हार्यराशेः अंशं गुणयेत् । तदंशात्मकं हारफलं
+183
+भवति । पुनस्तथाकल्पितेन छेदेन हार्यराशेः छेदं च गुणयेत् । सः अत्र छेदो भवति ।
+भागहरणे हरणस्य'
+184
+छेदं लवञ्च परस्परं परिवर्त्य पुनः भिन्नगुणनोक्तश्शेषो विधिश्च कार्य इति
+173
+A हारेण
+174 B सवर्णकृतयोः
+175 See appendix III, verse no. 22
+176
+177
+178
+See appendix III, verse no. 23
+A योग इति, see appendix III, verse no. 24
+A, C & D प्रकल्प्य:, D adds उद्देशकः, and verse no. 25 shown in appendix III
+179 See appendix III, verse no. 26
+180
+See appendix III, verse no. 27
+181
+A & B छेदमिति
+182
+T प्रकर्तव्यम्
+183
+Tomits पुनः
+184
+T, B & D हरस्य
+45
+
+योज्यम्। अंशाहतिच्छेदवधेन भक्त इत्येष विधिः कार्य इत्यर्थः । हारहार्यौ सवर्णीकृत्यैव हि हरणं
+कार्यम्। तस्मादत्र हरस्य छेदेन हार्यस्यांशो निहन्यते । हरस्यांशेन हार्यस्य छेदश्च निहन्यते ।
+185
+भिन्नवर्गादौ करणसूत्रं वृत्तार्धम् । (२९) वर्गे कृतिरिति अंशस्य वर्गीकरणे तच्छेदस्यापि वर्गीकरणं कार्यम् । तथांशस्य घनीकरणे तच्छेदस्यापि घनीकरणं कार्यम् । तथांशस्य मूलीकरणे तच्छेदस्यापि मूलीकरणं कार्यम् । घनप्रसिद्ध्यै इति घनप्रसिद्ध्यै वर्गादिप्रसिध्यै चैवं कार्यमित्यर्थः
+186
+शून्यकर्मणि आर्याद्वयं
+—
+युक्तं 189
+।। इति भिन्नपरिकर्माष्टकम्।।
+187
+188
+(३०) योगे खमिति । यदि शून्यं केनचिद्राशिना
+' तदा तच्छून्यं क्षेपराशिसमं190 भवति । यदा शून्यं वर्गीकृतं 191 घनीकृतं वा भवति तदा
+तद्वर्गं घनमपि शून्यं भवति । यो राशिश्शून्येन विभज्यते
+192
+,
+.स राशिः शून्यच्छेदो भवति । न तु
+193
+रूपच्छेदः स्यात् । यो राशिः शून्येन निहन्यते स राशिः शून्यो भवति। खगुणश्चिन्त्यम्।
+194
+शेषेणेति । यदा अभीष्टराशिः
+195
+शेषेण वक्ष्यमाणविधिना अभीष्टराशिरानीयते तदापि शून्यं
+गुणश्चिन्त्यम्। किमर्थं तदित्यत्राह - ( ३१ ) शून्ये गुणक इति- यो राशिः शून्येन गुणेन
+(३१)
+196
+A वर्ग इति, see appendix III, verse no. 28
+See appendix III, verse no. 29
+A योग इति, see appendix III, verse no. 30
+185
+186
+187
+188
+189
+C युतम्
+190
+191
+192
+193
+194
+195
+196
+A omits
+c क्षेपराशिक्षमम्
+D वर्गितम्
+A युज्यते (wrong)
+c शूलो (wrong)
+D शेषविधाविति
+D शिष्टराशि:
+B & C शून्यगुणेन
+46
+
+शून्यभूतो भवति, स पुनश्शून्येन विभक्तश्चेत् प्राग्वदेवाविकृतो भवति । शून्यगुणनाज्जातं शून्यत्वं
+197
+नश्यतीत्यर्थः । यो राशिः शून्येन संयुज्यते, सोप्यविकृत एव भवति ।
+198
+पूर्वत्र शून्यस्य अन्यराशिना योगो अभिहितः । इह त्वन्यराशेश्शून्येन योग इति
+199
+विशेषः । खगुणो निजार्धयुक्त इत्यत्र शून्यस्य पुनर्हारकत्वसंभवात् शून्यहरणं शून्यगुणनं च विना दृश्यराशित इष्टराशिः साध्य: 200 |
+।। इति परिकर्माणि 201 ||
+203
+204
+व्यस्तविधौ 202 श्लोकद्वयम् । (३२) छेदं गुणमिति । दृश्यराशिः पूर्वं येन विभक्तस्तेन तं गुणयेत्। येन गुणितस्तेन विभजेत्। यो वर्गितस्तं मूलीकुर्यात्। यो मूलीकृतस्तं
+205
+वर्गीकुर्यात् । यो विशोध्यते तं प्रक्षिपेत् । यः प्रक्षिप्यते, तं विशोधयेत्। (३३) अथ स्वांशाधिकोने त्विति- यदा स्वांशेन युतो राशिस्तदा सोंशः तस्मात् राशेर्विशोध्यः स्यात् । यदा स्वांशेन विहीनः तदा206 सोंशः तस्मिन् राशौ प्रक्षेप्यः इति व्यस्तविधिना सिद्धम् । तदंशानयनमिह विधीयते। यो राशिर्येनांशेन युतस्तं राशिं तदंशसङ्ख्यया युतेन अंशच्छेदेन विभजेत्। तत्र लब्धं यथोदितांशो भवति । यो राशिर्येनांशेन विहीनस्तं राशि तदंशसङ्ख्यारहितेन अंशच्छेदेन विभजेत् । तत्र लब्धमपि यथोदितांशो भवति । अंशस्त्वविकृत इति तत्र लब्धोंशः केवल एव स्यात्, न तु द्वित्र्यादिगुणितः।
+197
+198
+A omits न तु...नश्यतीत्यर्थः
+C राशिना अभिहितः
+199
+A & C खगुणो
+200 See appendix III, verse no. 31
+201
+202
+203
+A omits, D adds समाप्तानि
+D adds करणसूत्रम्
+A छेदमिति, see appendix III, verse no. 32
+204
+B omits
+205
+D omits this line
+206
+A & C omit तस्मात् ...तदा
+47
+
+एतदुक्तं भवति - यदि चतुर्थांशैस्त्रिभिरन्वितो राशि:, तदा अंशच्छेदे चतुरस्ङ्ख्ये अंशत्रयं प्रक्षिप्य, तेन सप्तसङ्ख्येन तं राशिं विभजेत् । तत्र लब्धमेकः चतुर्थांशो भवति। न तु चतुर्थांशत्रयम्। यदा पुनः पञ्चमांशैः चतुर्भिर्विहीनो राशि: तदा अंश छेदात् पञ्चसङ्ख्यादंशचतुष्कं विशोध्य शिष्टेनैकसङ्ख्येन छेदेन तं राशिं विभजेत् । तत्र लब्धमेकः पञ्चमांशो भवति। न तु पञ्चमांशचतुष्कमिति । शेषं अंशस्य शोधनादिकमुक्तवत् कार्यमिति
+208
+209
+207
+इष्टकर्मणि वृत्तम्। (३४) उद्देशकालापवदिति । यथा उद्देशकस्य वचनं कश्चिद्रराशिरने 210 गुणितोनेन विभक्तोनेन 211 युत इत्यादि तथैवाभीष्टराशेश्च कुर्यात् । एतदुक्तं भवति- कञ्चिद्राशिमभीष्टं प्रकल्प्य तस्य उद्देशकोक्तैर्गुणहरणक्षेपादिभि: तथैव कर्म कृत्वा दृश्यराशिः साध्यः। सः प्रमाणराशिर्भवति । अभीष्टराशि: फलराशिरिति पुनरुद्देशकोक्तदृष्टराशिमभीष्टराशिना फलाख्येन निहत्य दृश्यराशिना प्रमाणाख्येनात्र साधितेन विभजेत्। तत्र लब्धमुद्दिष्टराशिर्भवति । यदा वर्गमूलादियुतो राशिरुद्दिष्टः तदा अयं विधिर्न कार्यः। यत्रोद्दिष्टराशेरेवांशाः हीयन्ते तत्रोदाहरणं (३५) पञ्चघ्नेति 212. अथ दृश्यराश्युदाहरणम्
+—
+.२१३
+(३६) अमलकमलराशेरिति । यत्र पूर्वांशैः उत्तरांशाः हीयन्ते अत्र उदाहरणम् – (३७) पञ्चांशोलिकुलादिति । अंशानां विश्लेषोपि कश्चिदंशविशेषः स्यात् । अतो अन्यत्रापि इष्टकर्मणा राशिस्साध्यः । राश्योर्योगे तदन्तरे च ज्ञाते तयोः पृथक्करणार्थं वृत्ताधं- (३८)
+214
+योगे इति । राश्योर्योगमुभयत्र विन्यस्य तयोरेकस्मात् राश्योरन्तरं विशोध्य अपरस्मिन् राश्योरन्तरं प्रक्षिप्य अर्धीकुर्यात् । तौ राशी भवतः । एतत् कर्म संक्रमणाख्यम् । अन्तरयुतो
+207
+B omits इति, D adds उद्देशक: and the verse no. 33 as shown in appendix III
+A & B उद्देशक इति ; D gives verse no. 34 as shown in appendix III
+c कश्चिद्रराशिरसनेन
+208
+D adds करणसूत्रम्
+209
+210
+211
+C omits
+212
+213
+See appendix III, verse no. 36
+214
+See appendix III, verse no. 37
+48
+A पञ्चांश इति, see appendix III, verse no. 35
+
+215
+216
+राशियोगो हि द्विगुणितबृहद्राशिः स्यात् । अन्तरहीनस्तु द्विगुणितस्वल्पराशिः स्यात्
+। अथ
+राश्योरन्तरे तयोर्वर्गान्तरे च ज्ञाते राशियोगानयनाय वृत्तार्धं- ( ३९ ) वर्गान्तरमिति 217, वर्गान्तरं राश्यन्तरेण भक्तं राश्योर्योगो भवति । राश्यन्तरगुणितस्य वर्गान्तरत्वात् योगात् पूर्ववत् राशी साध्यौ।।
+अथ किञ्चिद्वर्गविषयं कर्म प्रोच्यते (४०) इष्टकृतिरिति 218 । किञ्चिदिष्टराशिं
+219
+-
+विन्यस्य तं वर्गीकृत्य पुनरष्टभिर्निहत्य तस्मादेकमपास्य शेषमर्धीकृत्य पूर्वस्थापितेष्टराशिना विभजेत्। तत्र लब्धमेको राशिर्भवति । पुनस्तमपि वर्गीकृत्य पुनरर्धीकृत्य तस्मिन्नेकं रूपं प्रक्षिपेत्। सद्वितियो राशिः । ययोः राश्योः कृतिविश्लेषयोगौ निरेको मूलप्रदौ तौ राशी भवत इत्यर्थः ।
+220
+अथवा द्विगुणेनेष्टराशिना रूपमेकं विभज्य लब्धेष्टराशि प्रक्षिपेत् । स एको राशि: अपरौ रूपमेव वर्गौ स्यातामिति मूलप्रदौ भवत इत्यर्थः। उदाहरणम् (४१) राश्योरिति बीजगणिते इति । ययोर्वर्गयोः योगवियोगी निरेकौ मूलप्रदौ तर्योबीजभूतस्य राशिद्वयस्य गणनविधावित्यर्थः।
+अथवा बीजशब्दो मूलवाचकः । वर्गयोगादेर्मूलीकरणविधाविति 221 बीजगणितशब्दार्थः । अस्मिन् बीजगणिते पटवोपि षोढोक्तं गूढगणितं परिभावयन्तः परितो निरूपयन्तः तस्यालाभान्मूढास्सन्तः क्लिश्यन्ति । गूढभूतं तद्गणितमिह द्विप्रकारमुक्तं वक्ष्यति । चैकप्रकारं तेषु त्रिष्वपि प्रकारेषु एकैकं द्विधा भवति । सावयवनिरवयवभेदात् वक्ष्यति च । एवं व्यक्ते अथवा
+215
+216
+T अन्तरविहीनस्तु
+See appendix III, verse no. 38
+217
+See appe ndix III, verse no. 39
+218
+219
+D पुनरिष्टभिः
+220
+221
+See appe ndix III, verse no. 40
+See appe ndix III, verse no. 41
+c वर्गयोगादेर्मूलीकरणविधानाविति
+49
+
+अव्यक्ते इति निरवयवे सावयवे चैकं कार्यमित्यर्थः ।
+गणितकर्मपटवोप्येतन्निरूपयन्तः
+तस्याप्राप्त्या मुह्यन्तीत्यर्थः ।
+अतष्षोढोक्तमिह तद्गूढभूतं
+उपायान्तरमाह- (४२) इष्टस्येति । इष्टराशेर्वर्गस्य वर्गं इष्टराशेर्घनञ्च विन्यस्य
+तावष्टभिर्निहत्य तयोः प्रथमे एकं क्षिपेत् । अन्य: केवल एव स्थाप्यः । एवं राशिद्वयं
+223
+भवति ।
+एवं व्यक्ते निरवयवे 224 अभीष्टराशौ अथवा अव्यक्ते सावयवे अभीष्टराशौ च कर्म कार्यम् ।
+अस्माभिरपि se किञ्चिल्लिख्यते ।
+इष्टस्य वर्गाद्रहिताच्च कृत्या
+।
+कस्यापि तस्याश्च पदेन लब्धम्।
+अर्धीकृतं स्यात् प्रथमोन्य इष्टो
+वर्गद्वयैक्यं पददं ययोः225 स्यात् 226 ।। (प. १५)
+आद्योभीष्टस्य कृती रूपोना चेष्टसङ्ख्यया रहिता । द्वाभ्यां भक्तान्या च स्यात् वर्णैक्यमूलदं यदेष्टोनम्
+इष्टस्य वर्गस्संक्षेपः चतुर्भक्तो विरूपकः । एकोन्य इष्ट: पददं वर्गेक्यं यत्र सेष्टकम्
+यदाह शुद्धिरूपस्य प्रोक्तमार्गद्वये तदा ।
+228
+227
+।। (प.१६)
+।। (प.१७)
+रूपस्थाने कृतिः काचित् ग्राह्याहारे पदद्वयम् 229 ।। (प.१८)
+प्रथमेथ द्वितीयेपि हारस्थाने पदद्वयम्।
+रूपस्थाने तु मूलार्धमेतत्सिद्धम् हि धीमताम् 230।। (प.१९)
+222
+A गणितकर्मपटवोप्येकं निरूपयन्तः
+223
+B राशिद्वयः
+224
+D omits
+225
+यतो
+226
+KK, p.144
+227
+KK, p.147
+228
+KK, p.145
+229
+230
+KK, p.148 Idem.
+50
+50
+
+अस्य 231 प्रथमे पदद्वयं कस्याश्चिदिष्टकृते: 232 द्वितीयेपि पदद्वयं कस्याश्चिदिष्टकृतेः
+233
+मूलार्थः तन्मूलार्थस्य पूर्वश्लोकयोरर्थ एवायं स्यात् ।
+वर्गैक्यं केवलं यद्वाप्येकं वाष्टयुतं ययोः ।
+पददं ब्रूहि सुमते राशिद्वन्द्वत्रयं पृथक् 234 ।। (प.२०) इति
+अत्र प्रथमविधौ कल्पितमिष्टम् ३. अस्य वर्गात् ९ एकस्य कृत्या १ अनया रहितात् ८ तस्याः कृत्याः पदेन १ अनेन लब्धं ८ अर्धीकृतम् ४ अयं चतुस्सङ्ख्यः प्रथमो राशिः इष्टः ३. अयं त्रिसङ्ख्यो द्वितीयो राशिः । अथ द्वितीयविधौ इष्टं २ अस्य कृतिः ४ रूपोना ३ उद्दिष्टा या इष्टसङ्ख्या १ अनया रहिता २. द्वाभ्यां भक्ता १. अयमेकसङ्ख्यो द्वितीयो राशिः द्विसङ्ख्यः इष्टः प्रथमः राशि:
+अथवा इष्टं ४ अस्मात् सिद्धः ७. अयं द्वितीयः प्रथमचतुस्सङ्ख्यः तृतीयविधौ इष्टं ६ अस्य वर्गः ३६ क्षेप उद्दिष्टं ५ अनेन युतं ४४ चतुर्भक्तः ११ विरूपः १० एष दशसङ्ख्यः प्रथमः षट्सङ्ख्य इष्टो द्वितीयः ५ । पुनरपि द्वितीयविधौ इष्टं ५ / ४. अयं सपादरूपसङ्ख्यः प्रथमराशिः अस्य कृतिः २५/१६. अत्र रूपे शुद्धे सति उद्दिष्टसङ्ख्याया अधिकत्वादशुद्धिः स्यात्। अनेन रूपस्थाने कल्पिता कृति: ४ / १६ अनया रहिता पूर्वकृतिः २१ / १६ अस्मादुद्दिष्टसङ्ख्यामेकां षोडशगुणितां विशोद्ध्य शेष: ५ / १६ अस्य हारस्थाने पूर्वं प्रकल्पिताया: कृतेः ४ / १६ पदद्वयं अनेन भक्तः स एव ५ / १६ अयं द्वितीय: पञ्चसङ्ख्यः षोडशच्छेद स्यात्। अस्य राशिद्वन्द्वस्य सवर्णीकरणं कृत्वा वर्गीकरणं कार्यम् । योज्यराशिरपि वर्गच्छेदेन हन्तव्यः। एवं तृतीयविधावपि
+हारस्थाने किमपि मूलद्वयं रूपस्थाने तन्मूलार्धञ्च प्रकर्त्तव्यम्
+235
+I
+231
+A अत्र
+232 A प्रकल्पितेष्टकृतेः
+233
+A & C तन्मूलस्य
+234
+Comits पृथक्
+235
+B & C प्रकल्प्यम्
+51
+
+उदाहरणम्
+एकोभीष्टोस्य कृतिः सहिता कृत्या च कस्यचिद्दलिता।
+तत्पदभक्तोन्यः स्यात् पददं वर्गान्तरं ययोर्भवति
+236
+।। (प.२१)
+मूलदं237
+वर्गान्तरं मूलदं 237 स्यात् ययोस्तत्राष्टसम्मितः ।
+एकः स्यादितरो वाच्यः238 सुमते 239 स त्रिधाथवा ।। (प. २२)
+तत्र प्रथमः ८ अस्य कृतिः ६४ इयं चतुर्णां कृत्या १६. अनया सहिता ८० दलिता ४०
+तस्याः कृत्या पदेन ४ विभक्ता १०. अयं 240 दशसङ्ख्यो द्वितीयो राशिः । अथ द्वयोः कृत्या चतुस्सङ्ख्यया सिद्धे द्वितीयराशिः सप्तदशसङ्ख्यः अथवा षण्णां कृत्यः सिद्ध्यति। भागात्मकः पञ्चविंशतिसङ्ख्याः २५ / ३ एवं बहुधा कर्त्तव्यम् ।
+इष्ट एकः सरूपास्य कृतिः शुद्धियुतार्द्धिता ।
+241
+अन्योन्तरं ययोः कृत्योरिष्टोनं पददं भवेत् " - ।। (प.२३)
+अत्र प्रथम इष्टः पञ्चसङ्ख्यः तस्य कृतिः २५ सरूपा २६. अभीष्टशुद्धिर्दश तत्सहितौ ३६ अर्धा १८ अयं द्वितीयो राशिः । अनयोर्वर्गान्तरं दशभिर्हीनं पददं भवेत् ।
+इष्टस्य वर्गात् क्षेपोनात् चतुर्भक्तस्सरूपकः
+एकोन्यः इष्टः पददो वर्गभेदोत्र सेष्टक:242 ।। (प.२४) वर्गिता द्विगुणा सैका व्येका वा मूलदा कति
+राशयोधः सहस्त्रान्नो गणक ब्रूहि वेत्सि चेत् ।। (प.२५)
+236
+KK,p.149, A omits वर्गेक्यं केवलं यद्वा.... ययोर्भवति
+237
+A मूलदलम्
+238
+A वाच्यम् (wrong )
+239
+A क्षमते (wrong)
+240
+C adds द्वितीयम्
+241
+242
+Quoted in KK, p. 149
+B & C omit this verse, Quoted in KK, p. 150; A omits अत्र प्रथम इष्ट: ... सेष्टक:
+52
+
+अत्र वृत्तद्वयम्
+आद्यो युग्ममित:243 षड्घ्नः स द्वितीयः स षड्गुणः । पूर्वेणोनः तृतीयः स्यात् परे चैवं सरूपके 244 ।। (प.२६) आद्य एकस्स पञ्चघ्नो द्वितीयः सशराहतः ।
+245
+पूर्वैश्चतुर्नैर्युक्तः स्यात् परैश्चैवं विरूपके ।। (प.२७) इति
+अत्र सरूपके पूर्वराशिरेक एव गृह्यते । विरूपके अतीताः सर्वेपि246 गृह्यन्ते।
+यस्तु स्वांशाहतो राशिः स्वकृत्यावयवः स हि । गुणद्वये घनस्यांशो वर्गवर्गस्य तत्र ये।। (प.२८)
+यैरंशैर्विहतो 247 राशिः तैरंशैर्विहतस्तथा ।
+वर्गो घनश्च वर्गस्य वर्गो वा सा क्रमाद् भवेत् ।। (प. २९)
+उदाहरणम्
+248
+पादघ्नोष्टिर्द्दलाङ्घ्रिभ्यां अष्टिदस्रा: क्रमाद्धताः।
+पादार्धपादैर्वस्वर्काः राशीस्तान् क्रमशो वद ।। (प. ३०)
+प्रथमे दृष्टम् १६ एष राशि: पादनिहतत्वात् पादभक्तः ६४. अयमिष्टराशेर्वर्गः स्यात् ।
+249
+अस्य मूलराशिम् इष्टराशिः ८ द्वितीये दृष्टं २१६. एषः राशिरर्धभक्त: ४३२. पुनः पादभक्तः
+१७२८. एषः घनः अस्य घनमूलमिष्टराशिः १२ अथ तृतीये दृष्टं २०८ एष पादेन भक्तः ५१२
+243
+244
+c युग्ममिति
+Quoted in KK, p. 150
+245 Ibid, p.151
+246
+Comits अपि
+247
+248
+249
+A & C निहतो
+B & C अष्टिस्रोः
+C मूलम्
+53
+
+पुनर्दलेन भक्तः १०२४. पुनः पादेन च भक्तः ४०९६. अयमिष्टराशेर्वगस्य वर्गः अस्य मूलम्
+६४. अस्य मूलम् ८. अयमिष्टराशिः
+अथ वक्ष्माणोदहरणानि
+250
+योगोन्तरो ययोः सैके मूलदेशाहतिर्ययोः 251
+निरेको वाजिना वर्गभेदौ राशी च तत्र कौ ।। इति ( प. ३१)
+अत्र प्रथमे सूत्रम्
+इष्टयोर्वर्ग भेदार्द्ध 252 एकोन्यस्तेन संयुतः ।
+व्येको वर्गो लघोर्यद्वा महतस्तेन वर्जितः ।। (प.३२) योगान्तरे253 ययोर्राश्योः एकयुक्ते तु मूलदे ।
+यत्रैकः शोध्यते तत्र वर्गः सैकः अन्यदुक्तवत् 254 ।। (प. ३३)
+अथ कल्पिताविष्टराशी- प्रथम ३. द्वितीयः ५. अनयोर्वगान्तरार्धम् ८. अयं प्रथमो राशिः । अथ तयोरिष्टराश्योः लघोर्वर्गोप्येकः ८ सेव प्रथमराशिना संयुतः १६. अयं द्वितीयराशिः अथवा महतो राशेर्वर्गोप्येकः २४ प्रथमेन ८ हीनः १६ अयं द्वितीयः । अथ रूपविहीने च तयोर्वगभेदः प्रथमः ८ सैको लघुवर्गः १० प्रथमयुतः १८. अयं द्वितीयः अथवा सैको विहितो वर्गः २६ प्रथमेन विहीनः १८ अयं द्वितीय: 255
+अथ द्वितीये सूत्रम्।।-
+250
+व्येकाद्वर्गात् कस्यचिदिष्टाप्तं यत् भवेद्यदीष्टञ्च ।
+तत् संवर्गस्सैकः पददो व्येको256 विधौ कृतिस्सैका 257 ।। (प.३४)
+A omits प्रथमे दृष्टम्
+251 A मूलदेवाहतिर्ययोः
+....अयमिष्टराशिः
+252
+D भेदाप्तम्
+253
+D वर्गान्तरे
+254
+255
+256
+257
+Quoted in KK, p.152
+A omits अथ कल्पिताविष्टराशी
+A व्येके
+Quoted in KK, p. 153
+...अयं द्वितीयः
+54
+
+पञ्चसङ्ख्यराशेः वर्गः व्येकः २४ अस्मात् त्रिसङ्ख्येनेष्टेनाप्तं
+258
+द्विसङ्ख्यः अन्य:259 अनयोः संवर्गो निरेको मूलदो भवति 260 | अथ तृतीये सूत्रम् ।
+वर्गान्तरादभीष्टादिष्टेनाप्तस्य तस्य चेष्टस्य ।
+योगान्तरेर्द्धिते स्तः तत्कृतिभेदस्य मूलराशी द्वौ
+262
+।
+261
+।। (प.३५)
+८. अयमेकः
+अत्र अभीष्टं वर्गान्तरं जिनसङ्ख्यम् २४ अस्य द्विसङ्ख्येनेष्टेन लब्धम् १२ अस्य
+263
+द्विसङ्ख्यस्य च योगार्द्धम् ७. अयमेकः तयोभेदार्धम् ५. अयमन्यः । एतौ मूलराशी स्तः अथ यत्र स्वमूलसङ्ख्यया रहितो युतो वा राशि: यत्र स्वांशेनापि हीनयुतः तत्र करणसूत्रम् वृत्तद्वयम् (४३) गुणघ्नेति264 - दृष्टराशौ मूलगुणार्द्धस्य कृतिं प्रक्षिप्य मूलीकुर्यात्। तस्मिन्मूले मूलगुणार्द्धं प्रक्षिपेत् । यदि गुणघ्नमूलोनं दृष्टं भवति, यदा पुनः गुणघ्नमूलयुतं दृष्टं तदा तस्मान्मूलात् गुणार्द्धं विशोधयेत् । एवं कृतो मूलराशिर्वर्गीकृतः प्रष्टुरभीष्टराशिर्भवति । सर्वत्र
+265
+266
+गुणार्द्धस्य वर्गेण युतो दृश्यराशिर्गुणार्द्धहीनस्य— वा गुणार्द्धयुतस्य वा मूलराशेर्वगों भवति ।
+268
+अतस्तन्मूलीकृते गुणार्द्धेन 267 युते हीने च मूलराशिः स्वयं भवति । तस्मिन् वर्गीकृते प्रष्टुरभीष्टराशिश्च भवति । वर्गादौ पुनर्गुणितस्वभावश्चिन्त्यः । यथा भुजाकोट्योर्वर्गयोगः कर्णवर्गः स्यात्। एवं वानीयताम्।
+258
+259
+260
+261
+C लब्धं for आप्तम्
+A & B द्विसङ्ख्यो
+A omits पञ्च...भवति
+Quoted in KK, p. 154
+262
+B & C अस्मात्
+263
+264
+265
+A युक्तो
+266
+A omits अत्राभीष्टं
+... स्तः
+See appendix III, verse no. 42
+D गुणार्द्धस्य हीनस्य
+267
+B adds च
+268 A omits
+55
+
+269
+गुणनमूलेनयुते चतुर्ध्ना दृश्यात् गुणस्यास्य युताच्च
+270
+कृत्या।
+पदं गुणेनापि युतं विहीनं दलीकृतं वर्गितमिष्टराशिः । । (प.३६) गुणवर्गात् साष्टांशाद्विघ्ना दृश्येन नवहतेन युतात्।
+.271
+मूलं सार्धगुणान्वितहीनं त्रिहतञ्च वर्गीकृतं वेष्टम् ।। ( प. ३७)
+एवमादिभिर्बहुभिः प्रकारैः गुणघ्नमूलोनयतराशिः साधितव्यः । (४४) यदा लवैश्चेति 272
+273
+तदा
+पुनरभीष्टराशिः
+स्वांशेन हीनयुतो गुणघ्नमूलेन च हीनयुतः, तदा
+274
+स्वांशसङ्ख्यामेकस्माद्विशोध्य शिष्टेनांशात्मकेन दृश्यराशिं मूलगुणञ्च विभजेत्। एवम्
+अंशोने विधिः । यदा पुनः स्वांशैर्युतो राशिस्तदा अंशसङ्ख्यामेकस्मिन् प्रक्षिप्य तेन अंशसहितरूपेण दृश्यं मूलगुणञ्च विभजेत्।
+एवं सिद्धाभ्यां दृश्यमूलगुणाभ्यां पूर्ववत् गुणघ्नमूलोनयुतस्य राशेरित्यादिविधिना अत्रांशानां शोधनक्षेपणविधौ एकस्य सङ्ख्यस्य राशेरंशानाञ्च
+275
+अभीष्टराशिः साद्ध्यः । सवर्णीकरणं—“ कार्यम्। इहोपपत्तिस्तु अभीष्टराशिः यावता स्वांशेन हीनो युतो वा भवति,
+276
+तदा
+दृश्यराशिरपि तावता स्वांशेन हीनो युतो वा स्यात् । तथा 277 मूलगुणश्च तावता स्वांशेन हीनो युतो वा भवति। अथ स्फुटयोर्दृश्यमूलयोस्सिद्ध्यर्थं 278 दृश्यराशौ मूलगुणेन च हीनांशः प्रक्षेप्यः । अधिकांशस्तु विशोद्ध्यः । एकेन भागोनयुतेन इत्यनेनापि तस्यांशस्य क्षेपणशोधने क्रियेते । यदा चतुर्थांशहीनो दृश्यराशिस्त्रिसंख्यः, तदा, हीनचतुर्थांशत्वात्तस्य त्र्यंशसमश्चतुर्थांशो भवति । अतस्त्रिसंख्ये दृश्यराशौ स्वतृतीयांशः प्रक्षेप्यः । तथा कृतः स चतुस्सङ्ख्यो भवति । इहापि
+269
+C गुणघ्नमूलोनयुते
+270
+C युतौ च
+271
+D वर्गितम्
+272
+c यदेति, see appendix III, verse no. 43
+273
+B, C & D यदा
+274
+A मूलञ्च
+275
+B & C एकसङ्ख्यस्य
+276
+D सवर्गीकरणम्
+277
+C & D तदा
+278 B & C स्फुटयोर्दृश्यमूलगुणयोस्सिद्ध्यर्थं
+56
+
+279
+280
+281
+चतुर्थांशमेकं चतुर्गुणितादेकस्माद्विशोद्ध्य, शिष्टेन पादत्रयेण त्रिसंख्ये दृश्यराशौ विभक्ते सति, चतुस्सङ्ख्यो लब्धराशिर्भवति । एवं मूलगुणेपि स्वांशो वेद्यः । यदा पुनश्चतुष्षष्टिसङ्ख्यो अभीष्टराशिः तदा तस्मादर्द्ध हीने द्विघ्नमूले च हीने षोडशसङ्ख्यो दृश्यः । तत्र यदा लवैरित्यादिना सिद्धो राशि: द्वात्रिंशत्संख्यः स्यात् । मूलगुणश्चतुस्संख्यः । अतो हीनाधिकलवा मूलगुणदृश्ययोर्भागा एव भवन्तीति ।
+279
+उदाहरणम्।।- (४५) बाले इति। अत्र द्व्यंशाः सप्तमूलगुणाः । अलिदलपदमिति- अत्र दृश्यौ द्वौ । अर्द्धस्य मूलगुण एकः । ऊनभागनवांशाः अष्टौ । अत्रार्द्धस्य मूलीकृतत्वात् मूलगुणं द्व्यंशं प्रकल्प्य ऊनभागनवांशावष्टौ एव प्रकल्प्य, राशिमानीय पुनस्तं द्विगुणीकुर्यात् ।
+करणसूत्रम्-
+उदाहरणम् -
+राश्योर्वधोदृश्यराशिर्यदा स्याद् राश्यभेदो मूलगुणस्तदानीम् ।
+महत्प्रसिद्ध्यै स भवेदृणाख्यो लघुप्रसिद्ध्यै तु भवेद्धनाख्यः।। (प.३८) अभीष्टसंज्ञस्य पदं त्विहैक स एव चान्यपि परो न युक्तः ।
+भागो लघोः स्यान्महतोपि वा चेत् भागस्तदा मूलगुणांश एव।। (प.३९)
+राश्योर्वधो ययोस्त्रिशंत्280 मितः स्यादन्तरस्तयोः।
+एकः स्यात् सुमते वाच्यौ राशी तौ सत्वरं त्वया।। (प.४०)
+अत्र मूलगुणो धनाख्यः एकः । दृष्टं त्रिंशत्सङ्ख्यम् । आभ्यां प्राग्वत् हितो राशि: 281 पञ्चविंशत्सङ्ख्यम्। अस्य पदमेको राशिः पञ्चसङ्ख्यः स एव राश्यन्तरेण युक्तो द्वितीयः षट्सङ्ख्यः। अथवा मूलगुणऋणख्यः १. अत्र लब्धं ३६ अस्य मूलमेकः ६ स एवान्तरहितो
+द्वितीय: ५
+282
+See appendix III, verse no. 44
+A राश्योर्ययोर्वधस्त्रिंशत्
+B & C सिद्धो राशि
+282
+A omits अत्र मूलगुणो
+...
+द्वितीय: ५
+57
+57
+
+उदाहरणम् -
+राश्योर्घातो लघुत्र्यंशरहितः शक्रसम्मितः ।
+द्विसङ्ख्यस्यात्तयोर्भेदो वद तौ वत्स वेत्सि चेत् । । (प. ४१)
+अत्र दृष्टस्य लघुत्र्यंशरहितत्वात् लघुराशिः साध्यः । तत्र धनाख्येन
+284
+283
+मूलगुणो
+द्विसङ्ख्यः— “ पुनर्लघुत्र्यंशरहितत्वात् ऋणाख्यश्च मूलगुणस्त्र्यंशः अनयोरन्तरं धनाख्यो मूलगुणः त्र्यंशैः पञ्चभिर्मितः अनेन सिद्ध एकः ३ अन्तरयुतस्स एवान्यः ५ अथ त्रैराशिके वृत्तम् अथ
+286
+287
+285
+288
+मूलयुक्ते तावदुदाहरणम् उदाहरणम् (४६) प्रमाणमिच्छा चेति । येन
+289
+व्रीह्यादिद्रव्यविशेषेण विशिष्टः प्रमाणराशिः इच्छाराशिरपि तेनैव व्रीह्यादिद्रव्यविशेषेण विशिष्टः
+स्यात्। यः पुनरादौ स्मर्यते स प्रमाणराशिः । यस्त्वन्ते स्मर्यते स इच्छाराशिः । प्रमाणराशेरन्यजातिः स्यात् फलराशिः । स च मध्ये स्मर्यते । तत्फलराशिना निहत्य आदिभूतेन प्रमाणराशिना विभजेत्। तत्र लब्धमिच्छाफलं भवति । विलोमे व्यस्तत्रैराशिके व्यस्तविधिर्भवति । प्रमाणराशिर्गुणकारः इच्छाराशिर्हारक इत्यर्थः ।
+290
+उदाहरणम् (४७) कुंकुमस्येति । यदि त्रिभिर्निष्कसप्तमलवैः कुंकुमस्य सदलं
+291
+पलद्वयं प्राप्यते तदा निष्कनवकेन कुंकुमस्य कियत् पलं प्राप्यते इतीह विचिन्त्यते । तत्र
+त्रयो निष्कसप्तमलवाः प्रथमं स्मृताः । प्रमाणं मध्ये स्मृतम् । कुंकुमस्य सदलं पलद्वयं फले अन्ते
+स्मृतं, निष्कनवकमिच्छा । अत्र इच्छाप्रमाणयोः सवर्णीकरणं कार्यम्
+292
+। वराटकस्य शेषो
+283
+B & C धनाख्यौ
+284
+C मूलगुणो द्विसङ्ख्यः
+285
+A omits अत्र दृष्टस्य एवान्यः ५
+...
+286 See appe ndix III, verse no. 45
+287 See appe ndix III, verse no. 46
+288
+A प्रमाणमिति, See appendix III, verse no. 47
+C omits व्रीह्यादि
+289
+290
+See appe
+ndix III, verse no. 48
+291
+292
+B & C omits त्रैराशिके ... प्राप्यते
+B कर्तव्यम्
+58
+
+वराटकभागः (४८) द्रम्मेति । अत्र द्रम्मद्वयशब्दो द्वात्रिंशद् पणानां वाचक इति कल्प्यम्
+293
+I
+यत्र इच्छाया वृद्धौ फलस्य ह्रासः स्यात् । इच्छाया हासे फलस्य वृद्धिर्वा । तत्र व्यस्तत्रैराशिकं कार्यम्। तद्विषयं प्रदर्शयति । (४९) जीवानामित्यादिना 294 जीवानां प्राणिविशेषाणां वयसो मानवशात् कल्पिते मौल्यद्रव्ये व्यस्तत्रैराशिकं भवेत् । तथा वर्णस्य मानवशात् कल्पिते हैम्ने तौल्ये हेम्नस्तौल्ये तथा व्रीह्यादिराशीनां भागहारे कुटुबप्रस्थादिमानविशेषैः हरणे च उदाहरणम् (५०) प्राप्नोति चेदिति स्त्रीणां हि वयो वृद्धौ मौल्यस्य न्यूनता स्यात् । यस्याः उक्ष्णस्कन्धे
+295
+296
+द्वौ धुरौ चिरकालौ धृतत्वाद्विशीर्यते सा द्विधूर्वहः इत्युच्यते । यस्य स्कन्धे षट्धुरो विशीर्यते स धूः षट्कवहः। गद्याणमितं गद्याणाख्यं मानतुल्यं यस्मिन् भाण्डविशेषे सप्ताढकतुल्यं द्रव्यमवतिष्ठते । तद्भाण्डं सप्ताढ कमानमित्युच्यते । मापिते परिगणिते 297।
+अथ पञ्चराशिकसप्तराशिकादौ वृत्तम् (५१) पञ्चसप्तेति 298 प्रमाणे यावन्तो राशिभेदाः सन्ति, इच्छायामपि तावन्तो हि राशिभेदा स्युः । तत्र इच्छाप्रमाणयोः समानजातीययोः यौ राशी
+299
+300
+समच्छेदौ तयोः छेदयोरन्योन्यपक्षनयनं सवर्णनयनं कुर्यात्। फलशब्देन अंशा उच्यन्ते। समानजातीयानामंशानां ये छेदास्तेषां समत्वं कृत्वेत्यर्थः । एवं समानजातीयानंशान् समच्छेदान् कृत्वा पुनः प्रमाणराशीनां सर्वेषां परस्परवधं कुर्यात् । तथा इच्छाराशीनां च सर्वेषां परस्परवधं
+301
+कुर्यात् । पुनरिच्छाराशीनां वधं फलराशिना निहत्य प्रमाणराशिवधेन विभजेत् । तत्र लब्धमिच्छाफलं भवति । इच्छाराशेः फलगुणेनाधिक्यात् स बहुराशिवध इत्युच्यते । प्रमाणराशेः
+293
+ा वाचकमिति कर्तव्यम्
+294
+295
+296
+297
+298
+299
+300
+A जीवानामिति, See appendix III, verse no. 49
+A प्राप्नोतीति, See appendix III, verse no. 50
+B & C द्विधूर्वच
+A omits
+A पञ्चेति, See appendix III, verse no. 51
+A स्वच्छेदौ
+A & D परस्परवर्णनम्
+301
+A omits तथा
+...
+कुर्यात्
+59
+
+302
+फलगुणनाभावात् स स्वल्पराशिवध इत्युच्यते । फलगुणनं त्रैराशिकन्यायात् सिद्धम्।
+उदाहरणम् (५२)
+304
+303
+मासे शतस्य इति। यद्धनमृणं दात्रे प्रतिमासं दीयते तत्
+कलान्तरमित्युच्यते । अत्र एकः मासः प्रमाणकालः । शतं प्रमाणधनम् । पञ्चसङ्ख्यः फलराशिः। एकं वर्षमिच्छाकालः । षोडश इच्छाधनम्। अ 305 वर्षमासयोः समच्छेदत्वं कार्यम् ।
+308
+306
+307
+अथवा पञ्चराशिकादिकमपि त्रैराशिकमेव तत्र त्रैराशिकद्वयम् । पञ्चराशिकम् त्रैराशिकत्रयम् सप्तराशिकमित्यादि वेद्यम्। यथा मासे शतस्येत्यत्र यदि मासशतस्य पञ्चकलान्तरं तदा वर्षे शतस्य कियत् कलान्तरमिति प्रथमम् । तत्रैकोमासः प्रमाणराशिः । पञ्चसङ्ख्यः फलराशिः। द्वादशसङ्ख्यः इच्छाराशिः । यदि वर्षशतस्य इयत् कलान्तरं तदा षोडशानां कियत् कलान्तरमिति द्वितीयम् । तत्र शतं प्रमाणराशिः । अतः प्रमाणयोरेकशतसङ्ख्ययोः संवर्गो हारः। इच्छाराश्योर्द्वादशषोढसङ्ख्ययोः संवर्गो गुणकारः । पञ्चसङ्ख्यो गुण्य इति। कालं च तथा कथय। मूलकलान्तराभ्यामिति । कलान्तरे ज्ञाते तेन तथा मूलधनं मूलकालतत्फलैरिच्छाधनेन इच्छाकालः साध्य इत्यर्थः । तत्र यदि षोडशानामियत् कलान्तरं तदा शतस्य कियदिति । शतस्य कलान्तरलब्धि: 309 । एवं प्रथमं यदि शतस्य पञ्चसङ्ख्येन कलान्तरेणैको मासो लभ्यते, तदा
+310
+अनेन कलान्तरेण कियन्तो मासा इति द्वादशमासा लभ्यन्ते । एवं कालः साध्यः । कालफले
+311
+विदित्वा मूलधनञ्च साध्यम् । तत्र यदि शतस्य मासे पञ्चकलान्तरं तदा वर्षे कियदिति
+302
+D फलगुणाभावात्
+303
+A मासेति, See appendix III, verse no. 52
+300 A कालान्तरमित्युच्यते
+305
+A तत्र
+306
+B, C & D तथा
+307
+A कालान्तरम्
+308
+A कालान्तरमिति
+309
+310
+A कालान्तरलब्धिः
+A कालान्तरेण
+311 A पञ्चकालान्तरं
+60
+
+।
+।
+313
+प्रथमम्। यद्यनेन कलान्तरेण 312 शतं लभ्यते, तदाभीष्टकलान्तरेण कियदिति द्वितीयम् । एवं त्रैराशिकयुक्त्या सर्वं साध्यमित्यर्थः । (५३) सत्र्यंशेति - अत्र सत्र्यंशो मासः, शतञ्च प्रमाणराशिः। पञ्चलवाधिकास्त्रयस्सार्द्धं द्विषट्कञ्च इच्छाराशिः । सपञ्चमांशाः पञ्च फलराशिः । तत्र इच्छाराश्योः छेदाभ्यां फलराशिच्छेदेन च प्रमाणराशिर्हन्तव्यः 314 | इच्छाराशिफलराशीनां संवर्ग: प्रमाणच्छेदेन हन्तव्यः । सप्तराशिके उदाहरणम् - (५४) विस्तारेति । पटिका वस्त्रभेदाः तादृगिति यादृग्भूतं शतं315 तादृग्भूतं किं लभते इत्यर्थः । तदा तत्तुल्यसङ्ख्ये इत्यर्थ: 316। अत्र निष्कात्मकं शतमिति प्रकल्प्य कर्म क्रियते । अत्रैवं त्रैराशिकम् । विस्तारे त्रिकरमिताभि: 317 दैघ्ये कराष्टकमिताभिः अष्टभिः पटिकाभिः यदि शतं लभ्यते तदा तत्तुल्यसङ्ख्याविस्तृतिदैर्घ्यं सार्धकरत्रयमिताभिः कियल्लभ्यते इति प्रथमम् । यदि दैर्घ्य सार्थकरत्रयमिताभिः विस्तारे करत्रयमिताभिः अष्टभिः यत् फलं लभ्यते तदा ततुल्यदैर्घ्यसङ्ख्याविस्तारे हस्तार्धमिताभिः किल्लभ्यते इति द्वितीयम् । यदि दैघ्ये सार्धकरत्रयमिताभिः विस्तारे हस्तार्धमिताभिः अष्टभिः पटिकाभिः इयत् फलं लभ्यते तदा तत्तुल्यदैर्घ्यविस्तृतिकया एकया पटिकया कियल्लभ्यते इति तृतीयम् । एवं सर्वत्र त्रैराशिकम् द्रष्टव्यम् ।
+अत्र प्रमाणसङ्ख्याविस्तृतिदैर्घ्यसङ्ख्याः फलञ्च इच्छायाः सङ्ख्यादैर्घ्यविस्तृतयश्च सच्छेदाः क्रमान्यस्यन्ते। फलस्य न छेदः नवराशिके (५५) पिण्डेति । एकराशिके पट्टा ये इति प्रथमोदितप्रमितयः पूर्वत्र प्रमाणत्वेन पठिता इत्यर्थः । माने चतुर्वज्जिता पूर्वत्र इच्छायां माने चतुर्वजिता इति पठिता इत्यर्थः । यत्र भाण्डैर्भाण्डान्तरादानं क्रियते, तत्र विधिरुच्यते (५६)
+318
+312
+A कालान्तरेण
+313
+D contains portions upto this.
+314
+B & C निहन्तव्यः
+315
+C adds तादृग्भूतं शतं
+316
+317
+B omits तदा तत्तुल्यसङ्ख्ये इत्यर्थः
+A करत्रयमिताभिः
+318
+A adds इति
+61
+
+319
+तथैवेति । भाण्डप्रतिभाण्डके ये हारा: अंशाश्च मूलद्रव्यञ्च भवन्ति, तत्राप्यस्य पञ्चादिराशिकस्य विधिर्विधेयः ।
+320
+एतदुक्तम् भवति- भाण्डप्रतिभाण्डके त्रैराशिकस्य द्वयस्य संभवात् पञ्चराशिकवत् कर्म भवतीति। उदाहरणम् (५७) द्रम्मेणेति - अत्र द्रम्मं पणीकृत्य कर्म कार्यम्। यद्येकेन पणेन त्रिंशद्वरदाडिमानि लभ्यन्ते, तदा षोडशभिः पणः कियन्तीति प्रथमम् । एवं भाण्डद्वयं तुल्यं मूल्यं कुर्यात्। यदि आम्रशतत्रयेण एतावन्ति दाडिमानि लभ्यन्ते, तदा दशभिराम्रैः कियन्ति दाडिमानीति द्वितीयम् । अत्र त्रिंशतः षोडशानां दशानाञ्च वधो बहुराशिवधः । शतत्रयस्यैकस्य च
+वधः स्वल्पराशिवधः। विनिमयो व्यत्यासः इति
+321
+I
+।। इति परमेश्वरकृते लीलावतीव्याख्याने प्रकीर्णकानि।।
+322
+323
+-
+अत्र
+अथ मिश्रव्यवहारे करणसूत्रं सार्द्धं वृत्तम्। (५८) प्रमाणकालेनेति मूलधनकलान्तरयोर्योगात् तयोर्विभागः क्रियते। प्रमाणकालः प्रमाणधनस्य यः कालः स प्रमाणकालः। प्रमाणधनस्य प्रमाणकाले यत् कलान्तरं सञ्जातं यत् कलान्तरं तदत्र
+324
+325
+फलमित्युच्यते। यत् पुनरभीष्टकालसंजातकलान्तरयुतमभीष्टधनं तत् मिश्रधनमित्युच्यते। मिश्रधनस्य यत् कालो अभीष्टाख्यः स मिश्रकाल इत्युच्यते । प्रमाणकालेन हतं प्रमाणधनम् एकत्र संस्थाप्य पुनर्मिश्रकालेन हतं फलञ्चैकत्र विन्यसेत् । पुनस्तयोरेव योगेन तयोरेकैकमिश्रधनेन च निहतं विभजेत्। तत्र क्रमान्मूलधनं कलान्तरञ्च भवतः । अथवा इष्टकर्माख्यविधिः कार्यः। तत्रेष्टकर्मणा सिद्धं यन्मूलधनं तन्मिश्रधनात् संशोधयेत् । तत्र शिष्टं कलान्तरं भवति ।
+कलान्तरज्ञानाय पृथक् व्यपारो न कार्यः इत्यर्थः ।
+319
+A तथेति
+320
+c त्रैराशिकद्वयस्य
+321
+B & C omits
+322 A omits
+323
+A प्रमाणेति
+324
+A adds प्रमाणकालो
+325
+A omits प्रमाणकालेन ... पुनर्मिश्रकालेन
+62
+
+326
+उदाहरणम् (५९) पञ्चकेनेति- यस्य शतस्य पञ्चसङ्ख्यं कलान्तरं तत्पञ्चकशतमित्युच्यते । पञ्चकेन शतेन पञ्चशतन्यायेनेत्यर्थः । अत्रैवं त्रैराशिकम् । यदि शतस्य एकस्मिन् मासे पञ्चसङ्ख्यं कलान्तरं लभ्यते, तदा द्वादशसु मासेषु कियत् कलान्तरमिति। मिश्रकाले शतस्य कलान्तरलब्धिः । अत्र पञ्चसङ्ख्याख्यस्य कलान्तरस्य
+327
+मिश्रकालो गुणकारः । प्रमाणकालो हारकः । तत्र तेन हारेण हरणं न क्रियते। अतो
+328
+329
+मिश्रकालहतं फलं प्रमाणच्छेदकं भवति। तच्च कलान्तराख्यं तस्य मूलधनं प्रमाणधनमेव। तत्र मूलधनकलान्तरयोः समच्छेदत्वोत्पादनाय कलान्तरस्य छेदेन प्रमाणकालाख्येन प्रमाणधनं निहन्यते । एवं प्रमाणकालेन हतं प्रमाणधनं मूलधनं भवति। मिश्रकालेन हतं फलं मिश्रकाले मूलधनस्य कलान्तरं भवति । पुनरेवं त्रैराशिकम्- यद्यनयोर्मूलधनकलान्तरयोर्योगेन मिश्राख्येन एते मूलधनकलान्तरे च लभ्यते, तदा अभीष्टमिश्रधनेन के मूलधनकलान्तरेण कियदिति । अथवा मूलधनमिष्टं प्रकल्प्य तस्य मिश्रकाले कलान्तरमानीय तन्मूलधनकलान्तरर्योयोगं प्रमाणं प्रकल्प्य मूलधनं फलञ्च प्रकल्प्य मिश्रधनं इच्छाञ्च प्रकल्प्य मूलधनं साधयेत् । तत्पुनर्मिश्रधनाद्विशोध्य शिष्टं कलान्तरं प्रकल्पयेदिति । यत्र मिश्रधनं बहुधा खण्डीकृत्य बहुभ्यो बहुधा दीयते तत्र तेषां कलान्तरेषु भिन्नकालसमर्थेष्वपि तुल्येषु सत्सु तत्खण्डानयनाय करणसूत्रं वृत्तम्।
+330
+(६०) अथ प्रमाणैरिति- यस्मिन् काले प्रमाणधनस्य कलान्तरमभिहितं स कालः प्रमाणकालः। तत्कलान्तरं फलमित्युच्यते । प्रमाणधनं प्रमाणमित्युच्यते । तत्तत्खण्डस्य च यः कालो अतीतः स कालः प्रतीतकाल इत्युच्यते । तत्र प्रमाणधनेन प्रमाणकालं निहत्य प्रतीतकालगुणितेन फलेन कलान्तराख्येन विभजेत्। तत्र लब्धं समफलाख्यं धनं भवति । एवं तत्तत्खण्डे
+326
+327
+328
+329
+330
+T omits
+A & C हारकेण
+A प्रमाणकालच्छेदकम् C मूलं धनं
+B omits
+63
+
+समफलाख्यधनमानीय पृथक् पृथक् स्थापयेत् । पुनस्तेषामेकैकं मिश्रधनेन निहत्य तेषामेव योगेन विभजेत्। तत्र लब्धं तत्तत्खण्डं भवति । प्रयुक्तखण्डानि दत्तानि खण्डानीत्यर्थः।
+उदाहरणम् (६१) यत्पञ्चकेति - यस्य शतस्य पञ्चकलान्तरं तत् पञ्चकशतम्। एवं त्रिकचतुष्कशते च वेद्ये। मिश्रधनं चतुर्नवतिः । खण्डानि त्रीणि । तेषु त्रिष्वपि प्रमाणधनं शतम्। प्रमाणकाल एकः। फलं तु प्रथमस्य पञ्चद्वितीयस्य त्रीणि । तृतीयस्य चत्वारि । प्रतीतकालाः
+332
+331
+प्रथमस्य सप्त। द्वितीयस्य दश तृतीयस्य पञ्च कलान्तरः त्रिष्वपि तुल्यम्। एवमिह त्रैराशिकम्। यदि शतस्यैकस्मिन् मासे पञ्चसङ्ख्यं कलान्तरं तदा सप्तदशसु मासेषु शतस्य कियत् कलान्तरमिति । प्रथमं तत्र सप्तसङ्ख्येन प्रतीतकालेन गुणितस्य पञ्चसङ्ख्यस्य फलस्य प्रमाणकाल एकसङ्ख्यच्छेदः स्यात् । तेन अत्र हरणक्रियाभावात् तच्छेदकं अंशात्मकं प्रतीतकालघ्नं फलं भवति । तच्च कलान्तरस्य सच्छेदत्वात्तच्छेदेन प्रमाणकालाख्येन तन्मूलधनमिह निहन्यते ।
+कलान्तरेण
+एवं खण्डत्रयेपि प्रतीतकालसंभवं कलान्तरं मूलधनं च समच्छेदीकृतं पृथक् पृथक् स्थापयेत्। पुनस्तैरेवं त्रैराशिकम्। यदि प्रतीतकालगुणितफलतुल्येन कलान्तरेण प्रमाणकालगुणितप्रमाणधनतुल्यमूलधनं लभ्यते तदा एकसङ्ख्येन कियन्मूलधनमित्येकसङ्ख्यस्य कलान्तरस्य मूलधनलब्धिः । अत्र प्रमाणकालघ्नप्रमाणधनस्य प्रतीतकालघ्नफलं हरः । एकसङ्ख्यत्वात् गुणो न प्रदर्शितः । एवं द्वितीयः । एवं त्रयेप्येकसङ्ख्यस्य 334 कलान्तरस्य मूलधनमानीय पृथक् पृथक् स्थापयेत्। एतानि मूलधनानि समकलान्तराख्यानि च भवन्ति । तैः पुनरेवं त्रैराशिकम्। यद्येषां समकलान्तराख्यानां त्रयाणां
+333
+335
+मूलधनखण्डानामैक्येन तान्येव मूलधनखण्डानि लभ्यन्ते तदा सति चतुर्न्नवतिसङ्ख्येन खण्डत्रयैक्येन कानि खण्डानीति इष्टखण्डत्रयलब्धिः । एवं तृतीयम् । अत्र खण्डत्रयं समच्छेदं
+331
+C omits
+332
+T & Comit
+333
+334
+T & C हारकः
+C खण्डत्रयेप्येकसङ्ख्यस्य
+335
+C omits
+64
+
+336
+कृत्वा कर्म कार्यम्। एषां वणिजां मूलधनयोगेन वाणिज्यकर्म कृत्वा यन्मिश्रधनं लभ्यते, तस्मान्मिश्रधनात्तेषां भागान् पृथक्कत्तुं वृत्तार्द्धम् । (६२) प्रक्षेपका इति पृथक् भूताः मूलधनभेदाः प्रक्षेपका इत्युच्यते। तदैक्याद्वाणिज्यकर्मणा सिद्धं धनं मिश्रधनम्। यदि मूलधनयोगेन तान्येव मूलधनानि पृथक् लभ्यन्ते, तदा मिश्रधनेन कानि धनानीतीह त्रैराशिकम्। अथवा मिश्रधनात् मूलधनैक्ये विशोधिते शिष्टं लाभयोगः स्यात्। तस्मात् पृथक् पृथक् मूलधनगुणितात् मूलधनैक्येन लाभधनानि पृथग्भवन्ति । निर्झराः पृथक् पृथक् मुक्तदिनांशभेदेन वापीं पूरयन्ति । ते युगपन्मुक्ताः केन दिनांशेन तां वापीं पूरयन्तीत्यत्र वृत्तार्द्धम् (६३) भजेच्छिदोंशैरिति 337 येन येन दिनांशेन वापी पूर्यते तेन तेन दिनांशेन तस्य तस्यांशस्य छेदं विभजेत् ।
+338
+339
+एवं विभक्तानां छेदानामैक्येन रूपमेकं विभजेत् । तत्र लब्धं परिपूर्तिकालो भवति । छेदानां संयोगकरणे सवर्णीकरणं चिन्त्यम् । छेदादंशेन विभक्तं फलं हि परिपूर्तेरावृत्तिसङ्ख्या स्यात्। तत्रैवं त्रैराशिकम्। यदि यथोक्तेन दिनांशेनैकवारं परिपूर्तिर्भवति, तदा तच्छेदतुल्यैः अंशैः कियद्वारं परिपूर्तिः स्यादिति अत्र फलस्यैकसङ्ख्यत्वात् गुणाभावः । एवं प्रतिनिर्झरं परिपूर्त्तिसङ्ख्यामानीय तासामैक्यं कुर्यात् । तत्तुल्या हि युगपन्मुक्तेषु निर्झरेषु परिपूर्त्तिसङ्ख्याः स्युः । पुनस्ताभिरेवं त्रैराशिकम् । यद्यमूभिर्द्दिनपरिपूर्तिसङ्ख्याभिः दिनमेकं लभ्यते, तदैकया परिपूर्तिसङ्ख्यया कियान् दिनांश इति । गुणगुण्ययोरेकरूपत्वात् रूपं परिपूर्त्तिसङ्ख्याभिर्विभज्यते । यदा तण्डुलमुद्गादीनां द्रव्याणां इष्टभागा मिश्रधनैरानीयन्ते तत्र करणसूत्रं वृत्तम्। (६४) पण्यैरिति- तण्डुलादि यद्द्रव्यं वणिग्भिर्जनेभ्यो दीयते तद्द्रव्यं पण्यमित्युच्यते। द्रम्मादि यद्द्द्रव्यं तण्डुलादेः प्रतिद्रव्यभूतं वणिग्भिरादीयते तन्मूल्यमित्युच्यते ।
+340
+अत्र
+तण्डुलादीनां यावन्तो भागा अभीष्टास्तावन्तो भागाः स्वभागा इत्युच्यन्ते । येन धनेन
+336
+337
+338
+B & T मूलानीतीहा भजेदिति
+A
+T omits
+339 C निर्झरेषु युगपन्मुक्तेषु
+340
+B & C यावतो भागः
+65
+
+तण्डुलादय आनीयन्ते
+341
+तन्मिश्रधनं तत्तत् पण्यद्रव्यस्य मूलधनं भागैरभीष्टैः निहत्य, तत्तत् पण्यद्रव्यसङ्ख्यया विभजेत्। तत्र लब्धमिष्टभागमूल्यं भवति । एवं तत्तत्पण्यस्य इष्टभागमूल्यमानीय पृथक् पृथक् स्थापयेत् । पुनस्तेषां इष्टभागमूल्यानामैक्येन तान्येवेष्टभागं मूल्यानि मिश्रधननिहतानि विभजेत्। तथा तेनैव भागहारेण पण्यद्रव्यभागानप्यभीष्टान्मिश्रधननिहतानि विभजेत्। तत्र लब्धानि क्रमेण अभीष्टमूल्यान्यभीष्टपण्यद्रव्याणि च स्युः। उदाहरणम् (६५) सार्द्धमिति - सार्द्धं तण्डुलमानकत्रयमिह पण्यद्रव्यम् । द्रम्मं तस्य मूल्यं तथा मुद्गानां मानाष्टकञ्च पण्यम्। तस्यापि द्रव्यो मूल्यं त्रयोदश काकिण्यः । इह मिश्रधनं तण्डुलस्य भागौ द्वौ । मुद्गस्य भागः एकः । अत्रैवं त्रैराशिकम् - यदि सार्द्धेन तण्डुलमानकत्रयेण एकद्रम्मतुल्यं मूल्यं लभ्यते, तदा द्वाभ्यां तण्डुलमानाभ्यां कियन्मूल्यमिति । तथा अष्टभिर्मुद्गमानैः यद्येकद्रम्मतुल्यं मूल्यं लभ्यते, तदेकेन मुद्गभागेन कियन्मूल्यमिति । एवं प्रथमम् । यद्यनयोः तण्डुलमुद्गमूल्ययोः योगेन एते एव तण्डुलमुद्गमूल्ये लभ्येते तदा त्रयोदशभिः काकिणीभिः कियान् (?) तण्डुलमुद्गमूल्ये इति
+343
+342
+द्वितीयम् । तथा पूर्वोदितेन तण्डुलमुद्गमूल्येन योगेन यदि तण्डुलस्य द्वौ भागौ तदा मुद्गस्यैकभागश्च लभ्यते। तदा त्रयोदशभिः काकिणीभिः कियांस्तण्डुलभागः कियांश्च मुद्गभाग इति। अत्र तण्डुलमुद्गमूल्याभ्यां मिश्रकाकिणीगुणिताभ्यां तद्योगेन तण्डुलमुद्गकाकिणीलब्धिः स्यात् । अत्र मिश्रधनस्य काकिणीत्वात् द्रम्ममपि काकिणीकृत्य कर्म कार्यम् । सार्थो 344 जनसमूहः यत्रैकैकस्य वणिज एकैकविधानि रत्नानि सन्ति, तत्र तत्र स्वात् स्वात् रत्नसमूहादितरेभ्य एकैकस्मिन् दत्ते सति सर्वेषां वणिजाञ्च 345 मूल्यधनं 346 तुल्यं भवति । तत्र तेषां रत्नानां मूल्यायनाय करणसूत्रम् वृत्तम् (६६) नरघ्नेति - यावन्तो रत्नवणिजः तावन्तो नराः एकैकस्मै यावन्ति रत्नानि दीयन्ते तावत्यो दानसङ्ख्याः नरसङ्ख्या: गुणितदानसङ्ख्याः स्वां
+B & C आदीयन्ते
+341
+342
+B & C पूर्वोदित
+343 C adds इति च
+344
+B सार्द्धा
+345
+346
+C omits
+C adds च
+66
+
+स्वां रत्नसमूहाद्विशोध्य शिष्टेन कञ्चिदभीष्टराशिं विभजेत् । तत्र लब्धं तस्मिन् तस्मिन्
+रत्नसमूहे एकैकस्य मूल्यं भवति ।
+अथवा नरघ्नदानोनितरत्नशेषाणां
+अभीष्टराशितुल्यानि
+347
+परस्परवधेन एकैकेन नरघ्नदानोनितरत्नशेषेण
+विभक्ते सति अभिन्नानि अवयवरहितानि मूल्यानि भवन्ति । अतः
+349
+348
+सर्वेष्वपि रत्नेषु सर्वदानसङ्ख्यातुल्यानि रत्नानि हि प्रतिपुरुषं सन्ति । तेभ्यो निष्पन्नानि मूल्यानि च तुल्यानि स्युः । अतो नरघ्नदानहीनानां रत्नानां मूल्यानीह कल्प्यन्ते । तत्रैवं त्रैराशिकम् - यदि नरघ्नदानोनितरत्नशेषेण अभीष्टराशितुल्यानि मूल्यानि लभ्यन्ते, तदैकेन रत्नेन कानि मूल्यानीति । अथ सुवर्णगणिते वृत्तम्। (६७) सुवर्णवर्णेति सुवर्णशब्देन सुवर्णस्य तौल्यमानं माषाद्युच्यते। वर्णशब्देन तस्य रक्तताभेदैः यो यो वर्णसङ्ख्याभेदो युतो वणिग्भिः प्रकल्प्यते, स उच्यते। तस्य तस्य सुवर्णस्य माषादिमानं वर्णयोराहतिं पृथगानीय एकत्र योजयेत्। तं सुवर्णपर्णाहतियोगं तस्य तस्य सुवर्णस्य स्वर्णैक्येन माषादिमानानामैक्येन विभजेत्। तत्र लब्धं सुवर्णयोगे जातो351 वर्णो भवति । एवं सुवर्णवर्णयोगे वर्णो वेद्यः । यदा पुनस्सुवर्णस्य शोधनं क्रियते, तदा शोधनात् प्राग्जातस्य सुवर्णस्य माषादिमानवर्णयोराहतिं शोधितहेम्ना शुद्धस्य सुवर्णस्य पुनर्जातेन माषादिमानेन विभजेत्। तत्र लब्धं शुद्धस्य सुवर्णस्य वर्णो भवति ।
+350
+352
+।
+अथवा तामेव सुवर्णवर्णाहतिं शुद्धस्य सुवर्णस्य पुनर्जातेन वर्णेन विभजेत् । तत्र लब्धं शुद्धस्य सुवर्णस्य माषादिमानं 353 भवति। शोधनेन हि सुर्वणस्य वर्णो वर्द्धते, माषादिमानं तु हीयते। उदाहरणम् (६८) विश्वेति - विंशतिरुक्तमाषा इति सुवर्णयोगे जातस्य द्वादशवर्णसुवर्णस्य
+347
+C omits
+348
+B तत्र
+349
+A सुवर्णेति
+350
+C omits
+351
+B & C जातम्
+352
+353
+B & C माषादिवर्णेन
+B omits माषादि
+67
+
+354
+ये विंशति माषा उक्ताः तेषां विशोधनेन षोडशसङ्ख्या भवन्तीत्यर्थः उत शोधितमिति । ते माषाः शोधितं षोडशवर्णं हेमसंवृत्तमिति योज्यम् | पृथक् स्थितानां सुवर्णवर्णाहतियोगो यावान् योगजातस्य सुवर्णस्यापि सुवर्णवर्णाहतिस्तावती भवति शोधितस्य सुवर्णस्यापि सुवर्णवर्णाहतिः । अतः सुवर्णवर्णाहतेः सुवर्णमानवर्णमानाभ्यां वर्णमानसुवर्णमानयोः
+शोधनात् प्राक्संभूतैव ं
+सिद्धिः। अथवा सूत्रम्।
+355
+वर्णैक्ये वर्णभेदघ्नं स्वं स्वं 356 माषं विभाजितम्
+माषैक्येनान्यवर्णे तत् स्वर्णं वर्णः सयोगजः ।
+357
+कार्यं द्वयोर्द्वयोरेवं स्वहीने ह्यधिके ह्यणम् ।। (प.४२)
+उदाहरणम्
+दशार्कवर्णयोर्माषाः 358 अष्टौ वेदाः सुवर्णयोः ।
+तद्युतौ वद को वर्णः क्षिप्रं मे गणकोत्तम ।। (प. ४३)
+अत्र प्रथमस्य वर्णः १० तस्य माषाः ८ द्वितीयस्य वर्णः १२ तस्य माषाः ४ वर्णयोर्भेदो द्वौ २ आभ्यां प्रथमस्य माषा अष्टसङ्ख्यागुणिता माषयोगेन द्वादशसङ्ख्येन विभक्ताः कार्याः । तत्र फलमेकं एकस्त्र्यंशश्च । एतस्मिन् फले अन्यस्मात् द्वादशसङ्ख्यात् वर्णात् महत्वाच्छोधिते तत्र शिष्टं दश द्वौ त्र्यंशौ च एष योगजातवर्णः।
+अथवा वर्णभेदेन द्विसङ्ख्येन द्वितीयस्य 359 माषमाने चतुस्सङ्ख्ये गुणिते माषयोगेन द्वादशसङ्ख्येन विभक्ते लब्धं द्वात्र्यंशौ । एतस्मिन् फले अन्यस्मिन् दशसङ्ख्ये वर्णे अल्पत्वात् प्रक्षिप्ते सति जातं दशसङ्ख्यं त्र्यंशौ च द्वौ । अयं युतिजातवर्णः। सुवर्णशोधनविषये सूत्रम्-
+354
+C शोधनेन
+355
+A प्राक्भूतैव
+356
+A स्वघ्नम्
+357
+358
+359
+B & C घृणम्
+B & C दशकवर्णयोर्माषाः
+B & C विजीयस्य
+68
+
+उदाहरणम्-
+अशुद्धशुद्धयोर्भेदो वर्णयोर्यस्तु तद्भृतः। शुद्धवर्णो हरस्तेन हतो माषस्त्वशुद्धजः।। (प.४४) अशुद्धमाषे शोध्यः स्यात् शुद्धे माषो भवेद्धि सः । अशुद्ध शुद्धयोर्भेदो माषयोर्यस्तु तद्धृतः ।। ( प. ४५)
+शुद्धमाषो हरस्तेन हतो वर्णस्त्वशुद्धजः । अशुद्धवर्णे क्षेप्यः स्याद्वर्णशुद्धस्य स स्मृतः ।। (प.४६)
+कृतिमाषार्कवर्णस्य हेम्नश्शुद्ध्याक्षभूमितः ।
+वर्णो माषं तथा वर्णः वदास्मिन्निष्टमाषके ।। (प.४७)
+वर्णः १२ माषाः २० शोधनात्सिद्धो वर्णः १५ अत्र अशुद्धर्योर्वणभेदास्त्रिसङ्ख्यः। तेन भक्तः शुद्धवर्णः पञ्चसङ्ख्यः स्यात् । अनेन अशुद्धमाषे भक्ते लब्धं चतुस्सङ्ख्यम् । तदशुद्धमाषेपि विंशतिसङ्ख्ये संशोध्य दृष्टं शुद्धमानं षोडश ।
+अथ अशुद्धशुद्धयोर्माषयोर्भेदेन चतुस्सङ्ख्येन भक्ते शुद्धमाषे फलं चतुस्सङ्ख्यम् । तेन अशुद्धवर्णे द्वादशसङ्ख्ये भक्ते लब्धं त्रिसङ्ख्यम् । तदशुद्धवर्णे क्षिप्त्वा जातं शुद्धवर्णमानं
+360
+पञ्चदशसङ्ख्यम्" | सुवर्णानां मध्ये यस्य वर्णो न ज्ञायते तस्य योगजातवर्णात् वर्णानयने
+―
+वृत्तम्। (६९) स्वर्णैक्यनिघ्नादिति ज्ञातवर्णानां अज्ञातवर्णस्य च स्वर्णैक्येन माषादिमानैक्येन योगजातं वर्णं निहत्य तस्माज्जातवर्णानां सुवर्णवर्णाहतियोगं विशोद्ध्य शिष्टमज्ञातवर्णस्य माषादिमानेन विभजेत्। तत्र लब्धमज्ञातवर्णस्य वर्णो भवति ।
+361
+स्वर्णैक्यनिघ्नो युतिजातवर्णो हि सुवर्णवर्णाहतियोगः स्यात् । तस्माद्विज्ञातवर्णानां सुवर्णवर्णाहतियोगे विशोधिते सति, शिष्टविज्ञातवर्णस्य सुवर्णवर्णाहतिः स्यात्। अतः तस्मादज्ञातवर्णस्य माषादिसङ्ख्याप्तमज्ञातस्य वर्णस्य वर्णप्रमाणं भवति ।
+A omits अथवा सूत्रं ...पञ्चदशसङ्ख्यम्
+360
+361
+B ततः
+69
+
+अज्ञातमाषादिमानानयनाय वृत्तम् ।। ( ७० ) स्वर्णैक्यनिघ्न इति । विज्ञातमाषादिमानानां
+362
+सुवर्णवर्णानां स्वर्णैक्येन माषादिमानैक्येन निघ्नो युतिजातवर्णो यः तेषामेव विज्ञातस्वर्णानां सुवर्णवर्णाहतियोगश्च यः तयोरन्तरं कुर्यात् । तदन्तरं हैमवर्णान्निजयोगवर्णविशेषेण अज्ञातस्वर्णस्य स्वर्णयोगो जातस्य उभयोः सुवर्णयोर्वणान्तरेण विभजेत् । तत्र लब्धं अज्ञातस्वर्णस्य माषादिमानं भवति। अविदितान्निजः स्यात् । अविदितस्वर्णः स्यात् । वियोजित इत्यत्र अन्तरित इत्यर्थः।
+अत्र युक्तिस्तु स्वर्णैक्यनिघ्नो युतिजातवर्णो यः स सुवर्णाहतियोगस्यैकदेशः स्यात् ।
+363
+364
+अज्ञातस्य माषादिमानगुणितस्य ज्ञातस्य तस्य शेषः । तथा स्वर्णघ्नवर्णैक्यमपि सुवर्णवर्णाहतियोगस्य एकदेशः स्यात् । अज्ञातस्य माषादिमानगुणितस्य ज्ञातस्य वर्णस्य शेषः । तत्रैकदेशयोरन्तरमेव शेषयोरन्तरमपि भवेत् । यतः तुल्यसङ्ख्यस्य द्वावप्येकदेशौ तच्छेषौ च भवतः। तत्र शेषयोरेकस्त्वज्ञातस्य माषादिमानगुणितो हि अज्ञातस्य वर्णः स्यात्। इतरस्तु अज्ञातस्य माषादिमानगुणितो योगजातस्य वर्णः स्यात् । अतो योगजातस्य अप्यज्ञातस्य च वर्णान्तरेण गुणितमज्ञातस्य माषादिमानमेव शेषयोरन्तरं भवति । तस्मात् स्वर्णैक्यनिघ्नयुतिजातवर्णस्य स्वर्णघ्नवर्णैक्यस्य च विश्लेषात् अज्ञातमाषयोगजातयोः वर्णान्तरेण भवति अज्ञातस्य माषादिलब्धिरिति ।
+365
+सुवर्णयोर्वर्णे योगवर्णे च ज्ञाते तयोर्माषादिमानानयनाय वृत्तम् (७१) साध्येनोन इति- योगजातवर्णः साध्य इत्युच्यते । साध्यवर्णाधिकवर्णयोरन्तरं पूर्वं प्रकल्पिताभीष्टसङ्ख्यागुणितं वा केवलं वा स्वल्पवर्णस्य माषादिमानं भवति । तथा साध्यवर्णस्वल्पवर्णयोरन्तरं पूर्वप्रकल्पिताभीष्टसङ्ख्यागुणितं वा केवलं वा अधिकवर्णस्य माषादिमानं भवति 366 साध्येन अन्तरितयोः स्वल्पाल्पयोर्यस्य 367
+अन्तराधिकं368
+।
+तस्य हि न्यूनमाषादिमानत्वम्। यस्य अन्तरं
+362
+A & C सुवर्णानां
+363 B माषादिमानगुणितो
+364
+365
+366
+367
+A & C adds quit
+B अधिकवर्णस्य
+B omits तथा ...भवति
+C स्वत्त्वानायोर्यस्य
+70
+70
+
+अल्पं तस्य अधिकमाषादिमानत्वञ्च । अत्र वर्णसङ्ख्याया अधो माषा न्यस्यन्ते । स्वर्णादिकृतस्य पात्रस्य घुटिकेति संज्ञा ।
+,
+अथ छन्दोविषये शिल्पादि विषये च करणसूत्रं श्लोकत्रयम् । ( ७२ ) एकाद्येकोत्तरा इति। यथोक्ते पादे यावन्त्यक्षराणि यथोक्ते रसभेदादौ यावन्तो रसाद्याः तावत्सु स्थानेषु एकाद्येकोत्तरानङ्कान् क्रमेण तिर्यग्गतान् विन्यसेत् । यथा प्रथमस्थाने एकं तस्य वामे द्वौ तस्य वामे त्रीन् इत्यादि। पुनस्तेषामधश्च एकाद्येकोत्तरानङ्कान् व्यस्तं विन्यसेत् । अन्त्यस्य अध एकं उपान्त्यस्याधो द्वौ इत्यादि । तत्र अधः स्थितान् न्यस्तानङ्कान् उपस्थितैरेकादिभिः पृथक् पृथक् । विभजेत् । तत्र लब्धानि फलानि क्रमेण विन्यस्य प्रथमफलेन द्वितीयफलं निहन्यात् । तेन निहतेन369 द्वितीयेन तृतीयम् ।
+370
+371
+,
+एवं पूर्वपूर्वस्थानगतेनाङ्केन उत्तरोत्तरस्थानगतानङ्कान् निहन्यात् । एवं कृते एकद्वित्र्यादिभेदाः भवन्ति । एतदुक्तं भवति । प्रथमस्थाने यावन्त अङ्काः तावन्त एकगुरवः पादाः। द्वितीयस्थाने यावन्तः तावन्तो द्विगुरवः इत्यादि वेद्यमिति । तथा रसभेदेपि प्रथमस्थानगता अङ्का यावन्तः तावन्त्येकरसकृतानि व्यञ्जनानि द्वितीये यावन्तः तावन्ति रसद्वयकृतानि इत्यादि वेद्यम् ।। इदं साधारणमिति - इदं कर्म छन्दोभेदानयने रसभेदाद्यानयने च समानमित्यर्थः। छन्दश्चितीति- छन्दसां चितिः समूहः छन्दश्चिति: 372 उत्तरं यत्र तच्छन्दश्चित्युत्तरं छन्दसि छन्दश्चित्युत्तरे प्रश्ने छन्दविदामस्योपयोगः । तथा मूषावहनभेदादौ च अस्य उपयोगः। मूषावहनादयः शिल्पभेदाः किल । षण्णां रसानां योगकृता व्यञ्जादिभेदाः रसभेदीयाः । विस्तार इति। गायत्रीपदस्य षडक्षरत्वात् एकादिषडन्तैः अर्कैः उक्तवत् भेदाः साध्याः । ते एकादिगुरुकृता स्युः । गुरुहीनश्चैकः सर्वलघुर्भवति । एवं पादभेदाः साध्याः । पुनरेकादिचतुर्विंशत्यन्तरैरङ्गैः
+368
+A & c अन्तरम् अधिकम्
+C omits
+369
+A निहितेन
+370
+371
+372
+A omits
+B & C पूर्वस्थानगतेनाकेन
+71
+
+उक्तवत् गायत्रीभेदाः साध्याः । तेष्वपि सर्वलघुकृतः एकः प्रक्षेप्य : मूषावाहनादयः तद्विद्भ्यो
+अवगन्तव्यः।।
+।। इति परमेश्वरकृते लीलावतीव्याख्याने मिश्रव्यवहारः समाप्तः
+373
+||
+अथ श्रेढीसंज्ञिते374 करणसूत्रं वृत्तम् ।। (७३) सैकपदघ्नेति - एकद्वित्र्यादीनङ्कान्
+376
+-
+375
+एकस्मिन् पदे क्रमेण विन्यसेत्। ते एकाद्यङ्काः पुनस्तेषु प्रथमपदं शतं द्वितीयपदगतेन योजयेत्। तदा एकद्वियोगः स्यात् । पुनः तथाकृतं द्वितीयपदगतं तृतीयपदगतेन योजयेत्। तदा एकद्वित्रियोगः स्यात्। एवमेकाद्यङ्कयुतिर्भवति । तत्र यस्मिन् पदे एकाद्यङ्कयुतिरभीष्टा तत्पदसङ्ख्यार्धं तत्पदसङ्ख्यया एकयुक्तया निहन्यात् । तदा तस्मिन् पदे एकाद्यङ्कयुतिर्भवति 377 । सा सङ्ख्या च सङ्कलिताख्या भवति । एवं तत्पदे पृथक् पृथक् सङ्कलिताख्या सङ्ख्या साध्या। पुनः प्रथमपदसङ्कलितसङ्ख्यां द्वितीयपदसङ्कलितसङ्ख्यया योजयेत्। तदा द्वितीयपदे सङ्कलितैक्यं भवति। पुनर्द्वितीयपदगतं तत्सङ्कलितैक्यं तृतीयपदसङ्कलितसङ्ख्यया योजयेत् । तदा तृतीयपदे सङ्कलितैक्यं भवति । एवं सङ्कलितैक्यं भवति। तत्र अभीष्टपदगतसङ्कलितसङ्ख्यां अभीष्टपदसङ्ख्यया द्विसङ्ख्यया द्विसहितया विनिहत्य त्रिभिः विभजेत् । तत्र लब्धं अभीष्टपदे सङ्कलितैक्यं भवति। एवं तत्पदे सङ्कलितञ्च साध्यम्। साङ्कलनः सङ्कलनवित्
+378
+अथ एकाद्यङ्कानां वर्गेक्ये घनैक्ये च वृत्तम्- (७४) द्विघ्नपदं कुयुतमिति - द्वाभ्यां विनिहत्य तत्रैकञ्च प्रक्षिप्य त्रिभिर्विभज्य लब्धं अभीष्टपदगतसङ्कलितसङ्ख्यया निहन्यात्।
+373
+374
+B omits समाप्तः
+B & C श्रेणीसंज्ञिते
+375 B द्विकद्वित्र्यादीनङ्कान्
+376
+377
+378
+B & C एकैकस्मिन्
+B omits तत्र ...युतिर्भवति
+B & C सङ्कलनवत् (wrong)
+72
+
+तदा अभीष्टपदे एकादीनां कृतियोगो भवति 379 पुनरभीष्टपदे या सङ्कलितसङ्ख्या तत्कृत्या
+समं तस्मिन् पदे एकादीनां घनैक्यं भवति 380
+तत्र
+उदाहरणम्- (७५) तेषामिति ।। तत्र
+।
+381
+वर्गैक्यं घनैक्यञ्च अन्त्यपदगतमेव लिख्यते।
+,
+त्र 382 प्रथमदिने किञ्चिद् धनं दत्वा पुनः प्रतिदिनमभीष्टचयेन दीयते 383 तत्र तद्धनभेदानयने करणसूत्रं वृत्तम् (७६) व्येकपदघ्नचय 384 इति। यावन्ति दिनानि तावत्यः पदसङ्ख्या स्युः । या सङ्ख्या प्रतिदिनं वर्द्धते सा चय इत्युच्यते । प्रथमदिने या सङ्ख्या भवति सा मुखमित्युच्यते । एकहीनया पदसङ्ख्यया चयसङ्ख्यान्निहत्य तत्र मुखसङ्ख्याञ्च प्रक्षिपेत्। तदा अन्त्यधनं अन्त्यदिने दत्तं धनं भवति । पुनः तदन्त्यधनं मुखसङ्ख्यया सहितं अर्धीकुर्यात्। तन्मध्यधनं मध्यदिने दत्तं धनं भवति । पुनस्तन्मध्यधनं पदसङ्ख्यया गुणितं सर्वधनं भवति। तत्सर्वधनं गणितमित्युच्यते। मुखहीनेषु पदेषु चयो वर्धते 385 । तस्माद्येकपदघ्नचयो मुखयुत अन्त्यधनं भवति । तथा मुखधनहीनानामन्त्यधनानां चयसङ्ख्यानामर्द्ध मुखधनयुतं हि मध्यधनं स्यात् । मुखयुतस्य अन्त्यधनस्यार्द्धमपि तदेव भवेत्। मध्यदिनात् प्राक्परयोर्ह्रासवृद्ध्योस्तुल्यत्वात् मध्यधनं पदगुणितं सर्वधनं भवति । यदा दिनानां समसङ्ख्यत्वात् मध्यदिनं न मध्यगतयोः यत्फलद्वयं तदर्द्ध मध्यदिनं भवति । पूर्वदिनस्यापरार्द्धं उत्तरदिनस्य पूर्वार्द्धञ्च तत्र मध्यदिनं भवतीत्यर्थः ।
+386
+संभवति 387
+। तदा
+379
+B & C omit अभीष्टपदसङ्ख्या ... भवति
+380
+C omits
+381
+C अत्र
+382
+c यत्र
+383
+384
+385
+386
+387
+C चये वर्द्धते
+A व्येक
+Comits वर्द्धते...वर्द्धते, B वर्त्तते
+C omits
+C भवति
+73
+
+388
+चयनिहतं पदं चयार्द्धहीनं मुखसहितं यदस्य वर्गितं तु ।
+चयदलवक्त्रभेदवर्गहीनं द्विचयहृतं भवेद्धनं तु सर्वम् ।। (प.४८)
+इति वा सूत्रम् । मुखधने वृत्तार्द्धम् । (७७) गच्छहृते गणित 389 इति । गच्छशब्देन पदमुच्यते । गणिताख्यं सर्वधनं पदसङ्ख्यया विभज्य लब्धादेकहीनपदगुणितं चयार्द्धं विशोधयेत् । शिष्टं मुखमादिधनं भवति। अत्र गच्छहते सर्वधने मध्यधनं भवति । तस्मान्मध्यधनादेकहीनपदानामर्द्धेन गुणिते चये विशोधिते सति, मुखधनं ह्यवशिष्यत इति
+390
+चये वृत्तार्द्धम् । ( ७८) गच्छहृतं धनमिति । सर्वधनं गच्छेन विभज्य लब्धादादिधनं विशोद्ध्य शिष्टमेकहीनपदानामर्द्धेन विभजेत्। तत्र लब्धं चयो भवति । अत्रापि
+मध्यधनाच्चयलब्धिः।
+391
+उदाहरणम् (७९) प्रथममिति । अह्नां प्रथमदिने इत्यर्थः । योजने योजनद्वयमित्यर्थः । अत्र चयः सावयवो भवतीति । अथ गच्छे वृत्तम् । (८०) श्रेढीफलादिति । श्रेढीफलाख्यं सर्वधनमुत्तरलोचन द्विगुणितचयेन निहत्य तस्मिञ्चयार्द्धमुखधनयोरन्तरस्य वर्ग प्रक्षिप्य मूलीकुर्यात्। तस्मान्मूलान्मुखधनं विशोध्य शिष्टे चयार्द्धं प्रक्षिप्य पुनश्चयेन विभजेत्। तत्र लब्धं गच्छं भवति। अत्र द्विघ्नचयगुणितं चयार्द्धवक्त्रान्तरवर्गेण च युतं यच्छ्रेढीफलं तत्तु मुखधनमानपदगुणितचयमानयोर्योगस्य चयार्द्धहीनस्य वर्गो भवति । अतः तस्य मूलात् चयार्द्धयुतान्मुखधनहीनात् चयसङ्ख्यया लब्धं गच्छमानं भवति ।
+श्रेढीफलादुत्तरनागनिघ्नाच्चयादियुग्मान्तरवर्गयुक्तात् ।
+मूलं द्विवक्त्रोनमथोयुतञ्च चयेन गच्छं द्विचयोद्धृतं स्यात्।। (प.४९)
+388 A मुखहितम्
+389
+390
+A गच्छ
+B omits इति
+391 A तस्मिञ्चयार्द्धमुखधनयोरर्द्धस्य
+74
+
+इति वा सूत्रम्392
+|
+393
+इति । गच्छशब्देन पदसङ्ख्योच्यते ।
+अथ गुणोत्तरे सार्द्धा आर्या (८१) विषमे गच्छ विषमसङ्ख्ये गच्छे सति गच्छादेकमपास्य पुनरन्यत्र स्वगुणज्ञापनार्थं स्वगुणसङ्ख्यमङ्कं विन्यसेत्। यदि गच्छसमसङ्ख्यः स्यात् तदा तं गच्छमर्द्धाकृत्य पुनरन्यत्र वर्गज्ञापनार्थं अङ्कं विन्यसेत्। पुनरपि गच्छशेषं गच्छं प्रकल्प्य पूर्ववत् गच्छविषमे सति तस्मादेकमपास्य स्वगुणसङ्ख्यमङ्कं पूर्वस्थापितस्य गुणाख्यस्य वर्गस्य वा अङ्कस्य अधो विन्यसेत् । यदि यत्र गच्छ: समसङ्ख्यः तदा तं गच्छमर्द्धकृत्य वर्गज्ञापनार्थमेकमङ्कं पूर्वस्थापितस्य गुणाख्यस्य वर्गाख्यस्य वा अधो विन्यसेत् । पुनरपि तच्छेषं गच्छं प्रकल्प्य तस्मादेकमपास्य
+395
+394
+पादमर्द्धाकृत्य वा पूर्ववत् पूर्वस्थापितस्याधः स्वगुणाङ्कं वा वर्गांङ्कं वा विन्यस्येत् । पुनरप्येवं कार्यम्। एवं गच्छक्षयान्तं कुर्यात्। यावत्कृते गच्छावसानं तावदेवं कुर्यादित्यर्थः।
+पुनरेवं विन्यस्तानामङ्कानामन्त्यमारभ्य उत्क्रमेण गुणवर्गजं फलमानयेत्। एतदुक्तं भवति । स्वस्वाग्रे एकसङ्ख्यमङ्कं विन्यस्य पूर्वस्थापितानामङ्कानाम् अन्त्येन गुणाख्येनाङ्केन गुणयेत् । पुनरेवं गुणितमुपान्त्यस्य वर्गाख्यत्वाद्वर्गीकुर्यात्। अन्त्योपान्त्ययोरङ्कयोः क्रमात् गुणाख्यत्वं वर्गाख्यत्वञ्च संभवत्येव । एवं गुणकर्म च वर्गकर्म च
+396
+398
+397
+कृत्वा पूर्वस्थापितानामङ्कानाम् अन्त्यमङ्कमुपान्त्यमङ्कञ्चोपनयेत् । तयोः कृतकार्यत्वात्
+399
+400
+पुनरपि शिष्टानां स्थानानामन्त्यं गुणाख्यां चेदग्रस्थितं राशिं यथोक्तगुणितेन गुणयेत् ।
+शिष्टानामन्त्यं वर्गाख्यं चेदग्रस्थितं राशिं वर्गीकुर्यात् । एवं कृत्वा अन्त्यमङ्कमपास्य पुनः
+392
+A श्रेढीफलादुत्तर... इति वा सूत्रम्
+393
+A विषमे
+B & C omit यदि...विन्यसेत्
+394
+395
+A omits
+396
+B & C omit
+397
+398
+399
+B & C गुणितमुपास्य
+B & Comit
+A स्थापितानामन्त्यम्
+400 C यथोक्तगुणेन
+75
+
+शिष्टानामन्त्यवशात् अग्रस्थितस्य गुणनं वर्गकरणं वा पूर्ववत् कुर्यात्। यावत्कृते पूर्वस्थापिताङ्कावसानं तावदेवं कुर्यात् । एवं साधितं फलं गुणवर्गजफलमित्युच्यते इति। तस्मात् गुणवर्गजफलादेकमपास्य शिष्टमादिधनेन निहत्य एकहीनेन गुणेन विभजेत् । तत्र लब्धं गुणोत्तरे गणिते सर्वधनं भवति । प्रतिवर्षं ग्राह्ये व्रीह्यादौ च न्यायोग्यं बुद्धिमता कल्प्यः स्यात् ।
+402
+401
+403
+अथ समवृत्तादिभेदे सार्द्धा आर्या (८२) पादाक्षरमितगच्छेति । अभीष्टे छन्दसि 404 यावन्ति पादाक्षराणि
+,
+तावत्सङ्ख्यं गच्छं प्रकल्प्य चयं द्विगुणं प्रकल्प्य विषमे
+406
+गच्छ इत्यादिविधिना गुणवर्गजं फलमानयेत् । एवमानीतं गुणवर्गजं फलं यत् स्यात्, तत्तुल्यसमवृत्तानां सङ्ख्या भवति । पुनस्तस्यैव गुणवर्गजफलस्य वर्गात्तदेव गुणवर्गजफलं विशोधयेत् । तत्र शिष्टं अर्धसमानां वृत्तानां सङ्ख्या भवति । पुनस्तस्यैव गुणवर्गजफलस्य वर्गो यः स्यात्, तमपि वर्गं 407 वर्गीकृत्य तस्माद्वर्गात्तमेव वर्गं विशोधयेत् । शिष्टं विषमवृत्तानां सङ्ख्या भवति। सममर्धसमं विषमञ्चेति त्रिविधं हि वृत्तम् ।।
+।। इति परमेश्वरकृते लीलावतीव्याख्याने श्रेढीव्यवहारः
+।। अथ क्षेत्रव्यवहारः ।।
+408
+||
+तत्र प्रथमं भुजाकोट्योः स्वरूपं प्रदर्शयति - (८३) इष्टाद् बाह्वोरित्यादिना 409
+बाहुशब्देन क्षेत्रस्य अश्रमुच्यते । यदि इष्टबाहुः पूर्वापरायतो भवति, तदा तस्य पूर्वाग्रस्पर्शिनी
+401
+B omits
+402
+403
+404
+405
+406
+407
+408
+409
+A समवृत्तादिवृत्तभेदे
+A पादाक्षरेति
+A अभीष्टच्छन्दसि
+C पदाक्षराणि
+A Adds अत्र गुणवर्गजं फलमेव साध्यते । न तु तस्मात्सिद्धं गुणोत्तरफलम् । अतः व्येकमित्यादिविधिहितं कर्म न क्रियते । तत्कर्माभावात् । आदिधनमिह अनभिहितम् ।
+C omits
+B & C श्रेणीव्यवहारः, A इति श्रेणीव्यवहारः
+B इष्टं बाह्वोरित्यादिना A इष्टादिति
+,
+76
+
+पूर्वादि भवति। अपराग्रस्पर्शिनी पश्चिमादि 410 भवति । तस्यां पूर्वस्यां पश्चिमायां वा दिशि यो
+,
+।
+अन्यो 411 बाहुर्द्दक्षिणोत्तरायतो भवति सा कोटिरित्यभिधीयते 412 | एवं त्र्य चतुरश्रे वा बाहुकोटी भवतः ।
+एतदुक्तं भवति यस्मिंस्त्र्यं चतुरश्रे वा एकमश्रं पूर्वापरायतं भवति एकं दक्षिणोत्तरायतञ्च भवति । तद्द्वयं बाहुकोटिसंज्ञितं भवति । यदि तयोरेकस्य पूर्वापरायतत्वं
+413
+इतरस्य तु दक्षिणोत्तरायतत्वं तदा तयोः बाहुकोटिसंज्ञा न भवतीति । (८४) तत्कृत्योरिति-
+भुजाकोटिवर्गयोर्योगस्य पदं कर्णो भवति । भुजाकर्णवर्गयोर्विवरस्य पदं कोटिर्भवति। कोटिकर्णवर्गयविवरस्य पदं भुजा भवति । एवं भुजाकोटिकर्णसंबन्धो वेद्यः । भुजाग्रकोट्यग्रयोरन्तरालं कर्ण इत्युच्यते ।
+414
+राश्योर्वर्गयोगवर्गान्तरयोरानयनमाह । (८५) राश्योरित्यादिना राश्योः परस्परवधं
+415
+द्विघ्नीकृत्य तस्मिन् तयोरेव राश्योरन्तरस्य वर्गं प्रक्षिपेत् । तद्वर्गयोगो भवति । एवं वर्गयोगः साद्ध्यः। तथा रार्थ्योयोगं राश्योरन्तरेण गुणयेत् । तदा राश्योर्वर्गान्तरं भवति । एवं वर्गान्तरं साध्यम्।
+एवं ज्ञेयं सर्वत्र धीमतेति - एवमानीतं वर्गान्तरादि वक्ष्यमाणवंशक्रीडाशिखण्ड्यादौ बुद्धिमता चिन्त्यमित्यर्थः। यस्य मूलस्य अवयवसमाप्तिन्न स्यात्, तन्मूलं तद्वर्गञ्च करणीगतमित्युच्यते। तत्र आसन्नमूलानयनोपायमाह। (८६) वर्गेण महतेत्यादिना 416 यत्र सच्छेदा 417 वर्गः स्यात्, तत्र वर्गं स्वेन छेदेन निहत्य पुनः केनचिन्महता वर्गेण च निहत्य मूलीकुर्यात् । तत्र लब्धं स्थूलभूतं मूलं
+T अपरादि
+A omits
+410
+411
+412
+C उच्यते
+413
+B & C omit
+414
+A राश्योरिति
+415
+416
+417
+A द्विगुणीकृत्य
+A वर्गेणेति
+B & C तच्छेदो
+77
+
+महद्वर्गस्य मूलेन करणीगतवर्गच्छेदेन हतेन418 विभजेत्। तत्र लब्धं करणीगतमूलं भवति। यदि
+419
+वर्गस्य छेदो न विद्यते तदा तद्वर्गं केनचिन्महता वर्गेण निहत्य मूलीकृत्य पुनर्महद्वर्गस्य मूलेन विभजेत्। तत्र लब्धं करणीगतमूलं भवति । अथवा सूत्रम् -
+420
+द्विगुणपदस्य तु वर्गः पदशेषकृतिहतो - हरस्तेन ।
+अभिहत्य मूलशेषं मूलावयवो यथाविधि ग्राह्यः ।। (प.५०) इति ।
+अवयवस्य छेदो हाराख्यः इत्यर्थः । अथवा सूत्रम्-
+द्विगुणितमूलं कृत्याशेषयुतं
+हरो भवेत्तेनाभिहत्य मूलशेषम् ।
+मूलावयवो यथाविधि ग्राह्यः।। इति+21। (प.५१)
+अकरणीगतभुजाकोटिकर्णानयने वृत्तद्वयं - (८७) इष्टो भुज इति । इष्टराशिर्भुजो
+भवति। पुनस्तं भुजराशिमन्येन केनचिदिष्टेन द्विगुणितेन निहत्य तस्यैवेष्टस्य कृत्या एकहीनया विभजेत्। तत्र लब्धं कोटिर्भवति । पुनस्तां कोटिं तेनैवेष्टेन निहत्य तस्मात् भुजाराशिं विशोधयेत्। तत्र शिष्टं कर्णो भवति । त्र्यश्रमिदं भुजाभ्यामिति । अत्र भुजाशब्देन अश्रद्वयमुच्यते । द्वयवस्थि त्र्यश्रमिदं संवृत्तम् । एतदुक्तं भवति अत्र
+422
+अश्रद्वयेन युतं
+423
+।
+उदितैर्भुजाकोटिकर्णैस्त्र्यश्रं क्षेत्रं भवतीति । अथवा ' इच्छराशिर्भुजो भवति पुनर्भुजावर्गमिष्टेन केनचिद्विभज्य लब्धमुभयत्र विन्यस्य एकस्मादिष्टं विशोद्ध्य अन्यस्मिन्निष्टं प्रक्षिप्य तद्द्वयमर्द्धकुर्यात्। तौ कोटिकर्णो भवतः । अत्र फलादिष्टाधिक्ये इष्टात् फलं शोध्यम्।
+418
+B & C करणीगतवर्गच्छेदहतेन
+419
+B & C पुनर्महतो वर्गस्य
+420
+421
+422
+423
+B & C पदशेषकृतियुतो
+A omits this verse
+C दृश्यवस्थितेन
+B & Comit
+882
+78
+
+अथवा अभीष्टं कोटिं प्रकल्प्य तद्वशादुक्तवत् बाहुश्रुती साध्ये । एवमकरणी बाहुश्रुती कोटिश्रुती वा भवतः।
+अथ कर्णेन भुजाकोट्यानयने 424 वृत्तं- (८८) इष्टेन निघ्नात् 25 इति । कर्णमभीष्टं
+427
+428
+426
+प्रकल्प्य तं द्विगुणीकृत्य पुनः केनचिदिष्टेनापि निहत्य पुनः स्वस्यैवेष्टस्य कृत्या एकयुक्तया विभजेत् । तत्र लब्धं कोटिर्भवति । पुनस्तां कोटिमिष्टेन निहत्य तस्य पूर्वोदितकर्णस्य च429 अन्तरं कुर्यात्। तद्बाहुर्भवति ।
+430
+अत्रैव करणसूत्रान्तरम् - (८९) इष्टवर्गेणेति । इष्टवर्गेणैकयुतेन द्विघ्नं कर्णं विभज्य लब्धं कर्णाद्विशोधयेत्। तत्र शिष्टं कोटिर्भवति । पुनस्तदेव लब्धं तेनैवेष्टेन द्विगुणितं भुजा भवति। अस्मिन् प्रकरणे दो: कोट्योर्नामभेद एव स्यात् । न तु लक्षणभेदः । अथवा करणसूत्रं
+431
+(९०) इष्टयोराहतिरिति । राश्योर भीष्टयोः आहतिः द्विघ्नीकोटिर्भवति । तयोरेव राश्योर्वर्गान्तरं भुजो भवति । तयोरेव राश्योर्वर्गयोगः कर्णो भवति । एवमकरणीगतः कर्णो भवति। यस्मिन् क्षेत्रे क्षेत्रफलं निरवयवं भवति तज्जात्यमित्युच्यते। तत्र कर्णाद्याश्च निरवयवाः स्युः । कर्णकोटियोगे भुजे च ज्ञाते कर्णकोट्योः पृथक्करणार्थं सूत्रम् - (९१) वंशाग्रेति। अस्मिन् प्रकरणे उद्देशकवचनस्योत्तररूपेण गणितकर्म विधीयते । समभुवि द्वात्रिंशद्धस्तप्रमाणः कश्चिद्वंशः अस्ति । स च पवनवेगादेकदेशे भग्नश्च भवति । भग्नस्य तस्य अग्रं वंशमूलात् षोडशहस्तान्तरे भुवि लग्नं दृश्यते । एवं भूतो वंशस्य स्वमूलादुपरि कतिषु हस्तेषु यातेषु भग्न इति ह्यत्रोद्देशकवचनम् । तदङ्गीकृत्य वंशाग्रेत्यादिवचनम् । वंशस्य
+432
+424
+B भुजानयने
+425
+A इष्टेन
+426 A कर्णमिष्टम्
+427
+A adds कर्णम्
+428
+429
+430
+431
+A तस्यैवेष्ट
+C omits
+A भुजो
+A इष्टयोरिति
+432 B omits
+79
+
+अग्रमूलयोरन्तरालगतां षोडशसङ्ख्यां भूमिं वर्गीकृत्य वंशेन द्वात्रिंशत्सङ्ख्येन विभज्य लब्धं द्वात्रिंशत्सङ्ख्ये वंशे प्रक्षिप्य पुनस्तदेव लब्धम् अन्यत्र स्थितात् द्वात्रिंशत्सङ्ख्याद्वंशात् विशोधयेत्। एवं कृतयोः वंशयोरर्द्धे वंशस्य भग्नभागादूर्ध्वाधरखण्डे भवतः । ते खण्डे श्रुतिकोटिरूपे च भवतः । अत्र वंशाग्रमूलान्तर भूमिर्भुजा । वंशस्य अधरखण्डं कोटिः । उत्तरखण्डं कर्णः । सर्वत्र भुजावर्गः कर्णकोट्योर्वर्गान्तरं हि स्यात् । वर्गान्तरञ्च राश्योरन्तरगुणितो राशियोगो हि भवति । अतः कर्णकोट्योर्वर्गान्तराख्यात् भुजावर्गात् कर्णकोटियोगेन लब्धं कर्णकोट्योरन्तरं 433 भवति । कर्णकोट्योरन्तरे योगे च ज्ञाते योगोन्तरेण ऊनयुतोद्धितश्चेति विधिना कर्णकोट्योः सिद्धिः । कोटौ बाहुकर्णयोगे च दृष्टे सूत्रम्- (९२) स्तंभस्य वर्गेति 134 स्तंभस्य वर्ग कोटिवर्गात्मकं हि । विलान्तरेण भुजाकर्णयोगाख्येन विभज्य लब्धं फलं भुजाकर्णान्तरात्मकं व्यालविलान्तरालात् भुजाकर्णयोगात्मकात् विशोद्ध्य शिष्टस्यार्द्धं विलाग्रव्यालकलापियोगप्रदेशयोरन्तरालं भुजात्मकं भवति। उदाहरणम् (९३) अस्तीति। नव हस्तमितस्तंभो अत्र कोटिः । सप्तविंशतिहस्तमितं व्यालविलान्तरालं भुजाकर्णयोगः । शिखिव्यालयोः समगतित्वात् व्यालविलान्तरालस्य
+-
+भुजाकर्णयोगता। तिर्यगिति क्रियाविशेषणम् । अथवा तिर्यगिति पक्षी
+भुजाकर्णवर्गान्तरात्मकात् भुजाकर्णयोगेन भुजाकर्णयोरन्तरं साद्ध्यते ।
+—
+435
+। अत्रापि कोटिवर्गात्
+436
+कोटिकर्णान्तरे भुजे च दृष्टे सूत्रम् (९४) भुजाद्वर्गितादिति । भुजावर्गात् कोटिकर्णान्तरेण लब्धं कोटिकर्णयोगः स्यात् । कोटिकर्णयोगाख्यं तत्फलम् उभयत्र
+437
+विन्यस्यैकस्मात् कोटिकर्णान्तरं विशोधयेत्। अन्यस्मिन् कोटिकर्णान्तरं प्रक्षिपेत् । पुनस्तद्वयमर्धीकुर्यात्। ते अर्धे क्रमेण कोटिकर्णौ भवताम् । इदं भुजाकर्णयोगविहितं कर्म बुद्धिमता समवेक्ष्य सर्वत्र योज्यम् । वक्ष्यमाणे लम्बादावेतत् कर्म चिन्त्यमित्यर्थः । वक्ष्यमाणोदाहरणे
+433
+A कर्णकोट्यन्तरम्
+434
+A स्तंभस्येति
+435
+B & C omit this line
+436
+A भुजादिति
+437
+C omits
+30
+80
+
+भुजादीन् प्रदर्शयति
+—
+(९५) सखेति। जलमध्ये कञ्चित् कमलमस्ति
+438
+439
+। तस्य
+जलादुपरिगतो भागो वितस्तितुल्यः स्यात्। अर्द्धकरस्य वितस्तिसंज्ञा । स भागोत्र
+440
+कलिकाग्रमित्युच्यते। तोयान्तर्गतो भागोत्र नाल इत्युच्यते । तत् कमलं पुनः पवनेनाहतं स्वावस्थितस्थानाद्धस्तयुग्मान्तरे मग्नं भवति । तत्र पद्मं तन्मज्जनस्थानयोरन्तरालं
+हस्तयुग्ममितभुजा स्यात् । जलादुपरिगतः पद्मस्य दृश्यभागोत्र कोटिकर्णान्तरं जलान्तर्गतो नालभागोत्र कोटिः। पानीयमानं जलस्य गांभीर्यमानम्।
+441
+अथ भुजकोट्यैकदेशे च ज्ञाते तथा कोट्यपरभागसंयुतकर्णे च ज्ञाते पृथक्करणार्थम् सूत्रम् - (९६) द्विनिघ्नतालोच्छ्रितीति । द्विनिघ्नतालोच्छ्रितिसंयुतं यत्तालमूलसरोन्तरं
+442
+तेन तालमूलसरोन्तरगुणितां तालोच्छ्रितं विभजेत् । तत्र लब्धमुड्डीयमानं 444 भवति ।
+उदाहरणम् (९७) वृक्षादिति । हस्तशतोच्छ्रये वृक्षाग्रे द्वौ कपी
+445
+443
+वृक्षमूलाद्धस्तशतान्तरे वापी च भवति । वृक्षाग्रात्तु सा वापी हस्तशतद्वये भवति । वृक्षादवतीर्य गच्छतो हस्तशतद्वयं मार्गमानमित्यर्थः । तत्रैकः कपिः वृक्षादवतीर्य वापीमगात् । अपरः
+कपिः वृक्षाग्रात् किञ्चिदुड्डीय 446 किञ्चिदूर्ध्वं गत्वा कर्णमार्गेण वापीमगात् । तयोर्द्वयोरपि
+मार्गमानं तुल्यं भवति । तत्र कियदुड्डीयमानमिति
+उड्डीयमानयुततालोच्छ्रितः
+448
+447
+अत्र
+वाच्यम्।
+कोटि: स्यात्। तालमूलसरोन्तरं भुजा।
+अत्र
+438
+B पद्ममस्ति
+439
+B & C omit
+440 A & B नल
+441
+442
+B & C जलान्तरो द्विनिघ्ने
+443
+A यत्तालमूलसरसोरन्तरं
+444
+B & C
+अर्द्धायमानम्
+445 C omits
+446
+447
+B & Comit किञ्चित्
+B & C कियदर्द्धायमानम्
+448 B & C अर्द्धयमानयुततालोच्छ्रितः
+81
+
+कोट्यधरखण्डभुजयोर्योगः कोट्यूर्ध्वखण्डभुजयोर्योगश्च तुल्यौ भवतः। सर्वत्र भुजाकोटिकर्णानामैक्यार्द्धं भुजाहीनं कोट्योः एकं खण्डं स्यात् । द्विनिघ्नकोटिखण्डेन भुजायुतेन भुजाहतात् कोटिखण्डादाप्तं कोट्या अपरखण्डं स्यात् । स च कर्णाश्रितः । पूर्वखण्डस्तु भुजाश्रितः । एवं गणितस्वभावः ।
+449
+अत्र भुजाकोटिकर्णानामैक्यार्द्धं भुजया हीनं तालोच्छ्रितः स्यात्। स हि
+€450 भुजाश्रितः कोटिखण्डः । उड्डीयमानम् अपरखण्डः। स हि कर्णाश्रितः स्यात् । यत्र उभयोर्मार्गसाम्यं
+451
+—
+भवति, तत्रैवायं विधिर्ग्राह्यः । न सर्वत्र । एवं वा सूत्रम् -
+प्रोड्डीय गच्छतो मार्गयुततालोच्छ्रया हतं सरस्तालान्तरकृतेः कर्णकोट्यन्तरं भवेत । तदूनं कोटिकर्णैक्यं दलितं कोटिका भवेत्
+उड्डीयमानं452 तत्कोटितालयोरन्तरं भवेत् ।। इति ( प. ५२ )
+अयं विधिर्मार्गभेदेपि ग्राह्यः । भुजाकोटियोगे कर्णे च दृष्टे पृथक्करणार्थं सूत्रम् (९८) कर्णस्य
+453
+-
+वर्गेति । द्विगुणात् कर्णवर्गाद्दोः कोटियोगस्य वर्गं विशोध्य शिष्टं मूलीकुर्यात् । तन्मूलं
+454
+दो:कोट्योरन्तरं भवति। पुनस्तेन मूलेन हीनं युतं वा दोःकोटियोगमर्द्धकुर्यात्। ते अर्द्ध
+कोटिभुजामाने भवतः। अत्र क्रमो न विवक्षितः । एवं वा सूत्रम्-
+कर्णस्य वर्गाद्दलिताद्विशोदध्य
+दोः कोटियोगार्द्धकृतिं पदं यत् ।
+तदूनयुक्ते भुजकोटियोग-
+दले भवेतां भुजकोटिमाने 55 ।। ( प. ५३ ) इति
+449
+A adds च
+450
+B च
+451
+B & C अर्द्धायमानम्
+452
+B & C अर्द्धयमानम्
+कर्णस्येति
+C च
+A omits this verse, Quoted in KK, p.306
+453
+A
+454
+455
+82
+
+समभुविगतयोर्वेण्वोः अन्योन्यमूलादन्योन्याग्रगतं यत् सूत्रद्वयं तयोर्योगात् प्रवृत्तलम्बानयने
+सूत्रम् (९९) अन्योन्यमूलाग्रगेति
+-
+456
+वेण्वोः परस्परवधे वेण्वोर्योगभक्ते
+457
+लब्धमन्योन्यमूलाग्रसूत्रयोर्योगात् निष्पन्नो लम्बो भवति । सूत्रयोर्योगात् भूमाववलम्बितं यत् सूत्रं तल्लम्ब इत्युच्यते । पुनर्वंशयोरन्तरालगताभीष्टभुवा एकैकं वंशं निहत्य वंशयोर्योगेन विभजेत्। तत्र लब्धद्वयं तत्तद्वंशलम्बयोरन्तरालगतं भूखण्डद्वयं भवति । त्रैराशिकेन लम्बो
+-
+विज्ञायते। कथम् उच्यते। अत्र प्रथममाबाधा निरूप्यते । यदि दक्षिणवंशशून्यस्तदा समस्ताभूरुत्तरवंशस्याबाधा स्यात् लम्बस्य शून्यत्वात् । यदि वंशद्वयतुल्यं तदा भूम्यर्द्धमिते आबाधे स्तः। अतो वंशद्वययोगात् यावान् भागस्य वंशः भूमेस्तावान् भागस्याबाधाः इति स्थितं भवति । तत्रैवं त्रैराशिकम्। यदि कर्णमूलात् भूम्यन्तरे स्ववंशः कोटि: तदा कर्णमूलादपरवंशस्याबाधा तुल्यान्तरे का कोटिरिति लम्बलब्धिः । अत्र भूमिस्थाने वंशयोग आबाधाद्वयस्थाने वंशद्वयञ्च गृहीतं तुल्यभागत्वादुभयोः ।
+अथवा सूत्रम् -
+स्वल्पेन वंशेन हतोन्यवंशो
+गुणो हरो रूपयुतः स एव।
+वंशो लघु हारभक्तो गुणघ्नो
+458
+459
+लम्बो भवेद्वेशयोः सूत्रयोगात् ।। ( प. ५४ ) इति
+अथ क्षेत्रलक्षणमाह
+—
+460
+(१००) स्वल्पेत्यादिना । त्र्यश्रे चतुर वा उद्दिष्टे क्षेत्रे
+461
+यद्येकभुजमानादितरेषां भुजानां युतिः स्वल्पा भवति अथवा तुल्या भवति तदा तत् क्षेत्रमक्षेत्रमिति वाच्यम्। यतः तादृग्विधं क्षेत्रं न संभवति । अथ त्रिभुजक्षेत्रे लम्बाद्यानयनाय सूत्रं
+456
+A
+457
+अन्योन्येति
+B omits
+458
+This line is unmetrical
+459
+460
+A
+त्र्यश्रेति
+461
+A omits this verse
+Comits अथवा तुल्या भवति
+83
+
+आर्याद्वयं - (१०१) त्रिभुजे भुजयोर्योग
+462
+इति । त्रिभुजक्षेत्रे एको भुजो भूमिरिति प्रकल्प्यते ।
+463
+अन्यौ भुजावेव भुजयोर्योगं भुजयोरन्तरेण निहत्य भूसंज्ञितेन भुजेन विभजेत्। तत्र लब्धमाबाधान्तराख्यं फलं भवति । पुनस्तेन फलेन हीनां युतां च भूमिं पृथगर्द्धकुर्यात्। ते अर्द्धे तयोर्भुजयोराबाधे भवतः। आबाधयोर्योगो हि भूमिर्भवति । पुनस्तत्तद्भुजाबाधयोर्वर्गान्तरस्य मूलं लम्बो भवति। लम्बेन हतं भूम्यर्द्ध त्रिभुजे स्पष्टं क्षेत्रफलं भवति । त्रिभुजक्षेत्रे भुजयोर्योगप्रदेशाद्यत्सूत्रं भूमाववलम्बितं भवति तल्लम्ब इत्युच्यते । दक्षवामभुजौ कर्णौ भवतः । तयोः कर्णयोरेक एव लम्बः कोटिः । तस्य तस्य आबाधा भुजालम्बस्य उभयपार्श्वगते भूखण्डे आबाधे इत्युच्यते। अधः स्थितस्य भुजस्य भूमिसंज्ञा । तत्र लम्बस्योभयपार्श्वे एकैकमर्द्धचतुरश्रं भवति । अर्द्धचतुरश्रे हि सर्वत्र आयामगुणितं विस्तारार्द्ध क्षेत्रफलं भवति । अतो अत्रापि आबाधाख्ययोर्विस्तृत्योरर्द्धयोगेन भूम्यर्द्धतुलितेन गुणितो लम्बाख्य आयामः क्षेत्रफलं भवति । लम्बानयने उपपत्तिस्तु पार्श्वगतयोः भुजाख्ययोः कर्णयोरेक एव लम्बः कोटिः स्यात्। भुजे तु तयोराबाधाख्ये भूखण्डे भवतः । तत्र कर्णयोः समकोटित्वात् कर्णयोर्वगान्तरमेव भुजर्योवर्गान्तरमपि भवति । अतः कर्णयोर्योगात् कर्णान्तरगुणितात् भुजावर्गान्तरात्मकात् भुजयोर्योगेन भूमानतुलितेन 464 लब्धं भुजयोराबाधाख्ययोरन्तरं भवति । तेनान्तरेण हीनयुतयोः
+भुजायोगयोः भूमानतुलितयोः अर्धे आबाधाख्ये भुजे भवतः । तत्भुजावर्गहीनस्य कर्णवर्गस्य 465 मूलं लम्बाख्यः कोटिर्भवतीति।
+उदाहरणम् (१०२) दशसप्तदशप्रमाविति
+-
+466
+कथमत्र नवसङ्ख्याया
+भूमावेकविंशतिसङ्ख्यमाबाधान्तरं भवतीति चेदुच्यते यत्र लम्बस्य उभयपार्श्वगतौ कर्णौ, तत्र आबाधयोरन्तरं आबाधान्तरं इति कथ्यते । यत्र लम्ब एवैकः कर्णः तत्रैकाबाधायाः शून्यत्वात्
+462
+463
+464
+465
+466
+A त्रिभुज
+B & C भूतं संज्ञितेन
+C भूमानतुल्येन B & C वर्गवर्गस्य A दशेति
+ळ
+84
+
+467
+भूरेवाबाधान्तरं भवति । यत्र पुनर्लम्बस्यैकपार्श्वे एव कर्णौ भवतः तत्र एकाबाधायाः हीनाख्यत्वादाबाधयोर्योग एव आबाधान्तरं भवति । अत्र हि भूमेर्बहिर्गतो लम्बः तस्माल्लम्बस्येकपार्श्वे एव कर्णौ भवत इति । अतो अत्र भूम्या हीनं युतञ्च लब्धमर्द्धितमाबाधाद्वयं भवति। बहिर्लम्बेपि लम्बहतं भूम्यर्द्धमेव क्षेत्रफलं भवति । यतो बहिर्गतभूम्यर्द्धं लम्बहतं बहिर्गतक्षेत्रफलं भवति । भूमिद्वयार्द्धं लम्बहतं लम्बाश्रितक्षेत्रफलञ्च भवति ।
+468
+अथ क्षेत्रफलानयने उपायान्तरं प्रदर्शयति। (१०३) सर्वदोर्युतिदलमित्यादिना
+470
+469
+त्रिभुजे त्रयाणां भुजानां योगमर्द्धकृत्य चतुर्षु स्थानेषु विन्यस्य तेषु त्रिभ्यः एकैकस्मात् एकैकं बाहुं विशोध्य तेषां चतुर्णां परस्परवधं कुर्यात् । चतुर्भुजे चतुर्णां भुजानां योगार्थं चतुर्षु स्थानेषु विन्यस्य एकैकस्मात् एकैकं
+बाहुं विशोध्य तेषां चतुर्णां परस्परवधं कुर्यात् । पुनरेवं कृतं बाहुवधं मूलीकुर्यात्। तन्मूलं क्षेत्रफलं
+471
+भवति। चतुर्भुजे एवमानीतं फलं कदाचित् स्फुटं भवति । कदाचित् अस्फुटं भवति । यत्र कोणस्यान्तः प्रवेशः इतरकोणद्वयस्य बहिष्प्रवेशश्च युगपत् भवति तत्र फलमस्फुटम् अन्यत्र स्फुटमित्यर्थः। त्रिभुजे एवमानीतं फलं स्फुटमेव भवति ।
+472
+उदाहरणम् (१०४) भूमिश्चतुर्दशेति' चतुर्दशेति-चतुर्भुजे अधःस्थितो बाहुर्भूमिरिति कथ्यते । उपरिस्थितो मुखमिति । पार्श्वद्वयस्थितौ भुजाविति उपरिगतकोणद्वयात् भूमाववलम्बितं सूत्रद्वयं लम्बमित्युच्यते। कोणप्रतिकोणगतं सूत्रद्वयं कर्णद्वयं भवतीति कथितम्- तदाद्यैरिति। आद्यैराचार्यैः तत्फलानयनं कथितमित्यर्थः । अत्र सर्वदोर्युतिदलमित्यनेन विधिना सिद्धं क्षेत्रफलं अस्फुटं स्यात्। अतो लम्बेन निघ्नमिति वक्ष्यमाणविधिना स्फुटफलं साध्यम्।
+467
+468
+469
+470
+471
+472
+A तत्र
+A अक्षेत्रफलानयने (wrong)
+A सर्वेति
+C omits
+B omits
+A & C भूमिरिति
+85
+55
+
+473
+अथ चतुर्भुजे स्थूलत्वनिरूपणार्थं सूत्रम् (१०५) चतुर्भुजस्येति कर्णयोरनियतत्वात् फलमप्यनियतं भवति । स्वकल्पितादिति यैश्चतुर्भुजैर्यत्क्षेत्रं स्वधिया कल्पितं तत्र कर्णौ च यौ तैरेव चतुर्भुजैर्व्यत्यस्तदिक्स्थितैरुत्पन्ने क्षेत्रेपि तौ कर्णौ न भवतः। तत्र अन्यौ कर्णौ भवत इत्यर्थः । तथैव बाहुष्विति यद्दिश्यवस्थितैयैः बाहुभिर्यत्क्षेत्रं कल्पितं तत्र यौ कर्णौ तद्दिश्यवस्थितैस्तैरेव बाहुभिरुत्पन्ने अन्यक्षेत्रेपि तौ कर्णौ भवतः । तत्रापरावेव कर्णौ भवतः ।
+एवं कर्णस्य अनेकधावस्थानात् क्षेत्रफलं 474 अपि अनेकधा भवति । (१०६) लम्बयो: कर्णयोवेति लम्बयोः कर्णयोर्वैकस्मिन् विज्ञाते सत्येव हि क्षेत्रफलं सिद्ध्यति । अतः तयोरेकमप्यनिर्द्दिश्य कश्चित् पृच्छति चेत् स पृच्छको वा पिशाचो वेति निरूप्यते । गणकश्चेन्नितरां पिशाचः ।
+अथ कर्णादौ सूत्रम् – (१०७) इष्टाश्रुतिरिति । तुल्यचतुर्भुजे एकां श्रुतिमिष्टां प्रकल्प्य तस्या श्रुत्या वर्गमेकमपास्य बाह्वोर्वर्गात् चतुर्गुणाद्विशोद्ध्य मूलीकुर्यात् । तन्मूलं द्वितीयकर्णो भवति । अत्र हि कर्णयोरर्द्धद्वयं भुजाकोटिरूपम् अश्रं तत्कर्णः । अतो विदितकर्णार्द्धस्य अश्रस्य च वर्गान्तरं अविदितकर्णार्धस्य वर्गः स्यात् । स चतुर्गुणः कर्णवर्ग: स्यात्। समस्तकर्णवर्गोना चतुर्गुणबाहुकृतिः अपि तत्तुल्या स्यात् इति इह युक्ति: । अतुल्ययोः कर्णयोराहतिर्द्वाभ्यां भक्ता तुल्यचतुर्भुजे स्फुटफलं भवति । तुल्यकर्णाभ्यामप्येवं साध्यम् । किन्तु तत्र भुजाभ्यामप्यपि फलं साध्यम्। अतुल्यकर्णे कर्णाभ्यामेवं साद्ध्यमिति। तुल्यचतुर्भुजे475 हि कर्णयोरद्धे भुजाकोटिरूपे भवतः। ततः कर्णाभ्यां फलं भवति । समश्रुतौ तु तुल्यचतुर्भुजे समश्रुतावायतचतुरश्रे तस्य कर्णस्य उभयाग्रप्रवृत्तयोर्भुजाकोट्योः घातः क्षेत्रफलं भवति । अन्यत्र विषमचतुर्भुजे समानलम्बे भूमिमुखयोरैक्यार्द्धं समानलम्बगुणितं क्षेत्रफलं भवति । समानलम्बक्षेत्रं त्रिधा विभज्य एकं चतुरश्रं द्वे त्रिभुजे च कृत्वा तेषु पृथक् पृथक् फलं युक्त्या साद्ध्यम्।
+473
+B & C चतुर्भुजस्यानियतविति
+474
+Comits फलम्
+475
+A अतुल्यचतुर्भुजे
+86
+
+विषमे उदाहरणम्। (१०८) क्षेत्रस्येति । चतुरश्रस्य अर्द्धबाहुर्मुखम्। अधो बाहुर्भूमिः । पार्श्वगतौ बाहुसंज्ञौ। अत्र द्वादशसङ्ख्यौ लम्बौ । अतः समानलम्बमेतत् क्षेत्रम्। उदाहरणम्- (१०९) पञ्चाशदिति । अत्र कर्णलम्बाद्यानीयते । तत्र तु तत्संबन्धं प्रदर्शयति- ज्ञातेवलम्बे इत्यादिना लम्बे ज्ञाते, कर्णो नियत एव । कर्णे ज्ञाते, लम्बोपि नियतः । नियतलम्बे नियतकर्णे च क्षेत्रे, क्षेत्रफलञ्च नियतं स्यात् । क्षेत्रावस्थितेन्नियतत्वात् । यदि भुजयोर्व्यत्यासः स्यात् तत्रापि क्षेत्रफलमेकप्रकारमेव स्यात् । आबाधोनधरालम्बवर्गेक्यस्य पदं श्रुतिः । आबाधान्वितभूवर्गो बहिर्ल्लम्बे तु गृह्यते। इति कर्णविधिः ।
+476
+लम्बानयने सूत्रम्- (११०) चतुर्भुजान्तस्त्रिभुजेति । चतुर्भुजस्यैकस्मिन् कर्णे कल्पिते सति तत् कर्णवशात् चतुर्भुजान्तस्त्रिभुजद्वयं भवति । तत्र सव्यभुजाग्रदक्षिणभुजे मूलगामी यः कर्णः तं कर्णं सव्यभुजञ्च भुजौ प्रकल्प्य चतुर्भुजस्य भूमिमेव भूमिं प्रकल्प्य प्राग्वत् त्रिभुजे भुजयोर्योग इत्यादिविधिना लम्बं साधयेत् । तत्र जातो लम्बः चतुर्भुजस्य सव्यलम्बो भवति। पुनरन्यकर्णं दक्षिणभुजं च भुजौ प्रकल्प्य चतुर्भुजस्य भूमिमेव भूमिं प्रकल्प्य त्रिभुजे भुजयोरित्यादिना लम्बं साधयेत् । स चतुर्भुजस्य दक्षलम्बो भवति । एवं लम्बद्वयं कर्णद्वयात्
+साध्यम्।
+477
+अथ अज्ञाते लम्बे कर्णज्ञानार्थं सूत्रम् - ( १११ ) इष्टोत्र कर्ण इति । चतुर्भुजे एकं कर्णमिष्टं प्रकल्पयेत्। तदा कर्णस्योभयतस्त्र्यश्रद्वयं भवति । पुनस्तमेव कर्णं भूमिं प्रकल्प्य कर्णस्य सव्यभागभुजद्वयं भुजौ प्रकल्प्य त्रिभुजे भुजयोरित्यादिना आबाधाद्वयं लम्बं च आनयेत् । पुनरपि तमेव कर्णं भूमिं प्रकल्प्य कर्णस्य दक्षभागगतं भुजद्वयं भुजौ प्रकल्प्य पूर्ववदाबाधाद्वयं
+478
+479
+लम्बञ्च साधयेत् । एवमेककर्णाश्रितं लम्बद्वयमाबाधाचतुष्कञ्च भवति । (११२)
+476
+477
+478
+479
+A चतुर्भुजान्त इति
+B & Comit
+C adds आनयेत्
+B & C एवमेककर्णाश्रयम्
+87
+
+आबाधयोरेककुप्स्थयोरिति480 । एकदिश्यवस्थितं यदाबाधाद्वयं कर्णस्य मूलगतं वा अग्रगतं वा आबाधाद्वयमित्यर्थः। तयोरन्तरं कुर्यात् । लम्बमूलयोरन्तरालभागतुल्यं हि तत्भवति । तस्यान्तरस्य वर्गं लम्बद्वयैक्यस्य वर्गे प्रक्षिप्य मूलीकुर्यात् । तन्मूलं द्वितीयः कर्णो भवति । एवं सर्वेष्वपि चतुर्भुजेषु कर्णः साध्यः।
+अत्र लम्बद्वयमन्योन्याग्रान्तं नीत्वा चतुरश्रं प्रकल्पयेत् । तस्मिन् चतुरश्रे आबाधान्तरतुल्यौ द्वौ भुजौ, लम्बैक्यतुल्यावपरौ । तस्य चतुरश्रस्य कर्ण एव द्वितीयकर्णो भवति । एवं
+द्वितीयकर्णोत्पत्तिर्वेद्या ।
+इति वा सूत्रम्
+481
+लम्बघ्न एकांशबाधाभेदो लम्बैक्यभाजितः ।
+निजस्तल्लम्बवर्गेक्यपदयोर्वा युतिः श्रुतिः । । ( प. ५५ )
+। इष्टकर्णकल्पनायां विशेषप्रदर्शनाय सूत्रम् - ( ११३)
+कर्णाश्रितस्वल्पभुजैक्यमुर्वी प्रकल्प्य तच्छेषभुजौ च बाहू । साद्ध्योवलम्बश्च तथान्यकर्णस्योर्व्याः कथञ्चिच्छ्रवणो न दीर्घः । । तदन्यलम्बाच्च लघुस्तथेदं ज्ञात्वेष्टकर्णः सुधिया प्रकल्प्यः । ।
+482
+इति ।
+कर्णस्य उभयपार्श्वगते ये भुजद्वन्द्वे तयो: यस्य द्वन्द्वस्यैक्यं अल्पसङ्ख्यं स्यात् तस्य द्वन्द्वस्यैक्यमुर्वीं प्रकल्प्य कर्णस्य अन्यपार्श्वगतौ भुजौ बाहू प्रकल्प्य तैस्त्रिभिः त्रिभुजोक्तं लम्बं साधयेत्। एवमन्यकर्णस्य पार्श्वगतैर्भुजैरपि लम्बं साध्यम् । तत्र तथाकल्पितभूमेः कथञ्चिदपि दीर्घः कर्णः कदाचिदपि न स्यात् । तथाकल्पितादन्यकर्णाश्रिताल्लम्बादूनश्च न स्यात् । एतत्
+483
+ज्ञात्वा इष्टकर्णः प्रकल्प्य : । एतत् प्रक्षिप्तमिति केचित् । (११४) त्र्यश्रे तु कर्णोभयत
+484
+480
+A आबाधयोरिति
+481
+A omits the verse
+482
+c कर्णाश्रित
+483 B कल्प्यः
+484
+A त्र्यश्रे तु
+888
+
+इति। कर्णस्य उभयपार्श्वगतयोस्त्रिभुजयोः पृथक् पृथक् क्षेत्रफलं पूर्वोक्तविधिना नियतयोः फलयोरैक्यं कुर्यात्। तच्चतुर्भुजे स्फुटफलं भवति ।
+चतुर्भुजे समानलम्बानयनाय सूत्रम् - ( ११५ ) समानलम्बस्येति । समानलम्बे चतुर्भुजे भूम्याख्यात् भुजात् मुख्याख्यं भुजं विशोद्ध्य शिष्टं भूमिं प्रकल्प्य पार्श्वगतौ भुजौ प्रकल्प्य त्रिभुजोक्तविधिना आबाधाद्वयं लम्बञ्च साधयेत् । तत्र लब्धो लम्बः समानलम्बो भवति । पुनरेकामाबाधां तस्य चतुर्भुजस्य भूमेर्विशोद्ध्य शिष्टस्य लम्बस्य वर्गेक्यमूलमितरः कर्णः स्यात् । तत्र महतो भुजस्य मूलप्रवृत्तो महान् कर्णः लघुभुजस्य मूलप्रवृत्तो लघुकर्णः। चतुरश्रभूमिरिति वचनं कल्पितत्रिभुजव्युदासार्थम् । समानलम्बे चतुर्भुजे लघुभुजभूम्योः योगान्महाभुजमुखयोगः स्वल्पः स्यात्। एतत् समानलम्बलक्षणम्। उदाहरणम्- (११६) द्विपञ्चाशदिति । अस्मिन् विषमलम्बे कर्णानयनं समानलम्बं तत् कर्णाद्यानयनञ्च प्रदर्श्यते । अत्र करणीगतखण्डद्वयं लम्बद्वयवर्ग 485 इति वेद्यः।
+अथ नियतत्वेपि
+486
+कर्णयोर्नियतत्वेन कर्णयोरानयनमिह प्रदर्शयति । (११७)
+कर्णाश्रितभुजघातैक्यमुभयथान्योन्यभाजितं गुणयेत् ।
+योगेन भुजप्रतिभुजवधयोर्मूले श्रुती भवतः । । इति 487
+489
+कर्णस्य मूलाश्रितयोर्भुजयोः घातं 188 कर्णस्य अग्राश्रितयोर्भुजयोर्घातेन योजयेत् । तत् कर्णाश्रितभुजघातैक्यमित्युच्यते । एवमुभयथा कर्णद्वयेपि कार्यम् । एतदुक्तं भवति। प्रथमं कर्णस्य मूलाश्रितभुजयोर्घातं तस्यैवाग्राश्रितभुजयोर्घातेन योजयेत् । तत् प्रथमकर्णाश्रितभुजघातैक्यं
+485
+486
+487
+A पञ्चद्वयकर्णवर्ग
+A & C अथानियतत्वेपि
+A कर्णश्रितेति
+488
+B खातम् (wrong)
+489
+A omits
+89
+39
+
+490
+उच्यते । प्रथमम् पुनर्द्वितीयकर्णस्य मूलाश्रितभुजयोग्र्घातं तस्यैव वर्गाश्रितभुजयोः घातेन युतं
+491
+492
+द्वितीयकर्णाश्रितभुजघातैक्यं भवतीति । तयोः प्रथमस्य द्वितीयो हारकः स्यात्। द्वितीयस्य तु प्रथमो हारकः। एवमन्योन्यभाज्यभाजकत्वं भवति। उभयोरपि भुजप्रतिभुजवधयोर्योगो गुणकारः।
+493
+एतदुक्तं भवति- पूर्वापरभुजयोर्घातं दक्षिणोत्तरभुजयोर्घातेन युतं गुणकारो भवतीति। तत्तत्कर्णाश्रितभुजयोर्घातैक्यं भुजं प्रति भुजप्रतिभुजवधयोर्योगेन निहत्य इतरकर्णाश्रितभुजघातैक्येन विभज्य, लब्धं मूलीकुर्यात् । तन्मूलं कर्णो भवति । एवं कर्णद्वयलब्धिः । यस्मिञ्चतुर्भुजे एवं प्रकल्पितं कर्णद्वयं भवति, तत्र सर्वदोर्युतिदलमित्यादिविधिना नीतं क्षेत्रफलञ्च स्फुटं भवतीति । एतत् क्षेत्रफलान्यूनान्येव कर्णान्तरकृतक्षेत्रफलानि भवन्ति । एतत् प्रक्षिप्तमिति केचित् ।
+494
+अथ कर्णाद्यानयने लघूपायं श्लोकद्वयेनाह । ( ११८) अभीष्टजात्यद्वये इति इष्टयोराहतिः द्विघ्नीकृत्यादिविधिसिद्धैः कोटिबाहुकर्णैः उत्पन्नं यत् त्रिभुजं तज्जात्यमित्युच्यते। द्वे क्षेत्रे जात्याख्ये विन्यस्य तयोरेकस्य बाहुं कोटिञ्चान्यस्य कर्णेन निहन्यात् । एवं निहते बाहुकोटी चतुर्भुजस्य द्वौ भुजौ भवतः । पुनरन्यस्य बाहुकोटी इतरस्य कर्णेन निहन्यात् । तौ चतुर्भुजस्यापरौ भुजौ भवतः । एवं चत्वारो भुजाः भवन्ति । तैर्विषमचतुर्भुजं क्षेत्रं भवति । श्रुतिस्तु तद्वदिति ।
+495
+तस्मिन् क्षेत्रे एका श्रुतिः तद्वत् कल्प्या जात्यद्वयस्य कर्णयोराहतिरेकः कर्ण इत्यर्थः । त्रिभुजद्वयं तत इति- एकस्मिन् कर्णे प्रकल्पिते चतुर्भुजे त्रिभुजद्वयं भवतीत्यर्थः । बाह्वोर्वधः कोटिवधेन युक् स्यात् तथा इति जात्यद्वयस्य बाह्वोर्वधस्तस्यैव कोट्योर्वधेन युतो द्वितीयः कर्णो भवति श्रुतिः ।
+कोटि भुजावधैक्यमिति जात्यद्वयस्य इतरेतरकोटिगुणितयोर्भुजयोरैक्यं वा एकः कर्णः ।
+490
+B & C भवति
+491
+C हार:
+492 C omits
+493
+494
+495
+A omits भुजं प्रति
+A
+अभीष्टेति
+T कर्त्तव्या
+90
+90
+
+यद्यपि चतुर्भुजे द्वावेव कर्णौ, तथापि भुजव्यत्यासे कृते प्रथमोत्पन्नयोः कर्णयोरेकस्य व्यत्यासो भवति। इतरस्तु पूर्वोत्पन्न एव । एवं कर्णत्रयस्य संभवात् कर्णत्रयमुक्तम्। अस्मिन् लघौ
+496
+साधने विद्यमाने सति पूर्वैः बहुव्यापारं यत् साधनं कृतं तन्न विद्मः ।
+,
+कर्णाश्रितभुजघातैक्यमित्येतत् साधनं क्रियाया गुरुत्वात् अस्माभिरनादृतमित्यर्थः।
+एतदुक्तं भवति
+विषमचतुर्भुजस्य चतुर्भुजैर्जात्यद्वयमुत्पाद्य
+तद्वशादभीष्टजात्यद्वयेत्यादिना कर्णत्रयं साध्यमिति । तत्प्रकारस्तु चतुर्भुजस्य अधिकं भुजं स्वल्पभुजञ्च इष्टराशिना विभजेत् । तत्र लब्धे भुजाकोटी भवतः । ताभ्यां कर्णश्च साध्यः । एवमेकं जात्यक्षेत्रमुत्पन्नम्। पुनरस्य कर्णेन चतुर्भुजस्य इतरो भुजौ विभजेत्। तत्र लब्धे भुजाकोटी भवतः। ताभ्यां कर्णश्च साध्य इति। तदुक्तं विषमचतुर्बाहुष्वधिकाल्पाविष्टसङ्ख्यया विहतौ दो:कोटी भवतः । तेन जात्यस्यैकस्य तच्छ्रुत्यविहतौ इतरौ च भुजौ दो:कोटी तद्वदस्य जात्यस्य । एवं जात्यद्वन्द्वं कृत्वा कर्णाश्चतुर्भुजे साध्या इति।
+अन्यजात्यस्य
+497
+498
+एवं सिद्धे क्षेत्रे सर्वदोर्युतिदलमिति फलञ्च संवदति । समचतुरश्रेप्येवं कार्यम्। तत्र कर्णः करणीगत एव भवति। तस्माद्विषमेति वचनम्। अत्र कोणचतुष्टयस्पृक् वृत्तं च संभवति ।
+उदाहरणम् - (११९) क्षेत्रे यत्र 199 इति । योगाच्छ्रवो लम्बयोरिति भूमेरेकपार्श्वप्रवृत्तयोः कर्णलम्बयोर्योगात्तयोः करणलम्बयोरधरखण्डे वक्तव्ये । तथा श्रवणयोर्योगादुत्पन्नो लम्बस्तस्याबाधे च वक्तव्या। तथा निजमार्गप्रवृद्धयोः पार्श्वभुजयोर्योगान्निष्पन्ना लम्बसूची वक्तव्या । सूचीलम्ब इत्यर्थः। तथा आबाधासहितं भूतलं वक्तव्यम् 500 । भूमिगतमाबाधाद्वयमित्यर्थः । तथा भुजयो: कं रशिं च प्रवृद्धभागयुतं भुजद्वयमित्यर्थः । शून्यप्रमाणेनेति सूचीलम्बभुजयोः प्रमाणमज्ञात्वेत्यर्थः।
+496
+497
+498
+499
+500
+B & C add उक्तं
+A & C विहृतौ
+C omits
+A क्षेत्र
+A omits
+91
+
+लम्ब श्रुत्योरधरखण्डज्ञानार्थं
+सूत्रम्- (१२०) लम्बस्तदाश्रितबाह्वोरिति
+501
+लम्बतदाश्रितबाह्वोर्मध्यगतं भूखण्डं तस्य लम्बस्य सन्धिः स्यात् । सन्धिहीना भूमिस्तस्यैव लम्बस्य पीठं स्यात् । यस्य लम्बस्य अधरखण्डं साध्यं, तस्य सन्धिं परलम्बेन परलम्बाश्रितश्रवेणन च पृथ‌ङ्न्निहत्य परलम्बस्य पीठेन विभजेत् । तत्र खण्डौ वंशौ भवतः। लम्बाश्रितभुजमूलात् प्रवृत्तौ लम्बाग्राश्रितभुजमूलौ 502 लम्बश्रुत्योर्योगात् लम्बश्रुत्योरधरखण्डे भवतः। अत्रैवं त्रैराशिकम्। यदि परस्य पीठेन भुजाख्येन परलम्बाख्यः कोटि : तत्कर्णो वा लभ्यते, तदा इष्टलम्बस्य सन्ध्याख्येन भुजेन कियती कोटिः कर्णो वेति।
+503
+504
+अथ कर्णयोर्योगात् अधोगतलम्बज्ञानार्थं सूत्रम् । (१२१) लम्बी भूघ्नाविति । लम्बद्वयं भूम्या निहत्य स्वीयेन पीठेन विभजेत् । तत्र लब्धौ वंशौ भवतः । लम्बाश्रितभुजमूलात् प्रवृत्तौ लम्बाग्राश्रितकर्णमार्गान्तौ वंशौ भवतः इत्यर्थः । तयोर्मूलाग्रगतं हि कर्णसूत्रद्वयं बहिष्प्रवृद्धं भवति । अत्रैवं त्रैराशिकम् । यदि लम्बस्य पीठतुल्येन भुजामानेन लम्बतुल्यं कोटिमानं लभ्यते, तदा भूमितुल्येन भुजामानेन कियत् कोटिमानमिति वंशलब्धिः । पुनस्ताभ्यां वंशाभ्यां पूर्ववत् अन्योन्यमूलाग्रसूत्रयोगादित्यादिविधिना कर्णसूत्रयोगान्निष्पन्नो लम्बस्तस्याबाधे च साध्याः ।
+अथ सूचीलम्बतदाबाधाभुजानामानयनाय सूत्रम् (१२२) लम्बहतो निजसन्धिरिति 505
+506
+अत्र लम्बयोरेकमिष्टलम्बं परिकल्प्य अपरं परलम्बञ्च परिकल्प्य कर्म क्रियते । इष्टलम्बस्य सन्धिं परलम्बेन निहत्य इष्टलम्बेन विभजेत् । तत्र लब्धं समसन्धिर्भवति । अत्रैवं त्रैराशिकम् ।
+यदि इष्टलम्बेन तत्सन्धिर्लभ्यते, तदा परलम्बतुल्येष्टलम्बेन कियत् सन्धिमानमिति समसन्धिलब्धिः।
+501
+502
+A लम्बे
+A omits तत्र खण्डौ...लम्बाग्राश्रितभुजमूलौ
+B & C परलम्बस्य
+503
+504
+B बहुप्रवृद्धम्
+505
+A लम्बहृत इति
+506 C लम्बयोरेकमिष्टम्
+92
+222
+
+-
+एतदुक्तं भवति इष्टलम्बाश्रितभुजं परलम्बाश्रितं 507 प्रकल्प्य तद्भुजाग्रादुत्पन्नलम्बं
+508
+समलम्बं कल्पयेत्। तस्य समलम्बस्य सन्धिः समसन्धिर्भवतीति। समसन्धिपरलम्बसन्ध्योरैक्यं हारको भवति। तेन हारेण भूमिगुणितौ समसन्धिपरलम्बसन्धी विभजेत् । तत्र लब्धे सूचीलम्बस्याबाधे भवतः । अत्रैवं त्रैराशिकम् । यदि समसन्धिपरसन्ध्योरैक्यतुल्येन समलम्बयोः सन्धियोगेन समसन्धिपरसन्धितुल्ये आबाधे लभ्येते, तदा भूमितुल्येन समलम्बयोः सन्धियोगेन के आबाधे इति। भूमिर्हि सूचीलम्बतुल्ययोः समलम्बयोराबाधायोगः स्यात् । पुनः परलम्बं भुवा निहत्य समसन्धिपरसन्ध्योरैक्येन विभजेत् । तत्र लब्धं सूचीलम्बो भवति ।
+509
+अत्रैवं त्रैराशिकम्। यदि समसन्धिपरसन्ध्योरैक्येन परलम्बतुल्यसमलम्बो लभ्यते, तदा भूमितुल्येन सन्धियोगेन कियान् लम्ब इति। सूचीलम्बाख्यसमलम्बसिद्धिः पुनः पार्श्वभुजौ सूचीलम्बेन निहत्य तत्तत् भुजाश्रितेन लम्बेन विभजेत् । तत्र लब्धौ सूचीलम्बस्य भुजौ भवतः । अत्रैवं त्रैराशिकम्। यदि तत्तद्भुजाश्रितेन लम्बेन तत्तद्भुजो लभ्यते तदा सूचीलम्बेन कियान् भुज
+510
+इति सूचीलम्बस्य भुजद्वयलब्धिः । एवं त्रैराशिकेन सर्वत्र क्षेत्रविभागो द्रष्टव्यः । अथ चतुष्कोणस्पृशः परिधेर्व्यासार्द्धकल्पनाय करणसूत्रम् -
+दोष्णां द्वयोर्द्वयोग्र्घातयुतीनां तिसृणां वधे
+एकैकोनैतरत्रैक्यचतुष्कवधभाजिते ।
+लब्धमूलेन यद्वृत्तं विष्कम्भाद्धेन निर्मितं
+सर्वं चतुर्भुजक्षेत्रं तस्मिन्नैवावतिष्ठते ।। ( प. ५६ ) इति
+पूर्वापरभुजयोर्वधं दक्षिणोत्तरभुजयोर्वधेन योजयेत् । एवं दोष्णां द्वयोर्द्वयोर्घातयुतिरेका भवति।
+511
+पुनः पूर्ववद्दक्षिणभुजयोर्वधं पश्चिमोत्तरभुजयोर्वधेन योजयेत्। सा द्वितीया । पुनः पूर्वोत्तरभुजयोर्वधं दक्षिणपश्चिमभुजयोर्वधेन योजयेत् । सा तृतीया भवति ।
+507
+B & C परलम्बाग्रमार्गान्तम्
+508
+C लम्बे (wrong)
+509
+B & C समभुज
+510
+511 C omits
+Comits सूचीलम्बाख्यसमलम्बसिद्धिः
+भुज इति
+93
+
+एवं कृतानां तिसृणां घातयुतीनां परस्परवधं कुर्यात् । स परस्परवधराशिर्भाज्य स्यात् । पुनरेकैकोनेतरत्रैक्यं चतुष्कवधं कुर्यात् । एतदुक्तं भवति । पूर्वादिदिग्गतभुजत्रैक्यादुत्तरभुजं
+513
+512
+विशोधयेत्। स प्रथमः। दक्षिणादित्रिकात् पूर्वभुजं विशोधयेत् । स द्वितीयः । पश्चिमादित्रिकं दक्षिणोनं तृतीयः। उत्तरादित्रिकं पश्चिमोनं चतुर्थः । एवं सिद्धानां चतुणां राशीनां परस्परवधं कुर्यादिति । एष वधो हारकः स्यात् । भाज्यराशिं हारकेण विभज्य लब्धं मूलीकुर्यात् । तन्मूलं विष्कंभार्द्धं भवति। तेन विष्कंभार्द्धेन निर्मितं वृत्तं जात्यद्वयसाधितस्य सर्वस्य चतुर्भुजस्य चतुष्कोणस्पृक् भवति । तत्र क्षेत्रफलानयनायाह । प्रागुक्तभाजकमूलाब्धिभागो भवति तत्फलमिति। एकैकोनेतरत्रैक्येत्यादिना सिद्धस्य हारकस्य यन्मूलं तस्य चतुर्थांशतुल्यं तस्मिन् क्षेत्रे फलं भवति। अथ त्र्यपि व्यासार्द्धानयने फलानयने च न्यायसाम्यं दर्शयति । शून्यं प्रकल्प्य तुर्यन्दोत्र्यश्रेप्येतत् (?) समं भवेदिति । त्रिभुजे दोष्णां द्वयोर्द्वयोर्घात एकैक एव संभवति। न तु द्वितीयः । चतुर्थस्य शून्यत्वात् । शून्यगुणितस्यापि शून्यत्वाच्च । अतः त्रयाणां द्वयोर्द्वयोर्घातानां वधो भुजद्वन्द्वैक्यानामितरभुजाहीनानां त्रयाणां भुजानां क्षेत्रयोगस्य च वधो हारकः ।
+भाज्यः।
+514
+अन्यत्——“ पूर्ववत्।
+अथ वृत्तक्षेत्रे करणसूत्रम् (१२३) व्यासे भनन्देति 515 । वृत्तस्य व्यासे सप्तविंशति नवत्रिनिहते खबाणसूर्यैर्भक्ते, सूक्ष्मपरिधेर्मानं भवति । अथवा वृत्तव्यासे द्वाविंशतिनिघ्ने शैलैर्विभक्ते
+516
+स्थूलपरिधेर्मानं भवति । परिधितो व्यासानयने गुणहारयोर्व्यत्यासः कार्यः । अत्र त्रैराशिकेन
+उभयोः सिद्धिः। फलादौ सूत्रम् - ( १२४) वृत्तक्षेत्रे परिधीति 17। परिधिगुणितो व्यासपादो वृत्तक्षेत्रे फलं भवति। तत्क्षेत्रफलं चतुर्भिर्निहतं गोळस्य उपरिगतं फलं भवति। गोळपृष्ठजं क्षेत्रजमित्यर्थः। कन्दुकस्येति - यथा कन्दुकस्या उपरिगतं जालं बहुभिः स्वीयैः पदैः उपलक्षितं
+512
+513
+514
+515
+516
+517
+c पूर्वम्
+C omits
+B & C अलम् A व्यास इति
+C omits
+A वृत्त इति
+94
+
+भवति, गोळपृष्ठे तद्वज्जातं क्षेत्रफलमित्यर्थः । पुनः तत्गोलपृष्ठजं फलं गोळव्यासनिघ्नं षड्भिर्भक्तं गोळस्यान्तर्गतं घनं भवति । गोळस्यान्तर्गतस्य घनस्य घनहस्तमानमित्यर्थः । येन व्यासेन क्षेत्रफलमानीतं तेन व्यासेन तुल्यव्यासमिह गोळं विवक्षितम् ।
+518
+519
+पुनरपि फले सूत्रम्- (१२५) व्यासस्य वर्ग इति । सप्ताश्विनपत्रिहतात् व्यासवर्गात् पञ्चभिः सहस्रैः लब्धं वृत्तक्षेत्रे सूक्ष्मफलं भवति । अथवा रुद्राहतात् व्यासवर्गाच्चतुर्दशभिर्लब्धं स्थूलं फलं भवति । एतत् क्रियालाघवात् सम्यग्व्यवहारयोग्यं भवति । पुनर्घनीकृतस्य गोळव्यासस्य दलं घनीकृतगोळव्यासदलादेकविंशांशेन च युतं गोळान्तर्गतं फलं भवति। तदपि स्थूलं भवति।
+522
+521
+520
+अथ इष्टजीवातः शरादौ सूत्रं- (१२६) ज्याव्यासयोगान्तरघातेति जीवव्यासयोर्योगस्य तयोरेवान्तरेण गुणितस्य यन्मूलं तेन हीनस्य व्यासस्य फलं तस्याः जीवायाः शरो भवति । पुनः शरहीनं व्यासं शरेण निहत्य मूलीकुर्यात् । तन्मूलं द्विगुणितं तस्य शरस्य जीवा भवति । अत्र हि समस्तजीवा हि विवक्षिता । तस्माद्विगुणितशरः गृह्यते। पुनः समस्तजीवायाः अर्द्धस्य वर्गं शरेण विभज्य, लब्धे शरं, प्रक्षिपेत् । तत्समस्तव्यासप्रमाणं भवति । इह युक्तिस्तु शरविषये भुजोद्भवायाः अर्द्धज्यायाः व्यासार्द्धस्य च योगस्तदन्तरगुणितो मूलीकृतः कोटिज्या हि स्यात् । कोटिज्याहीनं व्यासार्द्धं भुजायाः शरश्च भवति। इह तु जीवाद्विघ्ना गृह्यते । व्यासार्द्धश्च द्विघ्नं गृह्यते। अतस्ताभ्यां लब्धशरश्च द्विगुणितो भवति । अतस्तद्दलं
+523
+518
+519
+520
+521
+522
+523
+A व्यासस्येति
+A omits पुनः
+A
+ज्येति
+B & C दलम्
+A तस्माद्विगुणिता
+B योगस्तदितरगुणितो
+95
+55
+
+स्फुटशरो भवतीति । जीवायां तु भुजायाः शरेण हीनः समस्तव्यासः कोटिव्यासार्धयोर्योगः स्यात्। तदन्तरञ्च शरः । अतः शरहीनसमस्तव्यासशरगुणितो 24 भुजावर्गो भवतीति ।
+व्यासे तु भुजज्यावर्गो हि कोटिज्याव्यासार्द्धयोः योगस्यान्तरेण शरतुल्येन गुणितः स्यात् । अतः तस्माच्छरेण लब्धं कोटिज्याव्यासार्द्धयोर्योगः स्यात् । तस्मिन् भुजायाः शरयुते समस्तव्यासो भवतीति ।
+525
+अथ वृत्तान्तर्गतानां समत्र्यश्रादीनां भुजानयनाय सूत्रं - (१२७) द्विद्व्यङ्केति वृत्तस्य व्यासं द्व्यङ्कादिभिः निहत्य खखखाभ्राक्कैर्विभजेत् । तत्र लब्धं समस्त्र्यश्रादीनां (?) नवाश्रान्तानां भुजामानं भवति । अत्र खखखाभ्रार्कव्यासवृत्तेति चतुष्पञ्चाद्यंशजा समस्ता ज्या गुणाव्यासो हार:526|
+527
+अथ स्थूलजीवानयनोपायमाह । ( १२८) चापोननिघ्नपरिधिरिति । इष्टचापेन हीनं परिधिमिष्टचापेन निहन्यात् । स प्रथमाख्यो राशिर्भवति । पुनः परिधिवर्गस्य चतुर्थांशं पञ्चभिर्निहत्य तस्मादाद्यराशिं विशोधयेत् । शिष्टं हारको भवति । तेन हारेण चतुघ्नं समस्तव्यासेन च निहतं प्रथमराशिं विभजेत् । तत्र लब्धमिष्टचापस्य जीवा भवति । अत्र समस्तजीवा गृह्यते, नत्वर्द्धज्या। उदाहरणम्- (१२९) अष्टदशांशेनेति 528 । अत्र एकादिगुणितस्य परिध्यष्टादशांशस्य जीवा पृथक् पृथक् साध्यते । तत्र क्रियालाघवाय परिध्यष्टादशांशेन परिधिमिष्टधनुश्चापवर्त्य जीवाः साध्यन्ते। तत्र व्यासस्तु अनपिवर्त्तित एव गृह्यते । तेन जीवा अप्यनपवर्त्तिता एव लभ्यन्ते।
+524
+A omits शरहीन
+525 A द्वयङ्केति
+526 C omits
+527
+528
+A चापोनेति
+B अष्टदशांशेति
+96
+96
+
+529
+530
+अथ चापानयनमाह। (१३०) व्यासाब्धिघातेति । चतुर्वर्गगुणितव्यासयुक्तये इष्टजीवायाः परिधिवर्गमिष्टज्या चतुर्थांशगुणितं पञ्चभिश्च गुणितं विभजेत् । तत्र लब्धं
+परिधिवर्गस्य चतुर्थांशाद्विशोद्ध्य, शिष्टं मूलीकुर्यात् ।
+शिष्टं मूलीकुर्यात्। तन्मूलं परिधिदलाद्विशोद्ध्य
+शिष्टमिष्टधनुर्भवति। एवं स्थूलजीवातः स्थूलधनुः साध्यम्।
+नातिसूक्ष्माश्चापजीवा इति ज्ञेया इहोदिताः ।
+तेषां सूक्ष्मतराणां तु सिद्धिर्भवति युक्तितः।। (प.५७) महतो भास्करीयस्य व्याख्यायां लिखितं मया ।
+531
+सिद्धान्तदीपिकाख्यायां कर्मज्याधनुरादिकम् ।। (प. ५८) इति
+।। इति क्षेत्रव्यवहारः ।।
+खाते करणसूत्रम्। (१३१) गणयत्वेति । खाते विस्तारस्य वक्रत्वे सति बहुषु स्थानेषु आदिमध्यान्तादिषु विस्तारमानं गणयित्वा तेषां विस्तारमानानां योगम् आदिमध्यान्तादिस्थानसङ्ख्यया विभजेत् । यावत्सु स्थानेषु विस्तारमानं गणितं, तत्सङ्ख्यया विभजेदित्यर्थः। तत्र लब्धं सममितिर्भवति । सर्वत्र तावती विस्तृतिः कर्तव्येत्यर्थः । अत्र तुल्यान्तराळभागेष्वेव स्थानेषु विस्तृतिगणना कार्या । दैर्घ्यस्य विषमत्वे दैर्घ्यप्येवं सममितिः कार्या ।
+532
+तथा वेधस्य विषमत्वे वेधेप्येवं सममितिः कार्या । तत्र मध्ये तत्पार्श्वद्वयगतेषु स्थानेषु तुल्यान्तरेषु च वेधमानमवगन्तव्यम् । यत्र स्थानेषु बहुधा कल्पितेषु फलभेदो दृश्यते, तत्र स्थानानां बहुत्ववशात् फलस्य स्फुटत्वमवगन्तव्यम्। क्षेत्रफलं वेधगुणितमिति समीकृतयोर्दैर्घ्यविस्तृत्योर्वधः समीकृतवेधेन निहतः खाते घनहस्तमानं भवति । यस्य खातस्य मुखे तले च
+533
+529 A व्यासेति
+530
+B चतुर्गुणितव्यासयुक्तये
+531
+B धर्मज्या, A omits the two verses
+532
+Comits सममितिः कार्या, A adds एवम् एकपार्श्वादितरपार्श्वान्तरं विस्तारादित्रयस्य क्रमादूनाधिकत्वे विधिः । इयं मध्यमिति: । नीम्नः ( सीम्नः ? ) पार्श्वस्थानम् उन्नतम् ।
+533
+C समीकृतेन वेधेन
+97
+
+दैर्घ्यविस्तृत्योर्भेदः स्यात् तत्र सूत्रम् । (१३२) मुखज तलज इति ।
+534
+खातस्य मुखभवाभ्यां
+तलभवाभ्याञ्ज विस्तृतिदैर्ध्याभ्यां पृथक् पृथक् क्षेत्रफलमानीय पुनर्मुखतलजयोर्दैघ्योर्विस्तृत्योश्च योगौ दैर्घ्यविस्तृती परिकल्प्य ताभ्याञ्च क्षेत्रफलमानयेत् । तेषां त्रयाणां क्षेत्रफलानामैक्यं षङ्भिर्भक्तं समक्षेत्रफलं भवति । तत्समफलं वेधगुणितं तस्मिन् खाते घनहस्तमानं भवति। अथ सूचीघाते मुखोत्पन्नैर्वाबहुभिर्वा मुखोत्पन्नाभ्यां परिधिव्यासाभ्यां वा पूर्ववत् क्षेत्रफलमानीय वेधमानेन गुणयेत्। तत्समखातफलमित्युच्यते। विस्तृत्यादेर्वैषम्याभावात् एवमानीतात् समखातफलात् त्रिभिर्भक्तं सूचिखाते क्षेत्रफलं भवति । उदाहरणम् – (१३३) मुखे दशेति 35 । खातसङ्ख्या
+खातफलसङ्ख्या।
+।। इति लीलावतीव्याख्याने खातव्यवहारः।।
+चितौ करणसूत्रम्- (१३४) उच्छ्रयेणेति 536 चितेर्विस्तारगुणितं दैर्घ्यं क्षेत्रफलं स्यात्। तदुच्छ्रयगुणितं चितेर्घनं भवति । पुनरिष्टकाया एकस्याः घनमानेन चितेर्घनमाने विभक्ते, इष्टकानां सङ्ख्या भवति । इष्टकायाः दैर्घ्यविस्तारोच्छ्रयाणां वध इष्टकाघनमित्युच्यते। तथा चितेरुच्छ्रितिमानमिष्टकायाः उच्छ्रितिमानेन विभजेत् । तत्र लब्धाः स्तराः भवन्ति । इष्टकानां पङ्क्तयः स्तरा इत्युच्यन्ते । एवं दृषदां पाषाणानां चितेरविघनफलादि साद्ध्यम्।
+उदाहरणम्- (१३५) अष्टादशाङ्गुलमिति । अत्र इष्टकायाः दैर्घ्यादिषु अंशच्छेदावपवर्त्य
+विन्यस्यते।
+।। इति चितिव्यवहारः ।।
+क्रकचे करणसूत्रम्- ( १३६) पिण्डयोगदलमिति । वृक्षस्याग्रमूले च पिण्डमानमूलं
+अङ्गुलात्मकमवगम्य
+534
+A मुखजेति
+535
+A मुख इति
+536
+B & C गुच्छ्रयेणेति
+तयोर्योगस्यार्द्धं
+वृक्षस्य दैर्घ्यमानेन
+98
+886
+अङ्गुलात्मकेन
+निहत्य
+
+पुनर्द्वारुदारणपथैर्वृक्षस्य भेदमार्गसङ्ख्याभिश्च निहत्य, षट्स्वरेषुभिर्विभजेत् । तत्र लब्धं करात्मकं दारणफलं भवति। भिन्नभागस्य मानमिति यावत्।
+करणसूत्रं- (१३७) छिद्यते 537 इति । समपिण्डस्य वृक्षस्य पिण्डमानं विस्तृतिहतं
+पुनच्छेदमार्गेश्च निहतं षट्स्वरेषुभिर्विभजेत् । तत्र लब्धं छेदफलं करात्मकं भवति। अत्रापि
+पिण्डविस्तृतिमानमङ्गुलात्मकं
+ग्राह्यम्।
+कर्मकारसंप्रतिपत्या कल्प्यम्।
+539
+पुनरिष्टकाचित्यादौ
+538
+तन्मृदुत्वादिवशात्
+।। इति क्रकचव्यवहारः । ।
+540
+धान्यराशेर्मूलभागे यद्वृत्तं
+राशौ करणसूत्रम्- (१३८) अनणुष्विति । समतलगतस्य तदिह परिधिरुच्यते। तस्यैवोच्छ्रितिः वेधशब्देनोच्यते । अनणूनां व्रीह्यादिधान्यानां राशौ परिधेर्द्दशमांशतुल्यो वेधो भवति । अणूनां प्रियङ्गुश्यामाकादीनां राशौ परिधेरेकादशांशतुल्यो वेधो भवति । शूकयुतानां नीवारादीनां राशौ परिधेनवांशतुल्यो वेधो भवति । सर्वत्र राशौ परिधेष्षष्ठांशे वर्गिते पुनर्वेधनिघ्ने तस्य राशेर्घनहस्तसङ्ख्या भवन्ति । तैर्घनहस्तैस्तुलिता मागधाः खार्यः भवन्ति।
+भित्तिलग्ने राशौ करणसूत्रम् - (१३९) द्विवेदेति । भित्तेः पार्श्वलग्नस्य राशेर्यत्परिधिमानं दृश्यते, तन्मानं द्विगुणितं परिधिमानमिति प्रकल्प्य तद्वशन्तु वेधञ्च प्रकल्प्य पूर्ववत्
+541
+542
+,
+फलमानीय तत्फलद्वाभ्यां विभजेत्। तत्र लब्धं भित्तिपार्श्वलग्नस्य राशेर्घनफलं भवति । तथा भित्तेरन्तः कोणस्थस्य राशे: 543 परिधिञ्चतुभिन्निहत्य फलं पूर्ववदानीय पुनश्चतुर्भिर्विभजेत् ।
+c हृद्यते (wrong)
+537
+538
+A adds मूल्यम्
+539
+T कर्त्तव्यम्
+540
+B & C समतलगतगतस्य
+541
+C
+द्विगुणम्
+542
+c तत्फलम्
+543
+B & C कोणस्थस्य राशेः
+99
+30
+
+तत्स्फुटफलं भवति । भित्तेर्बहिष्कोणस्थस्य परिधित्रिभागयुतेनैकेन निहत्य पूर्ववत् फलमानीय
+तत्फलं त्रिभागयुतैनेकेन विभजेत् । तत् स्फुटफलं भवति । अर्धाद्यंशात्मकान् राशीन् सम्पूर्णान् कृत्वा फलमानीय तत्फलादर्द्धाद्यंशान् गृह्णीयादित्युक्तं भवति ।
+छायायां करणसूत्रम्-
+।। इति राशिव्यवहारः ।।
+(१४०)
+छाययोरिति ।
+स्थानद्वयस्थयोः
+द्वादशाङ्गुलशङ्कोरेकदीपात् संभूतयो छाययोर्यदन्तरं तत्कर्णयोश्च यदन्तरं तयोरन्तरं तयोर्वर्गान्तरेण रसाद्रीषून् विभज्य लब्धमेकेन च युतं मूलीकृत्य तेन 544 मूलेन कर्णयोरन्तरं निहन्यात्। तच्छाययोः योगो भवति । एवं गुणितं कर्णान्तरं छायायोगाख्यं द्विधा विन्यस्य छायान्तरेण हीनं युतञ्च कृत्वा अर्द्धकुर्यात्। ते अर्द्ध स्तंभशङ्कुच्छाये भवतः । अत्र रसाद्रीषवः एकगुणितयोः शङ्क्वोर्योगस्य कृतिः सैकलब्धिरेकवर्गयुतलब्धिः ।
+उदाहरणम्- (१४१) नन्दचन्द्रैरिति। अत्र छाययोरन्तरमेकोनविंशतिमितम् । कर्णयोरन्तरं त्रयोदशमितम्। छायात्वेका द्व्यंशैः सप्तभिस्तुल्या अपरा द्व्यंशैः पञ्चचत्वारिंशता तुल्या । एवं वा सूत्रम्-
+छायाभेदकृतिस्तु या श्रवणयोर्भेदस्य वर्गोनितात्
+शङ्क्वोरिष्टविनिघ्नयोर्युतिकृतिं भक्त्वा तथाप्ते कृतिम् । क्षिप्त्वेष्टस्य पदं हतं श्रवणयोर्भेदेन वा छाययोः
+इष्टाप्तं प्रभयोर्युतिश्रवणयोर्वा स्यात् यथोक्तक्रमात् ।। ( प. ५९)
+पूर्वोदाहरणे छायाभेदकृति ३६१ श्रवणभेदकृत्या हीना १६९ हीना १९२ अनया पञ्चघ्नयोः शङ्क्वोः योगस्य १२० वर्गः १४४००. विभक्ते लब्धं ७५. अस्मिन्निष्टस्य ५ कृतिं २५ प्रक्षिप्य जातं पदं १० छायाभेदहतमिष्टाप्तं ३८ एवं कर्णयोगः । योगे अन्तरे च ज्ञाते पूर्ववत्
+544
+A adds मूलघ्नकर्णयोरन्तरेण हीनं युतं च कृत्वा अर्द्धकुर्यात् । Aomits मूलेन ... छायान्तरेण
+100
+
+योगोन्तरेणोनयुतोर्धितश्चेति विधिना छायाद्वयस्य कर्णद्वयस्य च सिद्धिः
+कर्णयोगे च दृष्टे सूत्रम् -
+कर्णैक्यस्य कृतिः प्रभैक्यकृतिहीना या तया भाजिता शङ्क्वोरिष्टविनिघ्नयोर्युतिकृतिं त्यक्त्वेष्टवर्गात् पदम्। इष्टेनैव विभाजितं श्रवणयोर्योगेन वा छाययोः
+546
+545
+। अथ छायायोगे
+निघ्नञ्च प्रभयोर्भवेच्छ्रवणयोः वात्र क्रमादन्तरम् ।। (प.६०)
+पूर्वोदितस्य कर्णैक्यस्य ३८ छायैक्यस्य च २६ वर्गान्तरं ७२८. अनेन पञ्चघ्नयोः शंक्वोः योगस्य वर्गे १४४०० विभक्ते लब्धं ७४५, एतदिष्टवर्गात् २५ सवर्णीकृतात् १०० त्यक्त्वा शेषः २५. अस्य पदं ५ / २ तदिष्टेन ५ विभक्तं १/२ एतत् पृथक्स्थं श्रवणयोगेन हतं १९, एतत्प्रभयोरन्तरम्। अथवा तदेव पृथक्स्थं छायायोगेन हतम् १३ एतत् कर्णान्तरम् । कर्णयोगे
+—
+छायान्तरे च दृष्टे सूत्रम् -
+श्रुत्योर्योगकृतिं प्रभाविवरकृत्योर्भेदभक्तां कृतिं शङ्क्वोरिष्टविनिघ्नयोर्युतिभवात्त्यक्त्वेष्टवर्गात् पदम्। श्रुत्योर्योगहतं प्रभान्तरहतं वेष्टेन भक्तं क्रमात्
+योगस्तु प्रभयोर्भवेच्छ्रवणयोर्भेदोथवा स्वेष्टयो: 548 ।। (प.६१)
+547
+पूर्वोदाहरणे श्रुतियोगप्रभाविवरयोर्वगान्तरं १०८३ अनेन त्रिभिर्निहतयोः शङ्क्वोर्योगस्य ७२ वर्गे ५१८४ विभक्ते लब्धं १७२८, एतदिष्टवर्गात् ९ सवर्णितात् ३०४९ विशोध्य शिष्टं अस्य मूलं ३९. श्रुत्योर्योगहतमिष्टभक्तं २६. एष प्रभयोर्योगः । अथवा तदेव मूलं प्रभयोरन्तरहतं
+इष्टभक्तं १३. एतत् कर्णयोरन्तरम्। छायैक्ये श्रुतिभेदे च दृष्टे सूत्रम्-
+545
+546
+547
+548
+A omits पूर्वोदाहरणे...सिद्धिः
+Quoted in KK, p.426
+A omits पूर्वोदितस्य...कर्णान्तरम्
+Quoted in KK, p. 427, Comits
+549
+A omits पूर्वोदाहरणे...कर्णयोरन्तरम्
+101
+
+छायैक्यश्रुतिभेदयोः कृतिविशेषाप्तैः कृतेन्द्रैर्युतात् पादाज्जातपदं तु यद्विनिहतं श्रुत्योर्विशेषेण तत् । छायैक्येन च तत् पृथग्विनिहतं द्वाभ्यां पुनश्चाहतं छायाभेदमितिस्तथा श्रवणयोर्योगश्च सञ्जायते 550 ।। (प.६२)
+पूर्वोदाहरणे छायैक्यश्रुतिभेदयोर्वर्गान्तरं ८०७ तेन हताः कृतेन्द्राः ४८ / १६९ पादाः अनयोः सवर्णीकृतयोः योग: ३६१/६७६ अस्य पदं १३/२६ एतच्छ्रुत्योर्भेदहृतं द्वाभ्यां हतं १३
+551
+552
+एतच्चान्तरम्। अथ तदेव मूलं छार्येक्येन हतं द्वाभ्याञ्च हतं ३८. एष कर्णयोगः ते प्रभे वक्ति यो युक्तिमार्गेण मे इत्यत्र युक्तिमार्गशब्देनैतत् सर्वं सूचितम्। तच्छायाद्वयं गणितयुक्त्या यो वेत्ति तेनैतत् सर्वमपि विदितं भवतीत्यभिप्रायः । अव्यक्तयुक्तं हि मन्ये अखिलमिति अव्यक्तमप्रकाशितं वस्तु । तेन युतोप्यव्यक्तयुक्तः गहनार्थविदित्यर्थः । तमखिलमव्यक्तयुक्तं मन्ये इति योज्यम् ।
+करणसूत्रम्- (१४२) शङ्कुरिति
+553
+दीपमूलशङ्कुमूलयोरन्तराल भूमानेन
+शङ्कुन्निहत्य शङ्कुहीने 54 दीपोन्नतिमानेन विभजेत् । तत्र लब्धं शङ्कोश्च्छाया भवति। अत्र दीपमस्तकात् शङ्कुमस्तकावगाहिच्छायाग्रान्तं कर्णसूत्रं प्रसार्य त्रैराशिकं चिन्त्यम्। यदि शङ्कुमस्तकादुपरिगतस्य दीपभागस्य कोट्यात्मकस्य शङ्कुदीपयोरन्तराळभूमितुल्या भुजा, तदा शङ्कोः का भुजेति छायालब्धिः । (१४३) छायोद्धृत इति - शङ्कुमूलदीपमूलयोरन्तराळगुणिते शङ्कौ छाया विभक्ते शङ्कुमस्तकादुपरिगतस्य दीपभागस्योन्नतिमानं भवति । इहापि प्राग्वत्
+त्रैराशिकम् विभजेत्।
+—
+(१४४) विशङ्कुदीपोच्छ्रयेति ।
+लब्धं
+555
+शंकुहीनदीपोच्छ्रयनिहतां छायां शङ्कुना
+दीपमूलशङ्कुमूलयोरन्तरालं
+भवति ।
+दीपतलान्तरशब्देन
+दीपशङ्क्वन्तरालान्तरमुच्यते । दीपनालान्तरमिति वा पाठः ।
+550
+Quoted in KK, p. 427
+551
+A omits पूर्वोदाहरणे...कर्णयोगः
+552
+553
+554
+555
+A omits this line
+C शङ्कुः प्रतीपतलशङ्कुतलान्तरघ्नः
+T शङ्कुमानोनेन
+C adds तच्छङ्कुयुतदीपस्य उन्नतिमानं भवति
+102
+
+अथैकदिश्युभयत्र स्थितयोः समयोः शङ्क्वोः छायाभ्यां दीपोच्छ्रयादिज्ञानार्थं सूत्रम्-
+556
+(१४५) छायाग्रयोरन्तरसगुणाभेति । दीपस्य एकदिश्यवस्थितयोः शङ्क्वोः ये छाये तदग्रयोरन्तरालभूमिरिह छायाग्रान्तरमित्युच्यते । तेन छायाग्रान्तरेण छायाद्वयं पृथक् पृथक् निहत्य तयोरेवच्छाययोर्भेदेन विभजेत् । तत्र लब्धं भूर्भवति । छायाग्रदीपमूलयोरन्तरालभूमिरित्यर्थः। छायाकर्णतुल्यव्यासार्द्धस्य दृष्टमध्यस्य इष्टमण्डलस्य मध्यं सर्वदा छायाग्रे हि भवति । तस्मात् छायाग्रमिष्टभूमिं प्रकल्प्य छायाह्रासत्वादि 557 निरूप्यते । तत्र प्रथमछायाग्रगतेष्टभूमिनिष्पन्ना प्रथमछाया, द्वितीयछायाग्रहतेष्टभूमिनिष्पन्ना द्वितीयछाया, तत्र तयोर्छाययोर्यदन्तरं तदिष्टभूम्योरन्तरालगतभूमिजनितम्। यतो दीपासक्तिवशाच्छायाह्रासो भवति।
+एवमेव स्थिते तत्र त्रैराशिकं चिन्त्यम् । यदि छाययोरन्तरालतुल्येन छायाहासेन छायाग्रयोरन्तरालगता भूमिर्लभ्यते तदेष्टछायातुल्येन छायाहासेन कियती भूमिरिति छायाग्रदीपमूलयोरन्तराळगतभूमिलब्धिः भूशङ्कुघात इति इष्टछायासिद्धां भूमिं शङ्कुना निहत्य इष्टछायया विभजेत् । तत्र लब्धं दीपोन्नतिर्भवति ।
+558
+अत्रैवं त्रैराशिकम्। यदि इष्टछायाग्रशङ्कुमूलयोरन्तराल भूम्या छायातुल्यया शङ्कुतुल्योन्नतिर्लभ्यते, तदेष्टछायाग्रदीपमूलयोरन्तरालभूम्या कियत्युन्नतिरिति दीपोन्नतिलब्धिः । अनेन विधिना द्रुमपर्वतादीनामपि दूरोन्नतिमानं अवगम्यते । तत्र दृक्सूत्रवशात् छाया परिकल्प्य शङ्क्वचलमस्तकगतं दृक्सूत्रं पतति यत्र भूभागे तत्र नगशिरोदीपभूभवच्छायाग्रमपि तच्छङ्कोः इत्यनेन छाया वेद्या। उदाहरणम्-
+सौम्ये भागे निलाया वृषभवनमिति क्षेत्रमब्धेस्तटे स्यात् तस्मिन्नेकत्र पोतध्वजशिरसि लसद्दीपजाता प्रभातु ।
+556
+557
+558
+A छायाग्रयोरिति
+A छायायाः ह्रासत्वादि
+A adds छायानाशो हि दीपमूले भवति अथवा छाययोरन्तरमिह छायावृद्धिम् यदि छायान्तरतुल्यया वृद्ध्या छायाग्रयोरन्तराळ - भूमिर्लभ्यते । तदेष्टछायातुल्यया छायावृद्ध्या का भूमिरिति छायाग्रदीपमूलान्तराळ-भूमिलब्धिः ।
+103
+
+शङ्कोरर्काङ्गुलस्य द्विशरनगसमा सप्तहस्तान्तरे स्या-
+द्यूना सा पोतमार्गप्रमितिमिह सखे ब्रूहि दीपोन्नतिञ्च 559 ।। (प.६३)
+५७०
+तत्र
+अत्र प्रथमच्छाया द्विशरनगसमाः ७५२. द्यूना सैवान्या छायाग्रयोरन्तरालभूमिद्वयङ्गुलयुतसप्तहस्तमिता छाययोरन्तरं द्व्यङ्गुलमितम् । प्रथमच्छायायां छायाग्रयोरन्तरेण द्व्यङ्गुलयुतसप्तहस्तमितेन निहत्य छायाप्रमाणान्तरेण, द्विसङ्ख्येन विभज्य लब्धाः छायाग्रदीपमूलयोरन्तरालभवा हस्ताः साष्टाङ्गुलाः त्रिरसषडश्विनः २६६३ एतां भूमिं शङ्कुना द्वादशसङ्ख्येन निहत्य प्रथमच्छायया द्विशरनगतुलितया विभज्य लब्धा दीपोन्नतिमाने हस्ताः सार्धद्विचत्वारिंशत् ४२ १/२ त्रैराशिकेनैवेत्यादिना इहोक्तं गणितकर्म सर्वं त्रैराशिकेन व्याप्तमिति प्रदर्शयति तर्हि किमर्थं बहुभिराचार्यैः तत्र इष्टबहुकर्म उक्तमित्याशङ्क्याह- (१४६) यत्किञ्चिदिति अभीष्टगणितफलप्राप्तेः बीजभूते तत्र शास्त्रे । अथवा अत्र सामान्यगणिते बीजगणिताख्ये वर्गमूले च गुणहारविधिना भागविधिना वा इष्टकर्मादिविधिना वा यत् स्वल्पमपि गण्यते तत्सर्वं त्रैराशिकमेव । त्रैराशिकरहितं न किञ्चिद्विद्यते । किन्तु सूक्ष्ममतिभिरेव हि त्रैराशिक भेदोविगन्तुं शक्यते। यत एवं ततः पूर्वैः बहुविधैः अस्मादादिजडधीबुद्धिप्रवृद्ध्यै त्रैराशिक भेदानुगमनेन प्रकीर्णादिकं भेदं कृत्वा एतत् गणितशास्त्रं बहुधा रचितम् ।
+।। इति परमेश्वरकृते लीलावतीव्याख्याने छायाव्यवहारः समाप्तः
+561
+560
+अथ कुट्टाकाराख्यगणिते करणसूत्रम्- (१४७) भाज्यो हार इति ।। अयं राशि:
+562
+केनचिद्राशिना गुणित: पुनरनेन राशिना युतः पुनरनेन राशिना विभक्तश्च निश्शेषो भवति। स
+गुणकारः क इति पृष्टे तदानयनाय यद्गणितकर्म तत् कुट्टकमित्युच्यते। तत्र गुण्यराशिर्भाज्य
+A omits the verse and reads सौम्येति
+559
+560
+C त्रैराशिकभेदारगमनेन
+561
+562
+B
+गणितः
+B & C omits समाप्तः ; A इति छायाव्यवहारः
+104
+
+563
+इत्युच्यते। स हि विभज्यते । येन राशिना युतः स राशिः क्षेप इत्युच्यते । भाज्यो हार : क्षेपक इत्येते त्रयो राशयः केनाप्येकेनैव राशिना पूर्वमेवापवर्त्याः विभक्तव्या इत्यर्थः । यदि तथाविधं हरणं संभवति कुट्टकार्थमिति अपवर्त्तितैः भाज्यहारकर्मक्षेपैः कुट्टकर्म कार्यमित्यर्थः । येन छिन्नाविति।। येन राशिना भाज्यहारौ विभक्तौ तेन राशिना क्षेपराशिविभक्तव्यः। न चेत् तदुद्दिष्टं दृष्टमिति वाच्यम्। परस्परमितिराश्योरेकेनैकं विभज्य तच्छेषेनापरं विभजेत् । पुनरप्येवमेकशेषान्तं कृते यच्छिष्यते तत्तयोराश्योरपवर्तनं हारको भवति । तेन हतौ तौ राशी निश्शेषौ भवत इत्यर्थः । एवं कृतयोः राश्योः यदपवर्तनं हारकाख्यं भवति, तेन हतौ तौ राशी दृढसंज्ञितौ भवतः। (१४८) मिथो भजेदिति । दृढयोर्भाज्यहारयोरेकेनापरं विभज्य तच्छेषेणापरं च विभजेत् । एवं पुनः पुनः कुर्यात् यावद्विभक्ते शेषयोरेकत्र रूपं दृश्यते तावत् परस्परं विभजेत् । तत्तत् फलं क्रमेणाधो अधो विन्यसेत्। फलपङ्क्तेरधः क्षेप शिश्चापवर्त्तितं विन्यस्य तस्याधः शून्यं च विन्यसेत्। एवं सर्वत्र
+564
+शून्यान्तफलपङ्क्ती भवति। क्षेपस्योपान्तिमत्वापादनाय शून्यविन्यासः क्रियते । पुनस्तस्यां वल्यामुपान्तिमैनं स्वोर्द्धशतं निहत्य तस्मिन्नतिमतुल्यां (?) सङ्ख्यां प्रक्षिपेत्। पुनस्तदन्तिमं बहिः त्यजेत् । पुनस्तेनान्तिमेन व्यवहारो नास्तीत्यर्थः ।
+पुनरपि शिष्टानां स्थानानामुपान्तिमेन स्वोर्धन्निहत्य तस्मिन्नन्त्यतुल्यां सङ्ख्यां प्रक्षिप्यान्तं बहिस्त्यजेत्। यावत् कृते राशियुग्मं भवति तावदेवं कुर्यात् । तत्र तयोरुपरिस्थितं राशि दृढभाज्येन विभज्य शिष्टं गृह्णीयात् । तत्फलं भवति । भाज्यात् हारेण जातं फलमित्यर्थः । अपरमधस्थितं राशि दृढहारेण विभज्य शिष्टं गृह्णीयात् । स गुणकारो भवति । यत्र हारात् भाज्यो अधिको भवति तत्रैवं ऊद्धवों विभज्य येन दृढेन तष्टः फलं गुणः स्यात् । अपरो हरेण इत्ययं विधिर्भवति। न तु सर्वत्र । यत्र भाज्यात् हारो अधिको भवति, तत्र ऊर्वराशीर्हारेण हर्त्तव्यः। तत्र शिष्टं गुणो भवति । अधस्थितो भाज्येन हर्त्तव्यः । तत्र शिष्टं फलं भवति । हारादुत्पन्नफलस्थानगतो राशिर्गुणकारः । तस्मिन् हारको मण्डलं भवति । मण्डलशोधनार्थं हारेण ह्रियते। भाज्यात् उत्पन्नफलस्थानगतो राशिः फलं भवति । तस्मिन् भाज्यो मण्डलं भवति ।
+563
+564
+B omits
+C शून्यान्तफलवल्ली
+105
+
+मण्डलशोधनार्थं भाज्येन ह्रियते इत्यवगन्तव्यम्।
+तष्ट इति भक्तः कार्यः । एवं
+तदैवाश्रयदासमस्ता (?) इति ।
+।
+अथ अन्योन्यहारेण जाता लब्धयः फलराशयो यदा समा भवन्ति, तदैव अयं विधिः । यदा अत्र लब्धयो विषमा स्युः तदा यथागतं फलराशि गुणराशिञ्च स्वतक्षणात् स्वात् स्वात् हारकात् भाज्याख्यद्धाराख्याच्च विशोध्य शिष्टौ लब्धिगुणौ परिकल्पयेत् । एतदुक्तं भवति। यदा हारशेषे रूपं दृश्यते तदा यथाप्राप्तमेव लब्धिगुणौ भवतः । यदा पुनर्भाज्यशेषे रूपं दृश्यते तदा यथाप्राप्तौ लब्धिगुणी स्वहारात्संशोध्य शेषौ लब्धिगुणौ भवत इति । अत्र भाज्यस्य महत्वमङ्गीकृत्य समविषमवशात् गुणलब्धी विधीयेते । भाज्यस्य अल्पत्वे तु समविषमव्यत्यासेन गुणलब्धी भवतः । एतयोः स्वतक्षणमिष्टगुणं क्षेप इति न्यायात् लब्धिगुणयोः स्वं स्वं हारमिष्टघ्नं प्रक्षिप्य जातौ वा लब्धिगुणौ भवतः । भवति कुट्टविधिरिति ।। अथवा क्षेपं भाज्यं चापवर्त्य ताभ्यामपवर्तिताभ्यां अनपवर्तितेन हारेण च कुट्टविधिर्भवति । तैः पूर्ववत् परस्परहरणेन वल्लीस्थापनादि कृत्वा गुणवल्ली साधयेत् । तत्र गुणः स्फुटो भवति । वल्लिस्त्वस्फुटा। अतो गुणकारगुणितात् गुण्यात् हारेण लब्धमत्र लब्धिर्भवति।
+अथवा येन भाज्यो अपवर्तितस्तेन गुणिता लब्धिः स्फुटा भवति । अस्य अनपवर्तितभाज्यो हारः। वा गुण इति । तत्र लब्धो वा गुणो ग्राह्यः । लब्धिस्तु न ग्राह्य इत्यर्थः । अथवा तयोरपवर्तितयोः क्षेपभाजकयोः सतोरनपवर्तिते भाज्ये च सति कुट्टविधिर्भवति । तत्र लब्ध स च गुणो अपवर्तनसगुणः स्फुटो भवति । येन भाजको अपवर्तितः तेन गुणित इत्यर्थः । तत्र अपवर्तितसिद्धं फलं अपवर्तितेन स्वहारेण हियते । तदप्यपवर्तनगुणितञ्चेदमपवर्तितेन ह्रियते । अत्र लब्धिः केवलैव स्फुटा भवति । अथवा भाज्यक्षेपावपवर्त्य पुनस्तदपवर्तितक्षेपं अपवर्तितहारञ्च परस्परं भक्ते शेषेणापवर्त्य तैः कुट्टकर्म कुर्यात् । तत्र भाज्यहारौ सकृदपवर्तितौ क्षेपात् द्विरपवर्तितः गुणस्तु हारक्षेपापवर्तनेन गुणितस्फुटो भवति । यत्र गुणकारगुणितात् भाज्यादिष्टं विशोध्य शेषो हियते तत्र विशेषं प्रदर्शयति- ( १४९) क्षेपजे तक्षणाच्छुद्धे गुणाप्ती
+विशुद्ध इति । शुद्धराशिं क्षेपराशिमिति प्रकल्प्य तेन भाज्यहाराभ्याञ्च पूर्ववत् कुट्टविधिं
+106
+
+565
+कृत्वा गुणलब्धी प्रसाधयेत् । ते गुणलब्धी तक्षणात् स्वात् स्वात् हारकात् विशोध्य शिष्टे विशुद्धिजे गुणलब्धी भवतः । यत्रेष्टं विशोध्य हरणं क्रियते तत्र जाते गुणलब्धी इत्यर्थः । (१५०) गुणलब्ध्योस्समं ग्राह्यमिति गुणलब्ध्योस्तक्षणे हरणे फलं समं ग्राह्यम् । एतदुक्तं भवति। उपान्तिमेन स्वोर्ध्वे हतेत्यादिना सिद्धात् गुणाद्यत्सङ्ख्यागुणितस्वहारकः शोध्यते, लब्धेरपि तत्सङ्ख्यागुणित एव स्वहारः शोध्यः । एवमन्योन्यसमं फलं ग्राह्यमिति । हरतष्टे इति ।। अत्र क्षेपशब्दः क्षेपश्शुद्ध्योः समानवाचकः । अतो धनात्मकं ऋणात्मकञ्च क्षेपो भवति । तत्र धनं क्षेपं हारेण विभज्य शिष्टं क्षेपमिति प्रकल्प्य गुणलब्धी साधयेत् । तत्र लब्धिः क्षेपतक्षणलाभेन
+566
+क्षेपहारेण सिद्धफलेन युताः स्फुटा भवन्ति । यदा क्षेपराशिः ऋणात्मकः तदा तु एवं सिद्धा लब्धिः क्षेपहरणोत्थफलेन वर्जिता स्फुटा भवति । तत्र विशुद्धिन्यायेन गुणलब्धिः साध्य: 567 अत्र स्फुटफलात् क्षेपहरणं विशोध्यते - (१५१) क्षेपाभावेथवा शुद्धे इति । यत्र क्षेपो न विद्यते यत्र वा हारहृतः क्षेपश्शुद्धो भवति तत्र गुणं शून्यो भवति । सति क्षेपे हरहृतं क्षेपं फलं भवति। उदाहरणम् (१५२) येनेति ।। येन गुणिताः पञ्च इति सम्बन्धः । गुणलब्ध्योरिष्टस्वस्वहरः क्षेप्यः । तदुक्तम्- (१५३) इष्टाहृतस्वस्वहरेण युक्ते ते वा भवेतां बहुधा
+—
+568
+-
+।
+569
+अत्रापि
+गुणाप्ती इति । अथ स्थिरकुट्टके सूत्रम् (१५४) क्षेपे तु रूपे इति । सर्वत्र विरूपसङ्ख्यमेव क्षेपं प्रकल्प्य गुणलब्धिं साधयेत् 570 तथा शुद्धिमपि रूपसङ्ख्यामेवं प्रकल्प्य गुणलब्धिं साधयेत्। एवं साधिते गुणकारलब्धी ये ते अभीष्टक्षेपनिघ्ने अभीष्टशुद्धिनिघ्ने वा स्वहराभ्यां भाजकभाज्याभ्यां विभजेत् । तत्र ये शिष्टे अभीष्टक्षेपजे अभीष्टशुद्धिजे वा गुणलब्धी भवतः । तयोरिति क्षेपशुद्ध्योर्विशेषणम् । एतत् त्रैराशिकमेव यद्येकेन क्षेपेणैते गुणलब्धी तदा
+565
+B & C क्षणात्
+566
+B गुणात्मकः
+567
+B & C गुणलब्धी साध्ये
+568
+569
+B & C करणसूत्रम्
+A क्षेप
+570 B प्रसाधयेत्
+107
+
+572
+अभीष्टक्षेपेण के—71 गुणलब्धी इति स्वहारतक्षणमण्डलशोधनार्थमेव अस्य स्थिरकुट्टकस्य ग्रहविषये कुट्टके महानुपयोगः । ग्रहविषये विशेषं प्रदर्शयति- (१५५) कल्प्याथ शुद्धिर्विकलावशेषेति। 573 ग्रहमध्यमानयने 574 भूदिवसैर्हृत्वा विकलायां गृहीतायां यः शिष्यते, सः विकलावशेष इत्युच्यते। यस्मात् तत्परा भवन्ति, सः विकलावशेष इत्यर्थः । एवं कलापशेषाश्च 575 ज्ञेयाः । विकलावशेषं शुद्धिं प्रकल्प्य भाज्यं षष्टिसङ्ख्यं प्रकल्प्य भूदिनानि हारञ्च प्रकल्प्य कुट्टकर्म कृत्वा गुणलब्धी प्रसाधयेत् । तत्र लब्धिर्ग्रहस्य विकला भवन्ति । गुणस्तु लिप्तावशेषं पुनर्लिप्तावशेषं शुद्धिं प्रकल्प्य प्राग्वल्लब्धिगुणी साद्ध्यौ । तत्र लब्धिः कला भवन्ति । गुणो लवाग्रं भागशेष इत्यर्थः । पुनर्भागशेषशुद्धिः त्रिंशत् भाज्यः लब्धिरत्रभागाः गुणो राशिशेषः पुनस्तु राशिशेषशुद्धिर्द्वादशभाज्यः । तत्र लब्धराशयः गुणो भगणशेषं पुनर्भगणशेषशुद्धिः ग्रहस्य भगणो भाज्यः। तत्र लब्धिरतीतभगणाः गुणो अहर्गणः । सर्वत्र भूदिनान्येव हारः। तथापि अधिमासावमाग्रकाभ्यां दिवसारवीन्द्वोरिति अधिमासशेषं शुद्धिं प्रकल्प्य युगाधिमासान् भाज्यं प्रकल्प्य युगरविमासान् हारञ्च प्रकल्प्य कृते कुट्टके लब्धिर्गताधिमासाः भवन्ति । गुणो गतरविमासाः । एवम् अतीतरविमासाः साध्याः । पुनरवशेषशुद्धिः
+युगावमाने भाज्यः ।
+गुणोतीतचान्द्रदिवसाः अष्टमः। तस्मिन्
+युगचारुदिवसः हारः । तत्र कृते कुट्टके लब्धिगतावगानि 576 एवमतीतचान्द्रदिवसाश्च साध्याः । प्रश्नाध्यायो प्रश्नाध्यायो महाभास्करीये ग्रहविषयकुट्टकोदाहरणानि पठितानि । मया प्रश्नाध्याये प्रदर्शित्वादिह न प्रदर्शितमित्यर्थः । (१५६) एको हरश्चेदिति । यत्र एक एव हारः, तथा गुण्यश्च एक एव भवति, गुणकारौ द्वौ तत्र गुणद्वयैक्यं भाज्यं प्रकल्प्य अग्रैक्यं क्षेपयैक्यं शुद्धिद्वयैक्यं वा क्षेपञ्च प्रकल्प्य कृते कुट्टके यो
+571 B & C ते
+572
+B
+सरे
+573
+574
+575
+कुट्टस्य (wrong)
+A कल्प्याथेति
+B ग्रहस्य मध्यमानयने
+B & C कलादिशेषाश्च
+108
+
+गुणो भवति, स गुण्यराशिर्भवति । क्षेपजे तक्षणाच्छुद्ध इति न्याय: अत्रापि कल्प्य
+गुणकाराः बहवः तत्राप्येवं कार्यम् । अस्य ग्रहविषये विशेषात् प्रयोजनं भवति ।
+577
+। यत्र
+अग्रशेषः यत्र
+एक एव गुण्यः गुणौ भिन्नौ द्वौ भवतः, हारको च भिन्नौ द्वौ, अग्रौ भिन्नौ समौ वा भवतः, तत्र साग्रः कुट्टाकारविधिः कार्यः । स इह न प्रदर्शितः । महाभास्करीये प्रदर्शितः ।
+579
+।। इति परमेश्वरकृते 78 लीलवतीव्याख्याने कुट्टकाध्यायः ||
+अथ गणितभागे निर्दिष्टानां अङ्कानां एकद्वित्र्यादिसङ्ख्यानां एकद्वित्र्यादिस्थानगतानां स्थानव्यत्यासेन यावन्तः सङ्ख्याभेदाः भवन्ति तेषां सङ्ख्याभेदानामैक्यञ्च यावत्सङ्ख्यं भवति,
+तेषामानयनाय करणसूत्रम्-
+,
+580
+(१५७) स्थानाङ्कमेकादिचयाङ्कघातः सङ्ख्याविभेदा हि स एव घातः । स्थानाङ्कभक्तोङ्कसमासनिघ्नस्थानेषु युक्तो मितिसंयुतिः स्यात् ।। इति । स्थानाङ्के प्रथमद्वितीयादिस्थानगतानाम् अङ्कानां समीपे एकादिचयाङ्कं विन्यसेत् । एतदुक्तम् भवति - यावन्ति स्थानानि, तावत्सु स्थानेषु क्रमादेकद्वित्र्यादिसङ्ख्यान्यङ्कानि स्थापयेत् । तान्येकाङ्कादिचयाङ्कानि भवन्तीति । अथ तेषामेकादिचयाङ्कानां घातं परस्परवधं कुर्यात्। तेन घातेन तुल्याः सङ्ख्याभेदाः भवन्ति । अथ तमेव घातं अङ्कसमासेन सर्वस्थानगतानामङ्कानामैक्येन निहत्य, स्थानाङ्कः स्थानतुल्यैरङ्गैर्विभजेत् । तत्र या सङ्ख्या लभ्यते, तां सङ्ख्यां प्रथमद्वितीयादिषु स्थानेषु शून्यभूतेषु पृथक् पृथक् संयोजयेत्। एतदुक्तं भवति
+-
+यदि स्थानद्वयं भवति तदा एकस्थाने तां सङ्ख्यां विन्यस्य पुनर्द्दशस्थाने च तामेव सङ्ख्यां
+576
+577
+578
+A omits भवन्ति...लब्धिगतावगानि T कर्त्तव्यः
+B परमेश्वररचिते
+579
+c इति कुट्टकाध्यायः
+580
+A स्थानाङ्क इति
+109
+
+विन्यसेत् । यदि स्थानत्रयं तदा एकस्थाने, दशस्थाने, शतस्थाने च क्रमात् तां सङ्ख्याम्
+विन्यसेत्। एवं यावन्ति स्थानानि, तावत्सु स्थानेषु तां सङ्ख्यां पृथक् पृथक् स्थापयेदिति
+―
+581
+एवं कृते या सङ्ख्या भवति, तत्तुल्या मितिसंयुतिः सङ्ख्याभेदनिष्पन्नानां सङ्ख्यानां संयुतिर्भवति । स्थानान्तरमेकादिचयाङ्कघातमिति वा पाठः । उदाहरणम् (१५८) द्विकाष्टकाभ्यामिति । अत्र प्रथमे द्वे स्थाने । अतः स्थानद्वये एकादिचयाङ्कमेकं द्वयञ्च विन्यस्य तयोर्घातं कुर्यात्। तद्घातमपि द्विसङ्ख्यं भवति । अतोत्र द्वौ सङ्ख्याभेदौ । यथा एकस्थाने द्वयं, दशस्थाने अष्टकञ्चेत्येकम् । पुनरेकस्थाने अष्टकं दशस्थाने द्वयमित्यपरः ।
+।
+अथ तमेव घातं द्विसङ्ख्यमेकसमासेन द्विकाष्टकयोर्योगेन दशसङ्ख्येन निहत्य स्थानाङ्केन स्थानसङ्ख्ययाऽ82 द्वितुल्यया विभजेत् । तत्र लब्धं दशसङ्ख्यं स्थानद्वये एकस्थाने दशस्थाने च क्रमाद्विन्यसेत् । तथाकृते दशोत्तरशतं भवति । तावत्य इह सङ्ख्याभेदयोगे सङ्ख्या स्युः । यथा द्विकाष्टकाभ्यां द्व्यशीतिः अष्टकद्विकाभ्यां अष्टाविंशतिः तद्योगे दशोत्तरशतमिति संयुतिः सङ्ख्यासंयुतिः। एवं सर्वत्र सङ्ख्याभेदाः तत्संयुतिश्च साध्याः।
+अथ द्वितीये स्थानानि त्रीणि । अथ एकादिचयानां एकद्वित्रिसङ्ख्यानां समासेन विंशतिसङ्ख्येन निहत्य स्थानाकैस्त्रिसङ्ख्यैर्विभज्य लब्धं चत्वारिंशत्सङ्ख्यं स्थानत्रये एकदशशतसंज्ञिते क्रमाद्विन्यसेत् । तथाकृते चत्वारि सहस्राणि चत्वारि शतानि चत्वारिंशच्च भवन्ति। सङ्ख्याभेदानां योगे तावत्यः सङ्ख्याः स्युः । अथ तृतीये स्थानान्यष्टौ एकादिनवादीनामष्टानां घातः एकादिचयाङ्कघातः स शून्याक्षिरामखाब्धितुल्यः । द्व्यादीनां नवान्तानां योगो अङ्कसमासः । सङ्ख्यायुतिस्तु खरसाग्नीषुसप्ताङ्कगोनवाङ्काग्निषड्जिनाः (२४६३९९९९७५३६०) इति । उदाहरणम् (१५९) पाशाङ्कुशेति। अत्र प्रथमस्थानानि दशमूर्त्तिभेदाः खेशून्याष्टवसुनिरसवह्नयः प्रथमे द्वितीये तु चतुर्विंशतिसम्मिताः । प्रथमे
+581
+582
+B & C संस्थापयेदिति
+B omits द्विसङ्ख्यमेकसमासेन...स्थानसङ्ख्यया
+110
+
+३६२८८०० द्वितीये २४ यत्र द्वित्र्यादिस्थानेष्वङ्कास्तुल्या भवन्ति, तत्र विशेषं प्रदर्शयति -
+(१६०)
+यावत्स्थानेषु तुल्याङ्कास्तद्भवैस्तु पृथक्कृतैः।
+प्राग्भेदा विहृता भेदास्तत्सङ्खैक्यञ्च पूर्ववत् ।।
+-
+केषुचित् स्थानेष्वङ्कानां तुल्यत्वेपि प्राग्वत् सङ्ख्याभेदानानीय एकत्र विन्यसेत् । पुनर्यावत्सु स्थानेष्वङ्कानां परस्परतुल्यत्वं, तावन्ति स्थानानि प्रकल्प्य तेषु सङ्ख्याभेदान् पृथगानीय तैः पृथगानीतान् सङ्ख्याभेदान् विभजेत् । तत्र लब्धाः सर्वे स्थाननिष्पन्नाः सङ्ख्याभेदाः भवन्ति। यदा तुल्याङ्काः बहुविधा भवन्ति, तदा तैस्तैतुल्याङ्कस्थानै:583 सङ्ख्याभेदान् पृथक् पृथगानीय तेषां संवर्गेण प्रागानीताः सङ्ख्याभेदाः हर्त्तव्याः । सङ्ख्यैक्यन्तु पूर्ववत् कल्प्यम्। सङ्ख्याभेदेभ्यो अङ्कसमासनिहतेभ्यः स्थानसङ्ख्यया लब्धं पृथक् पृथक् सर्वेषु स्थानेषु निक्षिप्तं सङ्ख्यैक्यं भवतीत्यर्थः। उदाहरणम् - (१६१) द्विद्वेति । प्रथमे अङ्कस्थितिः २२ अत्र प्राग्वत् सङ्ख्याभेदाश्चतुर्विंशतिः। द्वाभ्यां द्वाभ्यां तुल्याङ्काभ्यां निष्पन्नौ सङ्ख्याभेदौ द्वौ । तथापराभ्यां तुल्याङ्काभ्याञ्च दौ। तयोर्घातञ्चतुसङ्ख्यम् । तेन विहताः प्राग्भेदाः षड् भवन्ति । अतोत्र षड्सङ्ख्याभेदाः। पुनस्तेभ्यः षट्कसमासे षड्भिन्निहतेभ्यः स्थानैश्चतुसङ्ख्यैर्लब्धं नवसङ्ख्यं भवति। तत् स्थानचतुष्के विन्यस्तं नवाङ्करन्ध्रगोतुल्यं भवति । तदत्र सङ्खैक्यम्। पुनर्द्वितीये अङ्कस्थितिः ४८५५५ अत्र प्राग्वत्सङ्ख्याभेदा विंशत्यधिकं शतं तेभ्यः तुल्याङ्कस्थानैः षड्भिः निष्पन्नेन षट्सङ्ख्येन सङ्ख्याभेदेन लब्धं विंशतिः । अतोत्र विंशतिसङ्ख्याभेदाः सङ्ख्यैक्यन्तु वस्वष्टरन्ध्रगोरन्ध्ररुद्राः सङ्ख्यायुतिस्त्विह
+३३३८८
+वेदाङ्कपञ्चाङ्कवियुक्तिविशारदोसीति वा पाठश्चेत्, प्रथमोदिते स्थानश्चचतुष्के द्वितीयोदिते स्थानपञ्चके च या युक्तिविशेषस्तुल्याङ्कसंभवसूत्रविशारदोसीति योज्यम्।
+(१६२)
+अथ अनियताङ्कुरतुल्यैर्निष्पन्नसङ्ख्याभेदे करणसूत्रम्- स्थानाङ्कमेकापचितानि तेषां घातैः समाकैस्तु मितिप्रभेदाः इति । । यावन्ति स्थानानि,
+583
+A omits स्थानै:
+111
+
+तावत्सु स्थानेष्वैकैकापचितान्यङ्कानि नवाष्टसप्तादीनि विन्यस्य तेषां घातं कुर्यात् । तत्घातसमैरङ्कः सङ्ख्याभेदाः वाच्याः । तद्घातसमाः सङ्ख्याभेदा इत्यर्थः । अतुल्याङ्कजाता एते भेदा इति वेद्यम्। उदाहरणम्- (१६३) स्थानषट्कस्थितैः 584। अन्योन्यं परिवर्त्तनेन संभूताः सङ्ख्याभेदाः कति इति योज्यम् । अत्र स्थानानि षट् । अतो नवादीनां चतुरन्तानां घातेन समाः सङ्ख्याभेदाः भवन्ति। ते व्योमाष्टककृतशून्यरसमिता: (६०४५०) स्युः । यदि स्थानानि नव भवन्ति, तत्र स्थानाष्टकसमा एव सङ्ख्याभेदाः । ततोधिकं न स्थानानामसमसङ्ख्यत्वनियमात्। (१६४)
+निरेकमकैक्यमिदं निरेकं स्थानान्तमेकापचितं विभक्तम् । रूपादिभिस्सन्निहितैः समाः स्युः
+सङ्ख्याविभेदा नियतेङ्कयोगे ||
+585
+संभवति ।
+यत्र अङ्कसङ्ख्या नियमिता तत्र नियतेङ्कयोगे अङ्कयोगं निरेकं कृत्वा तमेकत्र विन्यस्य पुनस्तमेव राशिं पुनरप्येकहीनं कृत्वा अन्यत्र विन्यसेत् । पुनरप्यैकैकहीनं क्रमेण विन्यसेत् । एकहीनानि स्थानानि यावन्ति तावत्सु स्थानेष्वेकैकावचितमेवं विन्यस्य पुनस्तान् एकद्वित्र्यादिभिर्विभजेत्। प्रथमराशिमेकेन, द्वितीयं द्वाभ्यां तृतीयं त्रिभिरित्यादि । एवं विभक्तानां राशीनां परस्परवधो यः तेन समाः सङ्ख्याभेदा भवन्ति । एवं नियतेङ्कयोगे सङ्ख्याभेदा साध्याः। उदाहरणम् - (१६५) पञ्चस्थानेति' (१६५) पञ्चस्थानेति 586। शरनन्दसङ्ख्याभेदाः अत्र अङ्कयोगः १३ एतदङ्कैक्यं
+588
+587
+निरेकं १२ निरेकस्थानानि ४ तावत्सु एकापचितं व्यस्तं १२, ११, १०६
+584
+A स्थानेति
+585
+A omits
+586
+B & C पञ्चपञ्चस्थानेति
+587
+588
+C omits
+B & C एकाङ्कैक्यम्
+112
+
+रूपदिर्भिभक्तः । तेषां घातः ४३५ एते सङ्ख्याभेदाः
+589
+। अत्र विशेषं शास्त्रस्य संक्षिप्तत्वञ्च
+प्रदर्शयति ।
+भेदान्वितस्थानकसङ्ख्या न जाते
+ऊनेयोगे कथितं तु वेद्यम् ।
+संक्षिप्तमुक्तं पृथुकार्यबीजं
+विद्वज्जनेष्टं गणितार्णवस्य ।। (प.६४) इति
+590
+अङ्कयोगे जाते अङ्कानां सङ्ख्यानियमे जाते यत्कथितं गणितं तत् भेदान्वितस्थानकसङ्ख्यया जातं नेति वेद्यम् । परस्परं समैर्जातं नेत्यर्थः । समैरसमैर्जातं अत्रोक्तं 591
+(१६६)
+सक्षिप्तमिति । गणितार्णवस्य पृथुकार्यबीजमंत्र संक्षिप्तमुक्तं विद्वज्जनेष्टमिति हेतुः ।
+न गुणो न हरो न कृति घनः पृथुलस्तथापि दुष्टानाम् । गर्वितगणकानां स्याच्चेतोवश्यं न वै चकास्त्यस्मिन् ।।
+अस्मिन् शास्त्रे पृथुलो गुणो गुणकारो न स्यात् । पृथुलो हारकत्वं न स्यात् । महती गतिश्च न स्यात्। महान् घनश्च न स्यात् । तथापि दुष्टानां गणकानाञ्चेतस्मिन् गुणहारादीनां
+592
+पृथुत्वाभावेपि अस्मिन् शास्त्रे 93 प्रवेशः न स्यादित्यर्थः । अथ उपसंहरति। (१६७)
+589
+590
+591
+592
+येषां तु जातिगुणवर्गविभूषिताङ्गी शुद्धाखिलव्यवहतिः खलु कण्ठसक्ता ।
+A omits अत्र सङ्ख्याभेदाः
+...
+।
+KK reads नवान्वितस्थानकसङ्ख्यकाया for भेदान्वितस्थानकसङ्ख्या न जाते ; A adds अत्र जातेयोगे यावन्तः संख्याभेदा भवन्ति, एकद्वित्र्याद्यतुल्यसंख्याकल्पनयाङ्कयोगेन तावन्तस्संख्याभेदा भवन्तीत्यर्थः । तावन्ति स्थानानि अत्र ग्राह्याणि । तत् ऊनसंख्येषु स्थानेष्वत्रोक्तम्। न संपदतीत्यर्थः ।
+A omits अङ्कयोगे... अत्रोक्तम्
+Comits अस्मिन् ... चेतस्मिन् ।
+593
+C adds दुष्टगणकानाम्
+113
+
+लीलावतीह सरसोक्तिमुदाहरन्ती
+तेषां सदैव सुखसम्पदुपैति वृद्धिम् ।। इति
+जातिर्गुणश्चवर्गश्च जातिगुणवर्गाः । अथवा योषिज्जातैर्गुणसमूहो जातिगुणवर्गः । ।
+श्रीमद्द्रुद्रस्य शिष्येण लीलावत्याः कृतं594 मया। परमेश्वरनाम्नैवं व्याख्यानं 595 हरये नमः । । ( प. ६५)
+596
+इति श्रीलीलावतीव्याख्यानं समाप्तम्
+।। शुभं भूयात् 597
+||
+594
+B & C कृता 595 B & C व्याख्या
+596
+Comits इति श्री
+597
+C adds सूर्याय नमः श्रीगुरवे नमः शुभमस्तु श्रियै नमः
+114
+
+APPENDICES
+
+APPENDIX
+I
+VERSES OF LĪĀVATĪ CITED BY
+PRATĪKA IN PCL
+(१) प्रीतिं भक्तजनस्य यो जनयते विघ्नं विनिघ्नन् स्मृतः
+(२) वराटकानां दशकद्वयं यत् सा काकिणी
+(३) तुल्या यवाभ्यां कथितात्र गुञ्जा
+(४) दशार्द्धगुञ्ज प्रवदन्ति माषं
+(५) यवोदरैरङ्गुलमष्टसङ्ख्यैः
+(६) हस्तोन्मितैः विस्तृतिदैर्घ्यपिण्डैः
+(७) धान्यादिकं यद् घनहस्तमानं
+(८) एकदशशतसहस्रायुतलक्षप्रयुतकोटयः क्रमशः
+(९) कार्यः क्रमादुत्क्रमतोथवाङ्कयोगो
+(१०) अये बाले लीलावति मतिमत
+(११) गुण्यान्त्यमङ्कं गुणकेन
+(१२) बाले बालकुरङ्गलोलनयने
+(१३) भाज्याद्धरः शुद्ध्यति यद्गुणः (१४) समद्विघातः कृतिरुच्यतेथ (१५) त्यक्त्वान्त्याद्विषमात् कृतिं (१६) समत्रिघातश्च घनः प्रदिष्टः
+(१७) खण्डाभ्यां वा हतो राशिस्त्रिघ्नः (१८) आद्यं घनस्थानमथाघने द्वे (१९) अन्योन्यहाराभिहतौ हरांशी
+(२०) लवा लवघ्नाश्च हरा हरघ्ना (२१) द्रम्मार्धत्रिलवद्वयस्य सुमते (२२) छेदघ्नरूपेषु लवा धनर्णमेकस्य
+(२३) तळस्थहारेण हरं निहन्यात्
+(२४) सांघ्रिद्वयं त्रयं व्यंघ्रि कीदृक् ब्रूहि सवर्णितम्
+(२५) अङ्घ्रिः स्वत्र्यंशयुक्तः स निजदलयुतः कीदृशो कीदृशौ वा
+115
+29
+30
+30
+30
+30
+30
+30
+30
+31
+31
+31
+32
+33
+34
+34
+35
+36
+37
+43
+44
+≈ 3 2 2 6 8 5 = 3 ‡ ‡
+41
+44
+44
+45
+45
+
+(२६) योगान्तरं तुल्यहरांशकानां (२७) अंशाहतिश्छेदवधेन भक्ता (२८) छेदं लवं च परिवर्त्य हरस्य शेषः
+(२९) वर्गे कृतिर्घनविधौ च घनो विधेय
+(३०) योगे खं क्षेपसमं वर्गादौ खं खभाजितो राशि:
+(३१) शून्ये गुणके जाते खं हारश्चेत्
+(२२) छेदं गुणं गुणं छेदं वर्गं मूलं पदं कृतिम्
+(३३) अथ स्वांशाधिकोने तु
+(३४) उद्देशकालापवदिष्टराशिः
+(३५) पञ्चघ्नः स्वत्रिभागोनो
+(३६) अमलकमलराशेस्त्र्यंशपञ्चांशषष्ठैः
+(३७) पञ्चांशोलिकुलात्कदम्बमगमत् त्र्यंशं शिलीन्ध्रं तयोः
+(३८) योगोन्तरेणोनयुतोर्धितस्तौ
+(३९) वर्गान्तरं राशिवियोगभक्तं
+(४०) इष्टकृतिरष्टगुणिता
+(४१) राश्योर्ययोर्वियोगोष्टौ तत्कृत्योश्च चतुः शती
+(४२) इष्टस्य वर्गवर्गो घनश्च
+(४३) गुणघ्नमूलोनयुतस्य
+(४४) यदा लवैश्चोनयुतस्स राशिरेकेन
+(४५) बाले मरालकुलमूलदलानि सप्त
+(४६) प्रमाणमिच्छा च समानजातिः
+45
+45
+45
+46
+46
+46
+7 7 7 9 9 9 F
+47
+47
+48
+48
+५ ू पुढे ठे ठे ळे ळे ळे ळे ळे
+57
+50
+55
+56
+49
+49
+49
+48
+48
+48
+58
+(४७) कुंकुमस्य सदलं पलद्वयं
+58
+(४८) द्रम्मद्वयेन साष्टांशा
+59
+(४९) जीवानां वयसो मौल्ये तौल्ये वर्णस्य हेमनि
+59
+(५०) प्राप्नोति चेत् षोडशवत्सरा स्त्री
+59
+(५१) पञ्चसप्तनवराशिकादिकेन्योन्यपक्षनयनं फलच्छिदाम्
+59
+(५२) मासे शतस्य यदि पञ्चकलान्तरं स्यात्
+60
+(५३) सत्र्यंशमासेन शतस्य चेत्स्यात्कलान्तरं
+61
+(५४) विस्तारे त्रिकराः कराष्टकमिता
+(५५) पिण्डे येर्कमिताङ्गुलाः किल
+61
+61
+116
+
+(५६) तथैव भाण्डप्रतिभाण्डकेपि
+(५७) द्रम्मेण लभ्यत
+(५८) प्रमाणकालेन हतं प्रमाणं
+(५९) पञ्चकेन शतेनाब्दे मूलं स्वं सकलान्तरम्
+63
+(६०) अथ प्रमाणैर्गुणिताः
+63
+33333
+52
+62
+62
+(६१) यत्पञ्चकत्रिकचतुष्क फलेन दत्तं
+64
+(६२) प्रक्षेपका मिश्रहता विभक्ताः
+65
+(६३) भजेच्छिदोंशैरथ तैर्विमिश्र
+65
+(६४) पण्यैः स्वमूल्यानि भजेत्स्वभागः
+(६५) सार्द्धं तण्डुलमानकत्रयमिह द्रम्मेण मानाष्टकं
+(६६) नरघ्नदानोनितरत्नशेषैरिष्टे हते स्युः
+65
+66
+(६७) सुवर्णवर्णाहतियोगराशौ
+(६८) विश्वार्करुद्रदशसुवर्णमाषा
+(६९) स्वर्णेक्यनिघ्नाद् युतिजातवर्णात्
+(७०) स्वर्णैक्यनिघ्नो युतिजातवर्णः
+(७१) साध्येनोनोनल्पवर्णो विधेयः
+666
+66
+67
+67
+69
+70
+70
+72
+73
+73
+74
+74
+74
+88552 22 2 2 2 Z
+(७२) एकाद्येकोत्तरा अङ्का व्यस्ता भाज्या: पृथक्स्थितैः (७३) सैकपदघ्नपदार्धमथैकाद्यङ्कयुतिः
+71
+72
+(७४) द्विघ्नपदं कुयुतं त्रिविभक्तं
+(७५) तेषामेव च वर्गैक्यं घनैक्यं च वद द्रुतम्
+(७६) व्येकपदघ्नचयो मुखयुक्
+(७७) गच्छहृते गणिते वदनं स्यात्
+(७८) गच्छहृतं धनमादिविहीनं
+(७९) प्रथममगमदह्नां योजने यो जनेश:
+(८०) श्रेढीफलादुत्तरलोचनघ्नात्
+(८१) विषमे गच्छे व्येके गुणक:
+(८२) पादाक्षरमितगच्छे गुणवर्गफलं चये द्विगुणे
+(८३) इष्टाद् बाहोर्यः स्यात्
+(८४) तत्कृत्योर्योगपदं कर्णो
+(८५) राश्योरन्तरवर्गेण द्विघ्ने घाते युते तयोः
+117
+74
+75
+76
+LEE
+76
+77
+77
+
+∞ ∞ ∞ ∞ ∞ ∞ ∞ 2 2 2 2 J
+81
+81
+80
+80
+80
+80
+79
+80
+79
+79
+78
+77
+(८६) वर्गेण महतेष्टेन
+(८७) इष्टो भुजोस्माद् द्विगुणेष्टनिघ्नात्
+(८८) इष्टेन निघ्नात् द्विगुणाच्च कर्णात्
+(८९) इष्टवर्गेण सैकेन द्विघ्नः
+(९०) इष्टयोराहतिर्द्विघ्नी
+(९१) वंशाग्रमूलाग्रभूमिवर्गो
+(९२) स्तंभस्य वर्गोहिबिलान्तरेण
+(९३) अस्ति स्तम्भतले बिलं तदुपरि क्रीडाशिखण्डी स्थितः
+(९४) भुजाद्वर्गिताद् कोटिकर्णान्तराप्तं
+(९५) सखे पद्मतन्मज्जनस्थानमध्यं
+(९६) द्विनिघ्नतालोच्छ्रितिसंयुतं यत्
+(९७) वृक्षाद्धतशतोच्छ्रयाच्छतयुगे वाप्यां कपिः
+(९८) कर्णस्य वर्गात् द्विगुणाद् विशोध्यो
+(९९) अन्योन्यमूलाग्रगसूत्रयोगाद्
+(१००) स्वल्पा तदितरभुजयुतिः (१०१) त्रिभुजे भुजयोर्योगस्तदन्तरगुणो
+(१०२) दशसप्तदशप्रमौ भुजौ
+(१०३) सर्वदोर्युतिदलं चतुः स्थितं
+(१०४) भूमिश्चतुर्दशमिता मुखमङ्कसङ्ख्यं
+(१०५) चतुर्भुजस्यानियतौ हि कर्णी
+(१०६) लम्बयोः कर्णयोर्नैकं समुद्दिश्यापरान् कथम्
+(१०७) इष्टा श्रुतिस्तुल्यचतुर्भुजस्य
+(१०८) क्षेत्रस्य यस्य वदनं
+(१०९) पञ्चाशदेकसहितं वदनं यदीयं
+(११०) चतुर्भुजान्तस्त्रिभुजेवलम्बः
+(१११) इष्टोत्र कर्णः प्रथमः प्रकल्प्यः
+(११२) आबाधयोरेककुप्स्थयोर्यत् (९१३) कर्णाश्रितस्वल्पभुजैक्यमुव (११४) त्र्यश्रे तु कर्णोभयतः स्थिते ये
+(११५) समानलम्बस्य चतुर्भुजस्य
+118
+88
+88
+88
+89
+∞ ∞ ∞ ∞ ∞ ∞ ∞ : & ∞ ∞ ∞ ∞ ∞
+87
+87
+86
+87
+86
+86
+86
+85
+85
+84
+84
+83
+83
+82
+
+(११६) द्विपञ्चाशन्मितव्येकचत्वारिंशन्मितौ भुजौ
+(११७) कर्णाश्रितभुजघातैक्यमुभयथान्योन्यभाजितं गुणयेत् (११८) अभीष्टजात्यद्वयबाहुकोटयः
+(११९) क्षेत्रे यत्र शतत्रयं
+(१२०) लम्बस्तदाश्रितबाह्वोर्मंध्यं
+(१२१) लम्बौ भूघ्नौ निजनिजपीठविभक्तौ च वंशौ स्तः
+(१२२) लम्बहृतो निजसन्धिः परालम्बगुणः समाह्वयो ज्ञेयः
+(१२३) व्यासे भनन्दाग्निहते विभक्ते
+(१२४) वृत्तक्षेत्रे परिधिगुणितव्यासपादः फलं तत्
+(१२५) व्यासस्य वर्गे भनवाग्निनिघ्ने
+(१२६) ज्याव्यासयोगान्तरघातमूलं
+(१२७) द्विद्व्यङ्काग्निनभश्चन्द्रैस्त्रिबाष्टयुगाष्टाभिः
+(१२८) चापोननिघ्नपरिधिः
+(१२९) अष्टदशांशेन समानवृत्तम्
+(१३०) व्यासोब्धिघातयुतमौर्विकया विभक्ती (१३१) गणयत्वा विस्तारं बहुषु स्थानेषु (१३२) मुखजतलजद्युतिजक्षेत्रफलैक्यं
+(१३३) मुखे दशद्वादशहस्ततुल्ये
+(१३४) उच्छ्रयेण गुणितं चितेरपि
+(१३५) अष्टादशाङ्गुलं विस्तारो (१३६) पिण्डयोगदलमग्रमूलयोः (१३७) छिद्यते तु यदि तिर्यगुक्तवत्
+(१३८) अनणुषु दशमांशो
+89
+89
+90
+91
+92
+92
+92
+94
+94
+88 2 2 2 2 2 2
+99
+(१३९) द्विवेदसत्रिभागैकनिघ्नात्तु परिधेः
+99
+(१४०) छाययोः कर्णयोरन्तरे ये तयोः
+(१४१) नन्दचन्द्रैर्मितं छाययोरन्तरं
+(१४२) शङ्कुः प्रदीपतलशङ्कुतलान्तरघ्नः
+(१४३) छायोद्धृते तु नरदीपतलान्तरघ्ने
+(१४४) विशङ्कुदीपोच्छ्रयसगुणा भा
+(१४५) छायाग्रयोरन्तरसगुणा भा
+102
+103
+2 2 2 2 2 5 5 8 8 8 8 8 8 8 8 8 8
+100
+100
+102
+102
+119
+
+(१४६) यत्किञ्चिद् गुणभागहारविधिना (१४७) भाज्यो हारः क्षेपकश्चापवर्त्यः
+104
+104
+(१४८) मिथो भजेत् तौ दृढभाज्यहारौ
+105
+(१४९) क्षेपजे तक्षणाच्छुद्धे
+106
+(१५०) गुणलब्ध्योस्समं ग्राह्यं
+107
+(१५१) क्षेपाभावेथवा यत्र क्षेपः
+107
+(१५२) येन पञ्च गुणिताः खसंयुताः
+107
+(१५३) इष्टाहृतस्वस्वहरेण युक्ते
+107
+(१५४) क्षेपे तु रूपे यदि वा विशुद्धौ
+107
+(१५५) कल्प्याथ शुद्धिर्विकलावशेषः
+108
+(१५६) एको हरश्चेद् गुणको विभिन्नौ
+108
+(१५७) स्थानाङ्कं एकादिचयाङ्कघातः
+109
+(१५८) द्विकाष्टकाभ्यां त्रिनवाष्टकैर्वा
+110
+(१५९) पाशाङ्कुशाहिडमरुककपालशूलैः (१६०) यावत् स्थानेषु
+(१६१) द्विद्व्येकभूपरिमितैः कति सङ्ख्यकाः
+110
+111
+111
+(१६२) स्थानाङ्कमेकापचितानि तेषां
+111
+(१६३) स्थानषट्कस्थितैरङ्करन्योन्यं खेन वर्जितैः
+112
+(१६४) निरेकमकैक्यमिदं
+112
+(१६५) पञ्चस्थानस्थितैरकैर्यत्र योगस्त्रयोदश
+112
+(१६६) न गुणो न हरो न कृतिर्न घनः
+113
+(१६७) येषां तु जातिगुणवर्गविभूषिताङ्गी
+113
+120
+
+APPENDIX – II
+VERSES FOUND AS PART OF THE
+COMMENTARY
+१.
+लक्ष्मीभूविलसत्पार्श्वः सहस्रादित्यसन्निभः ।
+ज्ञानमूर्तिरनाद्यन्तो हरिरिष्टं ददातु नः ।।
+प्रणमामि गणेशानं पार्वत्या अङ्कसंस्थितम् । वागीश्वरमपि तथा श्रीरुद्रं च कृपानिधिम्।।
+३.
+निळायाः सागरस्यापि तीरस्थः परमेश्वरः ।
+४.
+६.
+७.
+व्याख्यानमस्मै बालाय लीलावत्याः करोम्यहम्।।
+विभक्तव्यौ मिथो राशी यावदेकत्र शून्यता । तत्र शेषेण तौ हार्यौ निरग्रौ भवतस्तदा ।
+संस्थाप्यादिघनं दक्षे तद्वर्गं त्र्यन्त्यसङ्गुणम् । वामेथान्त्यकृतिं त्रिघ्नीमादिघ्नीं च तदा न्यसेत् ।।
+अकेष्विष्टकृतिः स्थाप्या शेषश्चात्रेष्टसंगुणः । शेषघ्नमिष्टञ्चाङ्कान्तमेवं स्यात् कर्म तत् कृतिः । ।
+विभजेद्राशिमशेषं किञ्चित् क्षिप्त्वा विशोध्य वेष्टेन । इष्टफलवर्गयोः स्यादाहतिरुदिता कृतिः ।।
+८.
+९.
+१०.
+इष्टवर्गकृतेः शुद्धौ तन्मूलं द्विगुणं हरः ।
+शेषे हारकृते त्यक्ते फलवर्गे च हारके ।।
+फलं द्विघ्नं क्षिपेत् भूयोप्येवं हारदलं पदम् ।
+न्यसेदभीष्टस्य घनं त्रिनिघ्नं शेषाहतामिष्टकृतिं तथैव। इष्टत्रिनिघ्नमपि शेषजां कृतिं भूयस्तदा कान्तमिदं घनं स्यात् ।।
+स्यादिष्टघनं फलं स्यात्
+इष्टं फलस्याथ कृतिस्त्रिनिघ्ना । हारो हरेणाथ हृतेत्र शेषे
+121
+
+लब्धस्य वर्गं त्रिगुणं फलेन ।।
+११.
+पूर्वेण निघ्नञ्च विशोद्ध्य शेषान्
+१२.
+त्यक्त्वा घनं लब्धभवञ्च लब्धम् । क्षिपेत्फलाख्येथ फलस्य वर्ग-
+स्त्रिनिघ्नो हरस्तेन च कर्म भूयः ।।
+भवेदिहाकाङ्कमथोन्त्यदृष्टः
+फलाख्यराशिर्घनमूलमुक्तम् ।
+एवं घनञ्चापि घनस्य मूलं
+विजानता कार्यमभीष्टपूर्वम् ।।
+१३.
+राशिष्वल्पेन विभजेत् अन्यानेवं पुनः पुनः । शिष्टेन सर्वे ते हार्या एवं बह्वपवर्तनम् ।।
+१४.
+१५.
+आहतिभिन्नहाराणां समहारोंशकः पुनः । समहारहता स्वस्वदृक्च्छेदभक्तास्तदंशकाः ।। मिथोपवर्त्तितच्छेदसंवर्गो वा समाहतः ।
+इष्टस्य वर्गाद्रहिताच्च कृत्या
+कस्यापि तस्याश्च पदेन लब्धम्।
+अर्धीकृतं स्यात् प्रथमोन्य इष्टो वर्गद्वयैक्यञ्च पददं ययोः स्यात्।।
+१६.
+आद्योभीष्टस्य कृती रूपोना चेष्टसङ्ख्यया रहिता । द्वाभ्यां भक्तान्य: च स्यात् वर्गेक्यमूलदं यथेष्टोनम् ।।
+१७.
+१८.
+इष्टस्य वर्गस्संक्षेपः चतुर्भक्तो विरूपकः
+एकोन्य इष्टः पददं वर्गैक्यं यत्र सेष्टकम्।।
+यदाह शुद्धिरूपस्य प्रोक्तमार्गद्वये तदा।
+रूपस्थाने कृतिः काचित् ग्राह्याहारे पदद्वयम् ।।
+१९.
+प्रथमेथ द्वितीयेपि हारस्थाने पदद्वयम्।
+रूपस्थाने मूलार्धमेतत्सिद्धम् हि धीमताम् ।।
+२०.
+वर्गैक्यं केवलं यद्वाप्येकं वाष्टयुतं ययोः।
+पददं ब्रूहि सुमते राशिद्वन्द्वत्रयं पृथक्।।
+122
+
+२१.
+एकोभीष्टस्य कृतिः सहिता कृत्या च कस्यचिद्दलिता। तद्पदभक्तोन्यः स्यात्
+पददं वर्गान्तरं ययोर्भवति ।।
+२२.
+वर्गान्तरं मूलदं स्यात्
+२३.
+२४.
+२५.
+२६.
+ययोस्तत्रावष्टसम्मितः ।
+एकः स्यादितरो वाच्यः
+सुमते स त्रिधाथवा।।
+इष्ट एकः सरूपास्य कृतिः शुद्धियुतार्द्धिता । अन्योन्तरं ययोः कृत्योरिष्टोनं पददं भवेत् ।।
+इष्टस्य वर्गात् क्षेपोनात् चतुर्भक्तस्सरूपकः एकोन्यः इष्टः पददो वर्गभेदोत्र सेष्टकः ।।
+वर्गिता द्विगुणा सैका व्येका वा मूलदा कति राशयोधसहस्त्रान्नो गणक ब्रूहि वेत्सि चेत् ।।
+आद्यो युग्ममितः षड्घ्नः स द्वितीयः स षङ्गुणः। पूर्वेणोन: तृतीयः स्यात् परे चैवं सरूपके।।
+२७.
+आद्य एकस्स पञ्चघ्नो द्वितीयः सशराहतः । पूर्वैश्चतुर्नैर्युक्तः स्यात् परैश्चेवं विरूपके।।
+२८.
+यस्तु स्वांशाहतो राशिः स्वकृत्यावयवः स हि। गुणद्वये घनस्यांशो वर्गवर्गस्य तत्र ये।।
+२९.
+यैरंशैर्विहृतो राशिः तैरंशैर्विहृतस्तथा ।
+वर्गो घनश्च वर्गस्य वर्गो वा सा क्रमात् भवेत्।।
+३०.
+पादघ्नोष्टिर्द्दलाङ्घ्रिभ्यां अष्टिस्रोः क्रमाद्धतोः ।
+पादार्धपादैर्वस्वर्काः राशीस्तान् क्रमशो वद ।।
+३१.
+योगोन्तरो ययोः सैके मूलदेशाहतिर्ययोः । निरेको वाजिना वर्गभेदौ राशी च तत्र कौ।।
+३२.
+इष्टयोर्वर्ग भेदार्द्धं एकोन्यस्तेन संयुतः । व्येको वर्गो घोर्यद्वा महतस्तेन वर्जितः ।।
+123
+
+३३.
+३४.
+३५.
+३६.
+योगान्तरे ययोर्राश्योरेकयुक्ते तु मूलदे । यत्रैकः शोध्यते तत्र वर्ग: सैकोन्यदुक्तवत् ।।
+व्येकाद्वर्गात् कस्यचिदिष्टाप्तं यत् भवेद्यदीष्टञ्च। तत् संवर्गस्सैकः पददो व्येको विधौ कृतिस्सैका ।।
+वर्गान्तरादभीष्टादिष्टेनाप्तस्य तस्य चेष्टस्य। योगान्तरेद्धि स्तः तत्कृतिभेदस्य मूलराशी द्वौ ।।
+गुणघ्नमूलेनयुते चतुर्ध्ना दृश्यात् गुणस्यास्य युताच्च कृत्या। पदं गुणेनापि युतं विहीनं दलीकृतं वर्गितमिष्टराशिः । ।
+३७.
+३८.
+३९.
+४०.
+गुणवर्गात् साष्टांशाद्विघ्ना दृश्येन नवहतेन युतात्। मूलं सार्धगुणान्वितहीनं त्रिहतञ्च वर्गीकृतं वेष्टम् ।।
+राश्योर्वधोदृश्यराशिर्यदा स्याद् रायभेदो मूलगुणस्तदानीम् । महत्प्रसिद्ध्यै स भवेद्दृणाख्यो लघुप्रसिद्ध्यै तु भवेद्धनाख्यः । ।
+अभीष्टसंज्ञस्य पदं त्विहैक स एव चान्यपि परो न युक्तः । भागो लघो स्यान्महतोपि वा चेत् भागस्तदा मूलगुणांश एव ।।
+राश्योर्वधो ययोस्त्रिशंत् मितः स्यादन्तरस्तयोः। एक स्यात् सुमते वाच्यौ राशी तौ सत्वरं त्वया।।
+४१.
+राश्योर्घातो लघुत्र्यंशरहितः शक्रसम्मितः ।
+द्विसङ्ख्यस्यात्तयोर्भेदो वद तौ वत्स वेत्सि चेत् । ।
+वर्णैक्ये वर्णभेदघ्नं स्वं स्वं माषं विभाजितं । माषैक्येन अन्यवर्णे तत् स्वर्णं वर्णः सयोगजः ।।
+४२.
+४३.
+४४.
+कार्यं द्वयोर्द्वयोरेवं स्वंहीने ह्यधिके हि ऋणम्।।
+दशार्कवर्णयोर्माषाः अष्टौ वेदाः सुवर्णयोः । तद्युतौ वद को वर्णः क्षिप्रं मे गणकोत्तम ।।
+अशुद्धशुद्धयोर्भेदो वर्णयोर्यस्तु तद्भृतः। शुद्धवर्णो हरस्तेन हतो माषस्त्वशुद्धजः।।
+124
+
+४५.
+अशुद्धमाषे शोद्ध्यः स्यात् शुद्धे माषो भवेद्धि सः । अशुद्ध शुद्धयोर्भेदो माषयोर्यस्तु तद्धृतः ।।
+४६.
+शुद्धमाषो हरस्तेन हतो वर्णस्त्वशुद्धजः ।
+४७.
+४८.
+४९.
+अशुद्धवर्णे क्षेप्यः स्याद्वर्णशुद्धस्य स स्मृतः ।।
+कृतिमाषार्कवर्णस्य हेम्नश्शुद्ध्याक्षभूमितः । वर्णो माषं तथा वर्णः वदास्मिन्निष्टमाषके।।
+चयनिहतं पदं चयार्द्धहीनं मुखसहितं यदस्य वर्गितं तु । चयदलवक्त्रभेदवर्गहीनं द्विचयहृतं भवेद्धनं तु सर्वम् ।।
+श्रेढीफलादुत्तरनागनिघ्नाच्चयादियुग्मान्तरवर्गयुक्तात् ।
+मूलं द्विवक्त्रोनमथोयुतञ्च चयेन गच्छं द्विचयोद्धृतं स्यात् ।।
+५०.
+द्विगुणपदस्य तु वर्ग: पदशेषकृतिहतो हरस्तेन ।
+अभिहत्य मूलशेषं मूलावयवो यथाविधि ग्राह्यः।।
+५१.
+द्विगुणितमूलं कृत्याशेषयुतं हरो भवेत्तेनाभिहत्य मूलशेषम् ।
+मूलावयवो यथाविधि ग्राह्यः ।।
+५२.
+प्रोड्डीय गच्छतो मार्गयुततालोच्छ्रया हतं
+तदूनं कोटिकर्णैक्यं दलितं कोटिका भवेत्
+५३.
+सरस्तालान्तरकृतेः कर्णकोट्यन्तरं भवेत् ।
+उड्डीयमानं तत्कोटितालयोरन्तरं भवेत् ।।
+तदूनयुक्ते भुजकोटियोगदले भवेतां भुजकोटिमाने ।।
+कर्णस्य वर्गाद्दलिताद्विशोद्ध्य दो:कोटियोगार्द्धकृतिं पदं यत् ।
+५४.
+स्वल्पेन वंशेन हृतोन्यवंशो गुणो हरो रूपयुतः स एव।
+वंशो लघु हारभक्तो गुणघ्नो लम्बो भवेद्वंशयोः सूत्रयोगात् ।।
+५५.
+लम्बघ्न एकांशबाधाभेदो लम्बैक्यभाजितः ।
+निजस्तल्लम्बवर्गैक्यपदयोर्वा युतिः श्रुतिः ।।
+५६.
+दोष्णां द्वयोर्द्वयोग्र्घातयुतीनां तिसृणां वधे एकैकोनैतरत्रैक्यचतुष्कवधभाजिते ।
+125
+
+५७.
+५८.
+५९.
+६०.
+६१.
+६२.
+६३.
+६४.
+लब्धमूलेन यद्वृत्तं विष्कम्भार्द्धेन निर्मितं सर्वं चतुर्भुजक्षेत्रं तस्मिन्नैवावतिष्ठते।।
+नातिसूक्ष्माश्चापजीवा इति ज्ञेया इहोदिताः। तेषां सूक्ष्मतराणां तु सिद्धिर्भवति युक्तितः ।।
+महतो भास्करीयस्य व्याख्यायां लिखितं मया । सिद्धान्तदीपिकाख्यायां कर्मज्याधनुरादिकम् ।।
+छायाभेदकृतिस्तु या श्रवणयोर्भेदस्य वर्गोनितात् शङ्क्वोरिष्टविनिघ्नयोर्युतिकृतिं भक्त्वा तथाप्ते कृतिम् । क्षिप्त्वेष्टस्य पदं हतं श्रवणयोर्भेदेन वा छाययोः इष्टाप्तं प्रभयोर्युतिश्रवणयोर्वा स्यात् यथोक्तक्रमात् ।।
+कर्णैक्यस्य कृतिः प्रभैक्यकृतिहीना या तया भाजिता शङ्क्वोरिष्टविनिघ्नयोर्युतिकृतिं त्यक्त्वेष्टवर्गात् पदम् । इष्टेनैव विभाजितं श्रवणयोर्योगेन वा छाययोः निघ्नञ्च प्रभयोर्भवेच्छ्रवणयोः वात्र क्रमादन्तरम्।।
+श्रुत्योर्योगकृतिं प्रभाविवरकृत्योर्भेदभक्तां कृतिं शङ्क्वोरिष्टविनिघ्नयोर्युतिभवात्त्यक्त्वेष्टवर्गात् पदम्। श्रुत्योर्योगहतं प्रभान्तरहतं वेष्टेन भक्तं क्रमात् योगस्तु प्रभयोर्भवेच्छ्रवणयोर्भेदोथवा स्वेष्टयोः । ।
+छायैक्यश्रुतिभेदयोः कृतिविशेषाप्तैः कृतेन्द्रैर्युतात् पादाज्जातपदं तु यद्विनिहतं श्रुत्योर्विशेषेण तत् । छायैक्येन च तत् पृथग्विनिहतं द्वाभ्यां पुनश्चाहतं छायाभेदमितिस्तथा श्रवणयोर्योगश्च सञ्जायते।।
+सौम्ये भागे निलाया वृषभवनमिति क्षेत्रमब्धेस्तटे स्यात् तस्मिन्नेकत्र पोतध्वजशिरसि लसद्दीपजाता प्रभातु । शङ्कोरर्काङ्गुलस्य द्विशरनगसमा सप्तहस्तान्तरे स्या- द्यूना सा पोतमार्गप्रमितिमिह सखे ब्रूहि दीपोन्नतिञ्च।।
+भेदान्वितस्थानकसङ्ख्या न जाते ऊनेङ्कयोगे कथितं तु वेद्यम्। संक्षिप्तमुक्तं पृथुकार्यबीजं विद्वज्जनेष्टं गणितार्णवस्य ।।
+६५
+श्रीमद्रुद्रस्य शिष्येण लीलावत्याः कृतं मया।
+परमेश्वरनाम्नैवं व्याख्यानं हरये नमः ।।
+126
+
+२.
+३.
+४.
+५.
+६.
+७.
+८.
+९.
+APPENDIX - III
+LĪLĀVATĪ VERSES AS FOUND IN
+MANUSCRIPT D
+प्रीतिं भक्तजनस्य यो जनयते विघ्नं विनिघ्नन् स्मृतस्तं वृन्दारकवृन्दवन्दितपदं नत्वा मतङ्गाननम् । पाटी सदगणितस्य वच्मि चतुरप्रीतिप्रदां प्रस्फुटाम् संक्षिप्ताक्षरकोमलामलपदैर्लालित्यलीलावतीम् ।।
+वराटकानां दशकद्वयं यत् सा काकिणी ताश्च पणश्चतस्रः । ते षोडश द्रम्म इहावगम्यो द्रम्मैश्च तैः षोडशभिश्च निष्कः ।।
+तुल्या यवाभ्यां कथितात्र गुञ्जा वल्लस्त्रिगुञ्जो धरणं च तेऽष्टौ । गद्याणकस्तद्द्वयमिन्द्रतुल्यैः वल्लैस्तथैको धटकः प्रदिष्टः ।।
+दशार्धगुञ्जं प्रवदन्ति माषं माषाह्वयैः षोडशभिश्च कर्षः । कर्षैश्चतुर्भिश्च पलं तुला तच्छतं सुवर्णस्य सुवर्णसंज्ञम् ।।
+लीलागलमिलल्लोलकालव्यालविलासिने । गणेशाय नमो नीलकमलामलकान्तये ।।
+कार्यः क्रमादुत्क्रमतोऽथवाङ्कयोर्योगो यथास्थानकमन्तरस्तथा ।
+अये बाले लीलावति मतिमति ब्रूहि सहितान्
+द्विपञ्चद्वात्रिंशत् त्रिनवतिशताष्टादश दश । शतोपेतानेतानयुतवियुतांश्चापि वद मे
+यदि व्यक्ते युक्तिव्यवकलनमार्गेऽसि कुशला ।।
+गुण्यान्त्यमङ्कं गुणकेन हन्यादुत्सार्य तेनैवमुपान्तिमादीन् । गुण्यस्त्वधोऽधो गुणखण्डतुल्यस्तैः खण्डकैः सङ्गुणितो युतो वा
+भक्तो गुणः शुध्यति येन तेन लब्ध्या च गुण्यो गुणितः फलं वा । द्विधा भवेद् रूपविभाग एवं स्थानैः पृथग् वा गुणितः समेतः ।।
+इष्टोनयुक्तेन गुणेन निघ्नोऽभीष्टघ्नगुण्यान्वितवर्जितो वा ।।
+बाले वालकुरङ्गलोलनयने लीलावति प्रोच्यतां
+||
+127
+
+१०.
+११.
+१२.
+१३.
+१४.
+पञ्चत्र्येकमिता दिवाकरगुणा अङ्का भवेयुः कति । रूपस्थानविभागखण्डगुणने कल्यासि कल्याणिनि ! छिन्नास्तेन गुणेन ते च गुणनाज्जाताः कति स्युर्वद ।।
+समद्विघातः कृतिरुच्यतेऽथ स्थाप्योऽन्त्यवर्गो द्विगुणोऽन्त्यनिघ्नाः । स्वस्वोपरिष्टाच्च तथाऽपरेङ्कास्त्यक्त्वान्त्यमुत्सार्य पुनश्च राशिम्।।
+खण्डद्वयस्याभिहतिर्द्विनिघ्नी तत्खण्डवर्गैक्ययुता कृतिर्वा । इष्टोनयुग्राशिवधः कृतिः स्यादिष्टस्य वर्गेण समन्वितो वा ।।
+सखे नवानां च चतुर्दशानां ब्रूहि त्रिहीनस्य शतत्रयस्य । पञ्चोत्तरस्याप्ययुतस्य वर्गं जानासि चेद् वर्गविधानमार्गम् ।।
+त्यक्त्वान्त्याद् विषमात् कृतिं द्विगुणयेन्मूलं समे तद्भृते त्यक्त्वा लब्धकृतिं तदादिविषमाल्लब्धं द्विनिघ्नं न्यसेत् । पङ्क्त्यां पङ्क्तिहृते समेन्त्यविषमात् त्यक्त्वाप्तवर्गं फलं पङ्क्त्यां तद्द्विगुणं न्यसेदिति मुहुः पङ्क्तेर्दलं स्यात् पदम् ।।
+मूलं चतुर्णां च सखे नवानां पूर्वं कृतानां च तथा कृतीनाम् । पृथक् पृथग् ब्रूहि यदि त्वदीया बुद्धिर्विवृद्धिं गणितेत्र याता ।।
+समत्रिघातश्च घनः प्रदिष्टः स्थाप्यो घनोन्त्यस्य ततोन्त्यवर्गः । आदित्रिनिघ्नस्तत आदिवर्गस्त्र्यन्त्याहतोथादिघनश्च सर्वे ।।
+स्थानान्तरत्वेन युता घनः स्यात् प्रकल्प्य तत्खण्डयुगं ततोन्यम् । एवं मुहुर्वर्गघनप्रसिद्ध्यै आद्यङ्कतो वा विधिरेष कार्यः ।।
+१५.
+खण्डाभ्यां वा हतो राशिस्त्रिघ्नः खण्डघनैक्ययुक् । इष्टोनयुग्राशिवधो वेष्टवर्गघ्नराशियुक्।।
+१६.
+नवघनं त्रिघनस्य घनं तथा कथय पञ्चघनस्य घनं च मे । घनपदं च ततोपि घनात् सखे यदि घनेस्ति घना भवतो मतिः ।।
+१७.
+आद्यं घनस्थानमथाघने द्वे पुनस्तथान्त्याद् घनतो विशोध्य ।
+घनं पृथक्स्थं पदमस्य कृत्या त्रिघ्न्या तदाद्यं विभजेत् फलं तु ।।
+पङ्क्त्यां न्यसेत् तत्कृतिमन्त्यनिघ्नीं त्रिघ्नीं त्यजेत् तत्प्रथमात् फलस्य । घनं तदाद्याद् घनमूलमेवं पङ्क्तिर्भवेदेवमतः पुनश्च ।।
+128
+
+१८.
+१९.
+२०.
+२१.
+२२.
+२३.
+२४.
+२५.
+२६.
+अन्योन्यहाराभिहतौ हरांशौ राश्योः समच्छेदविधानमेवम्। यद्वा हरौ द्वावपवर्त्य हत्वा गुण्यौ हरौ तौ अपवर्त्तनेन ।।
+लवा लवघ्नाशच हरा हरघ्ना भागप्रभागेषु सवर्णनं स्यात् ।।
+द्रम्मार्धत्रिलवद्वयस्य सुमते पादत्रयं यद् भवेत् तत्पञ्चांशकषोडशांशचरणं सम्प्रार्थितेनार्थिने । दत्तो येन वराटकाः कति कदर्येणार्पितास्तेन मे ब्रूहि त्वं यदि वेत्सि वत्स गणिते जातिं प्रभागाभिधाम् ।।
+छेदघ्नरूपेषु लवा धनर्णमेकस्य भागा अधिकोनकाश्चेत् ' स्वांशाधिकोनः खलु यत्र तत्र भागानुबन्धे च लवापवाहे ।। तळस्थहारेण हरं निहन्यात् स्वांशाधिकोनेन तु तेन भागान् ।।
+साङ्घ्रिद्वयं त्रयं व्यङ्घ्रि कीदृक् ब्रूहि सवर्णितम् । जानास्यंशानुबन्धं चेत् तथा भागापवाहनम् ।।
+अङ्घ्रिः स्वत्र्यंशयुक्तः स निजदलयुतः कीदृशः कीदृशौ वा त्र्यंशौ स्वाष्टांशहीनौ तदनु विरहितौ तौ त्रिभिः सप्तभागैः । अर्धं स्वाष्टांशहीनं नवभिरथ युतं सप्तमांशैः स्वकीयैः कीदृक् स्याद् ब्रूहि वेत्सि त्वमिह यदि सर्वेशानुबन्धापवाहौ ।।
+योगान्तरं तुल्यहरांशकानाम् । कल्प्यो हरो रूपमहारराशेः ।।
+पञ्चांशपादत्रिलवार्थषष्ठानेकीकृतान् ब्रूहि सखे त्वमाशु । एभिश्च भागैरथ वर्जितानां किं स्यात् त्रयाणां कथयाशु शेषम् ।।
+अंशाहतिश्छेदवधेन भक्ता लब्धं विभिन्ने गुणने फलं स्यात् ।।
+२७.
+छेदं लवं परिवर्त्य हरस्य शेषः कार्योथ भागहरणे गुणनाविधिश्च ।।
+२८.
+वर्गे कृतिर्घनविधौ च घनौ विधेयो हारांशयोरथ पदे च पदं विधेयम् ।।
+२९.
+सत्र्यंशरूपद्वितयेन पञ्च त्र्यंशेन षष्ठं वद मे विभज्य ।।
+वर्गे कृतिर्घनविधौ च घनो विधेयो हारांशयोरथ पदे च पदं विधेयम् ।।
+129
+
+३०.
+३१.
+सार्धत्रयाणां कथयाशु वर्गं वर्गात् ततो वर्गपदं च मित्र ।
+घनं च मूलं च घनात् ततोपि जानासि चेद् वर्गघनौ विभिन्ने ।।
+योगे खं क्षेपसमं वर्गादौ खं खभाजितो राशिः ।
+खहरः स्यात् खगुणः खं स्वगुणश्चिन्त्यश्च शेषविधौ ।।
+शून्ये गुणके जाते खं हारश्चेत् पुनस्तदा राशिः ।
+अविकृत एव ज्ञेयस्तथैव खेनोनितश्च युतः ।।
+३२.
+३३.
+३४.
+३५.
+३६.
+खं पञ्चयुग् भवति किं वद खस्य वर्गं मूलं घनं घनपदं खगुणाश्च पञ्च । खेनोद्धता दश च कः खगुणो निजार्धयुक्तस्त्रिभिश्च गुणित: खहतस्त्रिषष्टि: ।।
+छेदं गुणं गुणं छेदं वर्गं मूलं पदं कृतिम् ।
+ऋणं स्वं स्वमृणं कुर्याद् दृश्ये राशिप्रसिद्धये ।।
+अथ स्वांशाधिकोने तू लवाढ्योने हरो हरः । अंशस्त्वविकृतस्तत्र विलोमे शेषमुक्तवत् ।।
+यस्त्रिघ्नस्त्रिभिरन्वितः स्वचरणैर्भक्तस्ततः सप्तभिः स्वत्र्यंशेन विवर्जितः स्वगुणितो हीनो द्विपञ्चाशता । तन्मूलेष्टयुते हते च दशभिर्जातं द्वयं ब्रूहि तं
+राशिं वेत्सि हि चञ्चलाक्षि विमलां वामे विलोमक्रियाम् ।।
+उद्देशकालापवदिष्टराशिः क्षुण्णो हृतोंशै रहितो तो वा इष्टाहतं दृष्टमनेन भक्तं राशिर्भवेत् प्रोक्तमितीष्टकर्म ।।
+पञ्चघ्नः स्वत्रिभागोनो दशभक्तः समन्वितः । राशित्र्यंशार्धपादैः स्यात् को राशिर्व्यूनसप्ततिः ।।
+अमलकमलराशेस्त्र्यंशपञ्चांशषष्ठैस्त्रिनयनहरिसूर्या येन तुर्येण चार्या ।
+गुरुपदमथ षड्भिः पूजितं शेषपमैः सकलकमलसङ्ख्यां क्षिप्रमाख्याहि तस्य ।।
+३७. योगोन्तरेणोनयुतोर्धितस्तौ राशी स्मृतौ सङ्क्रमणाख्यमेतत् ।।
+३८.
+३९.
+ययोर्योगः शतं सैकं वियोग: पञ्चविंशतिः ।
+तौ राशी वद मे वत्स ! वेत्सि सङ्क्रमणं यदि ।।
+वर्गान्तरं राशिवियोगभक्तं योगस्ततः प्रोक्तवदेव राशी ।।
+130
+
+४०.
+४१.
+४२.
+४३.
+४४.
+४५.
+४६.
+४७.
+४८.
+इष्टकृतिरष्टगुणिता व्येका दलिता विभाजितेष्टेन । एकः स्यादस्य कृतिर्दलिता सैकापरो राशिः ।।
+रूपं द्विगुणेष्टहतं सेष्टं प्रथमोथवापरो रूपम् । कृतियुतिवियुती व्येको वर्गों स्यातां ययो राश्योः ।।
+राश्योर्ययोः कृतिवियोगयुती निरेके मूलप्रदे प्रवद तौ मम मित्र यत्र । क्लिश्यन्ति बीजगणिते पटवोपि मूढाः षोढोक्तगूढगणितं परिभावयन्तः ।।
+गुणघ्नमूलानयुतस्य राशेर्दृष्टस्य युक्तस्य गुणार्धकृत्या ।
+मूलं गुणार्धेन युतं विहीनं वर्गीकृतं प्रष्टुरभीष्टराशि: ।।
+यदा लवैश्चोनयुतस्स राशिरेकेन भागोनयुतेन भक्त्वा । दृश्यं तथा मूलगुणं च ताभ्यां साध्यस्ततः प्रोक्तवदेव राशिः ।।
+बाले मरालकुलमूलदलानि सप्त तीरे विलासभरमन्थरगाण्यपश्यम् । कुर्वच्च केलिकलहं कलहंसयुग्मं शेषं जले वद मरालकुलप्रमाणम् ।।
+स्वपदैर्नवभिर्युक्तं स्याच्चत्वारिंशताधिकम् ।
+शतं द्वादशकं विद्वन् कस्स राशिर्निगद्यताम् ।।
+यातं हंसकुलस्य मूलदशकं मेघागमे मानसं प्रोड्डीय स्थलपद्मिनीवनमगादष्टांशकोम्भस्तटात् । बाले बालमृणालशलिनि जले केलीक्रियालालसं दृष्टं हंसयुगत्रयं च सकलां यूथस्य सङ्ख्यां वद ।।
+प्रमाणमिच्छा च समानजाती आद्यन्तयोः स्तः फलमन्यजातिः । मध्ये तदिच्छाहतमादिहत् स्यादिच्छाफलं व्यस्तविधिर्विलोमे ।।
+कुङ्कुमस्य सदलं पलद्वयं निष्कसप्तमलवैस्त्रिभिर्यदि । प्राप्यते सपदि मे वणिग्वर ब्रूहि निष्कनवकेन तत्कियत् ।।
+४९.
+जीवानां वयसो मौल्ये तौल्ये वर्णस्य हेमनि ।
+भागहारे च राशीनां व्यस्तत्रैराशिकं भवेत् ।।
+५०.
+प्राप्नोति चेत् षोडशवत्सरा स्त्री द्वाविंशतं विंशतिवत्सरा किम् । द्विधूर्वहो निष्कचतुष्कमुक्षा प्राप्नोति धूः षट्कवहस्तदा किम् ।।
+131
+
+५१.
+पञ्चसप्तनवराशिकादिकेन्योन्यपक्षनयनं फलच्छिदाम् ।
+संविधाय बहुराशिजे वधे स्वल्पराशिवधभाजिते फलम् ।।
+५२.
+मासे शतस्य यदि पञ्चकलान्तरं स्याद् वर्षे गते भवति किं वद षोडशानाम् । कालं तथा कथय मूलकलान्तराभ्यां मूलं धनं गणक कालफले विदित्वा ।।
+132
+
+BIBLIOGRAPHY
+
+Manuscripts
+SELECT BIBLIOGRAPHY
+A
+No. 12796 Adyar Manuscript Library, Madras.
+B
+C
+Ꭰ
+T
+Books
+1.
+2.
+3.
+4.
+No. 10614 B Kerala University Oriental Manuscript Library, Thiruvananthapuram.
+No. 498B Thunchan Manuscript repository, Dept. of Malayalam, University of Calicut.
+No. 887B Thunchan Manuscript repository, Dept. of Malayalam, University of Calicut.
+No. R5160 Madras Government Oriental Library, Madras.
+Alphabetical Index of Sanskrit Manuscripts in the Oriental Research Institute and Manuscripts Library, Thiruvananthapuram, Vol.VI, Dr. K. Vijayan (Gen. Ed.), Dr. P. Visalakshy, R. Girija (Ed.), University of Kerala, 1995.
+Contribution of Kerala to Sanskrit Literature, K. Kunjunni Raja, University of Madras, 1958.
+Geometry in Ancient and Medieval India, T.A. Saraswathi Amma, Motilal Banarsidas Private Limited, Delhi, 2007.
+Līlāvati of Bhāskarācārya with Kriyākramakari commentary, K.V.Sarma (Ed.), Vishveshvarananda Vedic Research Institute, Hoshiarpur, 1975.
+133
+
+5.
+6.
+Līlāvati of Bhāskarācārya, K.S.Patwardhan, S.A.Naimpally & S.L. Singh (Trs), Motilal Banarsidas Private Limited, Delhi, 2001.
+New Catalogus Catagorum, (Ed.) K. Kunjunni Raja & N. Veezhinathan, Vol.XI, University of Madras, 1983.
+134
+

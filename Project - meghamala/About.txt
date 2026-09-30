@@ -1,0 +1,130 @@
+Pingree entry for Meghamala
+
+Pingree’s chapters
+१, वातोद्भवलक्षणम्
+२, मेघपटलम्
+३, प्रतिसूर्यफलनिरूपणम्
+४, परिवेशः
+५, जलधारालक्षणम्
+६, निघातलक्षणम्
+७, प्रमाणकोषः(?)
+८, पञ्चमीफलम्
+९, मेघगणितम्
+१०, राहुचारः
+
+मातृकाः -
+1, LDI (LDC) 1883, 18ff. Copied in Sam. 1848= A.D. 1971. With a बालावबोधः
+2, Oxford 1591 (Sansk. c. 113) = Hultzch 319. 31ff. Copied in Sam. 1894 = A.D.1837
+3, Pingree 8. Pp. 32-53. Copied from Tanjore D11359 by N. Ranganatha Shastrin in A.D. 1965
+4, BORI 844 of 1884/87. 12ff, CE 1803
+5, Tanjore D 11359 - Tanjore BL 11053a. Ff. 10v-17v. Grantha.
+6, Meghamala RORI Cat Vol.130 A	- sandtm, 1521, 25620, devanagari, Jodhpur, 5pages
+7, Meghamala RORI Cat Vol.130 B	- sandtm, 1522, 26641, devanagari, Jodhpur, 7pages
+8, Meghamala Manjari, CORI, D13979,
+9, Meghamala Rudrayamalagata, DAV School, CHD, Lahore collection, 1049, Sam. 1902 (शक 1767), 1845 CE
+10. Index 346. Raudri Meghamala, 21f, 12 lines/page; Samvat 1817. Search of Sanskrit MSS in Bombay Presidency, during 1880-81. F B Kielhorn
+11. 
+
+Related works:
+1. मयूरचित्रकम् - uPenn
+2. काश्यपीयकृषिसूक्तिः - published
+3. कृषिपराशरः - 
+4. बृहत्संहिता - 
+5. 
+
+
+HSB version chapters.
+मङ्गलम्
+पार्वत्याः प्रश्नाः
+षण्मासगर्भलक्षणम्
+अर्धकाण्डम्
+गुरुनक्षत्रफलम्
+सहगर्भसमुद्भवाख्याद्यः, तिथिगर्भसमुद्भवम्
+अष्टदिग्वायुलक्षणम्
+मन्त्राः
+
+BORI version chapters.
+मङ्गलम्
+गर्गस्यपीठिका
+पार्वत्याप्रश्नाः
+षण्मासगर्भलक्षणम्
+पार्वत्या प्रश्नः कीदृशेति
+अर्धकाण्डम्
+गुरुनक्षत्रपुलम्
+सद्यगर्भसमुद्भवः
+अष्टदिग्वायुलक्षणम्
+
+मासाः
+चैत्रः - 
+वैशाखः - 
+ज्येष्ठः - 
+आषाढः - 
+श्रावणः - 
+भाद्रपदः - 
+आश्विनः - 
+कार्तिकः - 
+अग्रहायणः, मार्गशीर्षः - 
+पुष्यः - 
+माघः - 
+फाल्गुणः - 
+
+राशयः
+मेषः
+वृषभः
+मिथुनः
+कटकः/कर्कः
+सिंहः
+कन्या
+तुला
+वृश्चिकः
+धनुः
+मकरः
+कुम्भः
+मीना
+
+नक्षत्राः ऋक्षाः
+अश्विनी
+भरणी, याम्या
+कृत्तिका
+शतभिषक् वारुण,
+
+
+Notes:
+
+Lahore - page 2
+
+विद्युत्हीना गर्जंति गर्भाधानं न गृह्यते गर्भहीना न वर्षंति पुरुषहीना यथा स्त्रियः ॥१४, लाहोर॥
+
+55 raining dead birds & animals
+
+वृष्टिवातेन वै तासां पक्षिणां मृत्युदायिका पतन्ति मूषकाः शलभाः उष्णतोयं च वर्षति ॥५५, लाहोर
+
+Total 370 shlokas
+इति गर्गसंहितायां रौद्रीमेघमालायां गर्गसंयोगं समाप्तमिति॥ सं १८६० ॥
+
+“Meghamala, a Sanskrit text written in 800 AD, is recognized as the first authentic script on forecasting and estimation of rainfall, not only in India but also all over the world.”
+
+MULTIVARIATE APPROACH FOR FORECASTING AND ESTIMATION OF RAINFALL IN TELANGANA REGION
+BS KULKARNI - 2004 - krishikosh.egranth.ac.in
+
+… by Kautilya (321- 296 BC), Parashar Samhita (1st centuary AD) and Brihat Samhita
+by Varahmihira (505 – 587 AD). Meghamala, a Sanskrit text written in 800 AD, is
+recognized as the first authentic script on forecasting and estimation …
+  
+[BOOK] Report on the Search for Sanskrit Mss. in the Bombay Presidency, During the Year 1880-81
+F Kielhorn - 1881 - books.google.com
+Page 1. Page 2. Page 3. Page 4. Page 5. Page 6. 4tr Page 7. ortorr of ©obernment. si
+REPORT ON THE SEARCH FOR SANSKRIT MSS. IN THE BOMBAY PRESIDENCY,
+DURING THE YEAR 1880-81. i BT F. KIELHORN, Ph.D., PROFESSOR …
+
+Monsoon rainfall cycles as depicted in ancient Sanskrit texts
+RN Iyengar - Current science, 2009 - JSTOR
+Year to year variation of Indian monsoon rainfall is described qualitatively in some ancient 
+Sanskrit texts. Interestingly, these are cyclic with periods of 3,5,7,18 & 60 years. Time 
+series analysis of actual sea sonal rainfall data shows that at very near the above periods …
+
+Description of rainfall variability in Bṛhat-samhita of Varāha-mihira
+RN Iyengar - Current Science, 2004 - JSTOR
+Brhat-samhita of Varàha-mïhira (5-6th century AD) provides valuable information on the app 
+cient India towards monsoon rainfall, including its measurement and forecasting. In this 
+context, across a description of the expected amount of total seasonal rainfall depending on …
